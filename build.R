@@ -13,33 +13,13 @@ unit_conversions <- get_unit_conversions("config/unit_conversions.csv")
 taxon_list <- read_csv_char("config/taxon_list.csv")
 
 # Build each source
-example_dataset_1_config <- dataset_configure("data/example_dataset_1/metadata.yml", definitions)
-example_dataset_1_raw <- dataset_process("data/example_dataset_1/data.csv", example_dataset_1_config, schema, resource_metadata, unit_conversions)
-example_dataset_1 <- dataset_update_taxonomy(example_dataset_1_raw, taxon_list)
-
-example_dataset_2_config <- dataset_configure("data/example_dataset_2/metadata.yml", definitions)
-example_dataset_2_raw <- dataset_process("data/example_dataset_2/data.csv", example_dataset_2_config, schema, resource_metadata, unit_conversions)
-example_dataset_2 <- dataset_update_taxonomy(example_dataset_2_raw, taxon_list)
-
-tutorial_dataset_1_config <- dataset_configure("data/tutorial_dataset_1/metadata.yml", definitions)
-tutorial_dataset_1_raw <- dataset_process("data/tutorial_dataset_1/data.csv", tutorial_dataset_1_config, schema, resource_metadata, unit_conversions)
-tutorial_dataset_1 <- dataset_update_taxonomy(tutorial_dataset_1_raw, taxon_list)
-
-tutorial_dataset_2_config <- dataset_configure("data/tutorial_dataset_2/metadata.yml", definitions)
-tutorial_dataset_2_raw <- dataset_process("data/tutorial_dataset_2/data.csv", tutorial_dataset_2_config, schema, resource_metadata, unit_conversions)
-tutorial_dataset_2 <- dataset_update_taxonomy(tutorial_dataset_2_raw, taxon_list)
-
-tutorial_dataset_3_config <- dataset_configure("data/tutorial_dataset_3/metadata.yml", definitions)
-tutorial_dataset_3_raw <- dataset_process("data/tutorial_dataset_3/data.csv", tutorial_dataset_3_config, schema, resource_metadata, unit_conversions)
-tutorial_dataset_3 <- dataset_update_taxonomy(tutorial_dataset_3_raw, taxon_list)
+Lai_2020_config <- dataset_configure("data/Lai_2020/metadata.yml", definitions)
+Lai_2020_raw <- dataset_process("data/Lai_2020/data.csv", Lai_2020_config, schema, resource_metadata, unit_conversions)
+Lai_2020 <- dataset_update_taxonomy(Lai_2020_raw, taxon_list)
 
 
-traits.build_database_raw <- build_combine(
-  example_dataset_1,
-  example_dataset_2,
-  tutorial_dataset_1,
-  tutorial_dataset_2,
-  tutorial_dataset_3,
+SGtraits_raw <- austraits::bind_databases(
+  Lai_2020,
   NULL)
 
 # Version information
@@ -47,8 +27,8 @@ version_number <- util_get_version("config/metadata.yml")
 git_SHA <- util_get_SHA()
 
 # Combine all the source into one resource
-traits.build_database <- build_add_version(traits.build_database_raw, version_number, git_SHA)
+SGtraits <- build_add_version(SGtraits_raw, version_number, git_SHA)
 
 # Save to file
 dir.create("export/data/curr", FALSE, TRUE)
-saveRDS(traits.build_database, "export/data/curr/traits.build_database.rds")
+saveRDS(SGtraits, "export/data/curr/SGtraits.rds")
