@@ -1,0 +1,108 @@
+source:
+  primary:
+    key: Lai_2020
+    bibtype: Article
+    year: '2020'
+    author: Hao Ran Lai and Kwek Yan Chong and Alex Thiam Koon Yee and Hugh Tiang
+      Wah Tan and Michiel Van Breugel
+    journal: Journal of Ecology
+    title: Functional traits that moderate tropical tree recruitment during post-windstorm
+      secondary succession
+    volume: '108'
+    number: '4'
+    pages: 1322--1333
+    doi: 10.1111/1365-2745.13347
+    issn: 1365-2745
+    editor: Cynthia Chang
+  secondary:
+    key: Yee_2019
+    bibtype: Article
+    year: '2019'
+    author: Alex T. K. Yee and Hao Ran Lai and Kwek Yan Chong and Louise Neo and Choon
+      Yen Koh and Siu Yueh Tan and Wei Wei Seah and Jolyn W. Loh and Reuben C. J.
+      Lim and Michiel Van Breugel and Hugh T. W. Tan
+    journal: Journal of Vegetation Science
+    title: Short-term responses in a secondary tropical forest after a severe windstorm
+      event
+    volume: '30'
+    number: '4'
+    pages: 720--731
+    doi: 10.1111/jvs.12753
+    issn: 1654-1103
+    editor: Alicia Teresa Rosario Acosta
+contributors:
+  data_collectors:
+  - last_name: Lai
+    given_name: Hao Ran
+    ORCID: 0000-0001-6871-0146
+    affiliation: National University of Singapore
+    additional_role: contact
+  assistants: Germaine Su Yin Tan and Ester J.Y. Suen and Zhongyu Chiam and Pin Jia
+    Chan and Josh J. Ragbir
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: yes
+  custom_R_code: .na
+  collection_date: 2015-05/2017-01
+  taxon_name: OrgName
+  trait_name: Trait
+  value: OrgVal
+  location_name: unknown
+  individual_id: IID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations:
+  Mandai:
+    description: secondary lowland tropical forest
+    latitude (deg): 1.41
+    longitude (deg): 103.79
+contexts: .na
+traits:
+- var_in: SLA
+  unit_in: mm2/mg
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: '1'
+  methods: unknown
+- var_in: LDMC
+  unit_in: mg/mg
+  trait_name: leaf_dry_matter_content
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: '1'
+  methods: unknown
+- var_in: Th
+  unit_in: mm
+  trait_name: leaf_thickness
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: '3'
+  methods: unknown
+- var_in: Area_mm2
+  unit_in: mm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: 1
+  methods: unknown
+- var_in: PL
+  unit_in: mm
+  trait_name: petiole_length
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: unknown
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
