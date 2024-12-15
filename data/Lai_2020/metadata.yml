@@ -10,7 +10,7 @@ source:
       secondary succession
     volume: '108'
     number: '4'
-    pages: 1322--1333
+    pages: 1322–1333
     doi: 10.1111/1365-2745.13347
     issn: 1365-2745
     editor: Cynthia Chang
@@ -26,7 +26,7 @@ source:
       event
     volume: '30'
     number: '4'
-    pages: 720--731
+    pages: 720–731
     doi: 10.1111/jvs.12753
     issn: 1654-1103
     editor: Alicia Teresa Rosario Acosta
@@ -55,28 +55,32 @@ dataset:
   sampling_strategy: unknown
   original_file: unknown
   notes: unknown
-locations:
-  Mandai:
-    description: secondary lowland tropical forest
-    latitude (deg): 1.41
-    longitude (deg): 103.79
+locations: .na
 contexts: .na
 traits:
-- var_in: SLA
-  unit_in: mm2/mg
-  trait_name: leaf_mass_per_area
+- var_in: Area_mm2
+  unit_in: mm2
+  trait_name: leaf_area
   entity_type: individual
-  value_type: raw
+  value_type: mean
   basis_of_value: measurement
-  replicates: '1'
+  replicates: usually 3
   methods: unknown
 - var_in: LDMC
   unit_in: mg/mg
   trait_name: leaf_dry_matter_content
   entity_type: individual
-  value_type: raw
+  value_type: mean
   basis_of_value: measurement
-  replicates: '1'
+  replicates: usually 3
+  methods: unknown
+- var_in: SLA
+  unit_in: mm2/mg
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
   methods: unknown
 - var_in: Th
   unit_in: mm
@@ -84,15 +88,7 @@ traits:
   entity_type: individual
   value_type: mean
   basis_of_value: measurement
-  replicates: '3'
-  methods: unknown
-- var_in: Area_mm2
-  unit_in: mm2
-  trait_name: leaf_area
-  entity_type: individual
-  value_type: raw
-  basis_of_value: measurement
-  replicates: 1
+  replicates: usually 3
   methods: unknown
 - var_in: PL
   unit_in: mm
@@ -100,7 +96,7 @@ traits:
   entity_type: individual
   value_type: mean
   basis_of_value: measurement
-  replicates: unknown
+  replicates: usually 3
   methods: unknown
 substitutions: .na
 taxonomic_updates: .na

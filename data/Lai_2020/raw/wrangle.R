@@ -17,88 +17,91 @@ petiole   <- read_xlsx("data/Lai_2020/raw/DATA_LEAF_new.xlsx", sheet = "Petiole"
 # Tidy --------------------------------------------------------------------
 ## Tidy index df
 index <- 
-  index %>% 
-  mutate(LeafID = str_remove(LeafID, fixed(".0")),
-         `Plant ID` = str_remove(`Plant ID`, fixed(".0")),
-         FullTag = paste(`Plot ID/Location`, `Plant ID`, sep="T")) %>% 
-  filter(`Plant ID`!="Paper 70gsm") %>% 
-  droplevels()
+    index %>% 
+    mutate(LeafID = str_remove(LeafID, fixed(".0")),
+           `Plant ID` = str_remove(`Plant ID`, fixed(".0")),
+           FullTag = paste(`Plot ID/Location`, `Plant ID`, sep="T")) %>% 
+    filter(`Plant ID`!="Paper 70gsm") %>% 
+    droplevels()
 
 ## aggregate multiple scans to the LeafPart level
 area.agg <- 
-  area %>% 
-  mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>% 
-  group_by(LeafID, LeafPart) %>% 
-  summarise(Pixels = sum(`Area (Pixels)`, na.rm = TRUE)) %>% 
-  # summarise() returns NAs as zeroes, must correct back to "NA"
-  ungroup() %>% 
-  mutate(Pixels = ifelse(Pixels == 0, NA, Pixels)) %>% 
-  filter(LeafPart != "")
+    area %>% 
+    mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>% 
+    group_by(LeafID, LeafPart) %>% 
+    summarise(Pixels = sum(`Area (Pixels)`, na.rm = TRUE)) %>% 
+    # summarise() returns NAs as zeroes, must correct back to "NA"
+    ungroup() %>% 
+    mutate(Pixels = ifelse(Pixels == 0, NA, Pixels)) %>% 
+    filter(LeafPart != "")
 
 ## aggregate leaf thickness into mean thickness
 thickness.agg <- 
-  thickness %>% 
-  mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>%
-  group_by(LeafID) %>% 
-  summarise(Th = round(mean(LTh, na.rm = TRUE), 3)) %>% 
-  mutate(LeafPart = "L")
+    thickness %>% 
+    mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>%
+    group_by(LeafID) %>% 
+    summarise(Th = round(mean(LTh, na.rm = TRUE), 3)) %>% 
+    mutate(LeafPart = "L")
 
 ## aggregate weights into total weights
 weight.agg <- 
-  weight %>% 
-  mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>%
-  group_by(LeafID, LeafPart) %>% 
-  summarise_at(vars(WW, DW), sum)
+    weight %>% 
+    mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>%
+    group_by(LeafID, LeafPart) %>% 
+    summarise_at(vars(WW, DW), sum)
 
 ## aggregate multiple petiole measurements into mean per petiole
 petiole.agg <- 
-  petiole %>% 
-  mutate(Label = gsub(".jpg", "", Label)) %>% 
-  left_join(area %>% 
-              select(LeafID, ScanNrFull) %>% 
-              mutate(LeafID = str_remove(LeafID, fixed(".0"))), 
-            by = c("Label" = "ScanNrFull")) %>%
-  group_by(LeafID) %>% 
-  summarise(Length = mean(Length, na.rm = TRUE)) %>% 
-  mutate(Length_mm = Length / 118.110236 * 10) %>% 
-  left_join(weight %>% 
-              mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>% 
-              filter(LeafPart == "P") %>% 
-              group_by(LeafID) %>% 
-              summarise(DW = mean(DW, na.rm = TRUE))) %>% 
-  mutate(SPL = Length_mm / (DW*1000)) %>% 
-  select(LeafID, PL = Length_mm, SPL)
+    petiole %>% 
+    mutate(Label = gsub(".jpg", "", Label)) %>% 
+    left_join(area %>% 
+                  select(LeafID, ScanNrFull) %>% 
+                  mutate(LeafID = str_remove(LeafID, fixed(".0"))), 
+              by = c("Label" = "ScanNrFull")) %>%
+    group_by(LeafID) %>% 
+    summarise(Length = mean(Length, na.rm = TRUE)) %>% 
+    mutate(Length_mm = Length / 118.110236 * 10) %>% 
+    left_join(weight %>% 
+                  mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>% 
+                  filter(LeafPart == "P") %>% 
+                  group_by(LeafID) %>% 
+                  summarise(DW = mean(DW, na.rm = TRUE))) %>% 
+    mutate(SPL = Length_mm / (DW*1000)) %>% 
+    select(LeafID, PL = Length_mm, SPL)
 
 
 # Consolidate -------------------------------------------------------------
 out.FER <- 
-  expand.grid(LeafID = unique(index$LeafID),
-              LeafPart = unique(area.agg$LeafPart)) %>% 
-  left_join(area.agg) %>% 
-  left_join(weight.agg) %>% 
-  left_join(thickness.agg) %>% 
-  left_join(petiole.agg) %>% 
-  # incorporate species names
-  left_join(index %>% select(LeafID, FullTag, CrownPos)) %>% 
-  # remove trailing ".0" from Leaf and Tree IDs
-  # mutate_at(vars(LeafID, FullTag), list(~str_replace(., ".0", ""))) %>% 
-  left_join(species %>% select(FullTag, Species)) %>% 
-  # select LAMINA only
-  filter(LeafPart == "L") %>% 
-  # change area pixel to mm^2
-  mutate(Area_mm2 = Pixels / (118.110236^2) * 100,
-         # SLA: divide area mm^2 by DW mg^-1
-         SLA = Area_mm2 / (DW*1000),
-         LDMC = DW / WW) %>% 
-  select(LeafID, FullTag, CrownPos, Species, Area_mm2, SLA, LDMC, Th, PL, SPL) %>% 
-  # long format
-  gather(Trait, OrgVal, Area_mm2, SLA, LDMC, Th, PL, SPL, na.rm = TRUE) %>% 
-  # standardise long format column names
-  rename(MID = LeafID,
-         IID = FullTag,
-         OrgName = Species) %>% 
-  # assign Dataset2 name
-  mutate(Dataset2 = "SG01_HR")
+    expand.grid(LeafID = unique(index$LeafID),
+                LeafPart = unique(area.agg$LeafPart)) %>% 
+    left_join(area.agg) %>% 
+    left_join(weight.agg) %>% 
+    left_join(thickness.agg) %>% 
+    left_join(petiole.agg) %>% 
+    # incorporate species names
+    left_join(index %>% select(LeafID, FullTag, CrownPos)) %>% 
+    # remove trailing ".0" from Leaf and Tree IDs
+    # mutate_at(vars(LeafID, FullTag), list(~str_replace(., ".0", ""))) %>% 
+    left_join(species %>% select(FullTag, Species)) %>% 
+    # select LAMINA only
+    filter(LeafPart == "L") %>% 
+    # change area pixel to mm^2
+    mutate(Area_mm2 = Pixels / (118.110236^2) * 100,
+           # SLA: divide area mm^2 by DW mg^-1
+           SLA = Area_mm2 / (DW*1000),
+           LDMC = DW / WW) %>% 
+    select(LeafID, FullTag, CrownPos, Species, Area_mm2, SLA, LDMC, Th, PL) %>% 
+    # long format
+    pivot_longer(cols = c(Area_mm2, SLA, LDMC, Th, PL),
+                 names_to = "Trait",
+                 values_to = "OrgVal",
+                 values_drop_na = TRUE) %>% 
+    # standardise long format column names
+    rename(MID = LeafID,
+           IID = FullTag,
+           OrgName = Species) %>% 
+    # assign Dataset2 name
+    mutate(Dataset2 = "SG01_HR")
 
 # export output
 # write.csv(out.FER, "clean/mandai_leaf_FER.csv", row.names = FALSE)
@@ -117,56 +120,59 @@ thickness <- read_excel("data/Lai_2020/raw/DATA_LEAF_PinJia.xlsx", sheet = "Thic
 
 ## aggregate multiple scans to the LeafPart level
 area.agg <- 
-  area %>% 
-  group_by(LeafID, LeafPart) %>% 
-  summarise(Pixels = sum(`Area (Pixels)`, na.rm = TRUE)) %>% 
-  # summarise() returns NAs as zeroes, must correct back to "NA"
-  mutate(Pixels = ifelse(Pixels == 0, NA, Pixels)) %>% 
-  filter(LeafPart != "")
+    area %>% 
+    group_by(LeafID, LeafPart) %>% 
+    summarise(Pixels = sum(`Area (Pixels)`, na.rm = TRUE)) %>% 
+    # summarise() returns NAs as zeroes, must correct back to "NA"
+    mutate(Pixels = ifelse(Pixels == 0, NA, Pixels)) %>% 
+    filter(LeafPart != "")
 
 ## aggregate leaf thickness into mean thickness
 thickness.agg <- 
-  thickness %>% 
-  group_by(LeafID) %>% 
-  summarise(Th = round(mean(Lth, na.rm = TRUE), 3))
+    thickness %>% 
+    group_by(LeafID) %>% 
+    summarise(Th = round(mean(Lth, na.rm = TRUE), 3))
 
 ## aggregate weights into total weights
 weight.agg <- 
-  weight %>% 
-  group_by(LeafID, LeafPart) %>% 
-  summarise_at(vars(WW, DW), sum)
+    weight %>% 
+    group_by(LeafID, LeafPart) %>% 
+    summarise_at(vars(WW, DW), sum)
 
 ## Consolidate
 out.PJ <- 
-  expand.grid(LeafID = unique(index$LeafID),
-              LeafPart = "L") %>% 
-  left_join(area.agg) %>% 
-  left_join(weight.agg) %>% 
-  left_join(thickness.agg) %>% 
-  # incorporate species names
-  left_join(index %>% select(LeafID, `Field ID`, CrownPos)) %>% 
-  mutate(SpecID = str_remove(`Field ID`, "[0-9]")) %>% 
-  left_join(species %>% select(SpecID = `Field ID`,
-                               Species = `Full name`)) %>% 
-  # special case: fill in species name for 'ALSTONIA ANGUSTILOBA'
-  mutate(Species = ifelse(SpecID == "ALSTONIA ANGUSTILOBA",
-                          "Alstonia angustiloba",
-                          Species)) %>% 
-  # change area pixel to mm^2
-  mutate(Area_mm2 = Pixels / (118.110236^2) * 100,
-         # SLA: divide area mm^2 by DW mg^-1
-         SLA = Area_mm2 / (DW*1000),
-         LDMC = DW / WW,
-         LeafID = as.character(LeafID)) %>% 
-  select(LeafID, FullTag = `Field ID`, CrownPos, Species, Area_mm2, SLA, LDMC, Th) %>% 
-  # long format
-  gather(Trait, OrgVal, Area_mm2, SLA, LDMC, Th, na.rm = TRUE) %>% 
-  # standardise long format column names
-  rename(MID = LeafID,
-         IID = FullTag,
-         OrgName = Species) %>% 
-  # assign Dataset2 name
-  mutate(Dataset2 = "SG01_PJ")
+    expand.grid(LeafID = unique(index$LeafID),
+                LeafPart = "L") %>% 
+    left_join(area.agg) %>% 
+    left_join(weight.agg) %>% 
+    left_join(thickness.agg) %>% 
+    # incorporate species names
+    left_join(index %>% select(LeafID, `Field ID`, CrownPos)) %>% 
+    mutate(SpecID = str_remove(`Field ID`, "[0-9]")) %>% 
+    left_join(species %>% select(SpecID = `Field ID`,
+                                 Species = `Full name`)) %>% 
+    # special case: fill in species name for 'ALSTONIA ANGUSTILOBA'
+    mutate(Species = ifelse(SpecID == "ALSTONIA ANGUSTILOBA",
+                            "Alstonia angustiloba",
+                            Species)) %>% 
+    # change area pixel to mm^2
+    mutate(Area_mm2 = Pixels / (118.110236^2) * 100,
+           # SLA: divide area mm^2 by DW mg^-1
+           SLA = Area_mm2 / (DW*1000),
+           LDMC = DW / WW,
+           LeafID = as.character(LeafID)) %>% 
+    select(LeafID, FullTag = `Field ID`, CrownPos, Species, Area_mm2, SLA, LDMC, Th) %>% 
+    # long format
+    pivot_longer(cols = c(Area_mm2, SLA, LDMC, Th),
+                 names_to = "Trait",
+                 values_to = "OrgVal",
+                 values_drop_na = TRUE) %>% 
+    # standardise long format column names
+    rename(MID = LeafID,
+           IID = FullTag,
+           OrgName = Species) %>% 
+    # assign Dataset2 name
+    mutate(Dataset2 = "SG01_PJ")
 
 # export output
 # write.csv(out.PJ, "clean/mandai_leaf_PJ.csv", row.names = FALSE)
@@ -175,12 +181,16 @@ out.PJ <-
 
 # Combine HR and PJ data --------------------------------------------------
 out <- 
-  bind_rows(out.FER, out.PJ) %>% 
-  # other columns
-  mutate(Dataset1 = "SG01",
-         SID = NA,
-         AccName = NA) %>% 
-  # rearrange columns
-  select(Dataset1, Dataset2, MID, IID, SID, OrgName, AccName, Trait, OrgVal)
+    bind_rows(out.FER, out.PJ) %>% 
+    # other columns
+    mutate(Dataset1 = "SG01",
+           SID = NA,
+           AccName = NA) %>% 
+    # rearrange columns
+    select(Dataset1, Dataset2, MID, IID, SID, OrgName, AccName, Trait, OrgVal) %>% 
+    # aggregate to individual level following austraits standards
+    group_by(Dataset1, Dataset2, IID, SID, OrgName, AccName, Trait) %>% 
+    summarise(OrgVal = mean(OrgVal),
+              n = n())
 
 write_csv(out, "data/Lai_2020/data.csv")
