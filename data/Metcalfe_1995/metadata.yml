@@ -1,0 +1,62 @@
+source:
+  primary:
+    key: Metcalfe_1995
+    bibtype: Article
+    year: '1995'
+    author: D. J. Metcalfe and P. J. Grubb
+    journal: Canadian Journal of Botany
+    title: Seed mass and light requirements for regeneration in Southeast Asian rain
+      forest
+    volume: '73'
+    number: '6'
+    pages: 817–826
+    doi: 10.1139/b95-090
+    issn: 0008-4026
+contributors:
+  data_collectors:
+  - last_name: Metcalfe
+    given_name: Daniel J.
+    ORCID: unknown
+    affiliation: CSIRO Oceans & Atmosphere
+  - last_name: Grubb
+    given_name: Peter J.
+    ORCID: unknown
+    affiliation: University of Cambridge
+  assistants: Ian M. Turner and S. C. Chin
+  dataset_curators: Hao Ran Lai and Ester J.Y. Suen
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: 1992-03/1993-09
+  taxon_name: SpeciesOld
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Seed dry mass (mg)
+  unit_in: mg
+  trait_name: seed_dry_mass
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: 10
+  methods: Seeds and fruits were collected between March 1992 and
+    September 1993. Sampling was haphazard and often limited to collection
+    from a single fruiting individual. 
+    No bias in terms of the size of seed or fruit collected was employed. 
+    A minimum of 10 seeds was collected for each species (minimum of 100 for 
+    species of mean seed dry mass < 1 mg), except in the cases of Anisoptera costata 
+    and Uvaria leptopoda (6 only). All seeds were cleaned and then dried for 
+    48 h at 80°C; dry mass values were determined for single seeds or known 
+    numbers of seeds on an electronic balance to a precision of 0.1 mg. 
+    The values quoted have been rounded off to two significant figures.
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
