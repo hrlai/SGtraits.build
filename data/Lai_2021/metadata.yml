@@ -1,0 +1,93 @@
+source:
+  primary:
+    key: Lai_2021
+    bibtype: Article
+    year: '2021'
+    author: Hao Ran Lai and Germaine Su Yin Tan and Louise Neo and Carmen Yingxin
+      Kee and Alex Thiam Koon Yee and Hugh Tiang Wah Tan and Kwek Yan Chong
+    journal: Applied Vegetation Science
+    title: Decoupled responses of native and exotic tree diversities to distance from
+      old-growth forest and soil phosphorus in novel secondary forests
+    volume: '24'
+    number: '1'
+    doi: 10.1111/avsc.12548
+    issn: 1654-109X
+    editor: Guillaume Decocq
+contributors:
+  data_collectors:
+  - last_name: Tan
+    given_name: Germaine Su Yin
+    ORCID: unknown
+    affiliation: National University of Singapore
+  assistants: Ester J.Y. Suen and Hao Ran Lai
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: yes
+  custom_R_code: .na
+  collection_date: 2015-05/2017-01
+  taxon_name: OrgName
+  trait_name: Trait
+  value: OrgVal
+  location_name: unknown
+  individual_id: IID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Area_mm2
+  unit_in: mm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: LDMC
+  unit_in: mg/mg
+  trait_name: leaf_dry_matter_content
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: SLA
+  unit_in: mm2/mg
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: Th
+  unit_in: mm
+  trait_name: leaf_thickness
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: WD_twig
+  unit_in: mg/mm3
+  trait_name: wood_density
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 1 and some had more
+  methods: unknown
+- var_in: WD
+  unit_in: mg/mm3
+  trait_name: wood_density
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 1 and some had more
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

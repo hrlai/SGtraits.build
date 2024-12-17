@@ -17,9 +17,14 @@ Lai_2020_config <- dataset_configure("data/Lai_2020/metadata.yml", definitions)
 Lai_2020_raw <- dataset_process("data/Lai_2020/data.csv", Lai_2020_config, schema, resource_metadata, unit_conversions)
 Lai_2020 <- dataset_update_taxonomy(Lai_2020_raw, taxon_list)
 
+Lai_2021_config <- dataset_configure("data/Lai_2021/metadata.yml", definitions)
+Lai_2021_raw <- dataset_process("data/Lai_2021/data.csv", Lai_2021_config, schema, resource_metadata, unit_conversions)
+Lai_2021 <- dataset_update_taxonomy(Lai_2021_raw, taxon_list)
+
 
 SGtraits_raw <- austraits::bind_databases(
   Lai_2020,
+  Lai_2021,
   NULL)
 
 # Version information

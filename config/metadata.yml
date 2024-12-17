@@ -1,6 +1,6 @@
 metadata:
-  title: '**Trait database for...'
-  description: "**This database ..."
+  title: 'Trait database for the Singapore flora'
+  description: "Work in progress"
   doi: unknown
   structure_URI: https://github.com/traitecoevo/traits.build
   geo_location:
@@ -40,21 +40,9 @@ metadata:
     award_IRI: doi.org/10.47486/DP720
     award_number: DP720
     award_title: AusTraits, A national database on the traits of Australia's complete flora.
-  - funder_name: Australian Research Data Commons (ARDC)
-    award_IRI: doi.org/10.47486/TD044
-    award_number: TD044
-    award_title: AusTraits, A national database on the traits of Australia's complete flora.
   creators: 
-  - last_name: Falster
-    given_name: Daniel
-    ORCID: 0000-0002-9814-092X
-    affiliation: Evolution & Ecology Research Centre, UNSW Sydney, Australia
-  - last_name: Gallagher
-    given_name: Rachael
-    ORCID: 0000-0002-4680-8115
-    affiliation: Hawkesbury Institute for the Environment, Western Sydney University, Australia
-  - last_name: Elizabeth
-    given_name: Wenk
-    ORCID: 0000-0001-5640-5910
-    affiliation: Evolution & Ecology Research Centre, UNSW Sydney, Australia
+  - last_name: Lai
+    given_name: Hao Ran
+    ORCID: 0000-0001-6871-0146
+    affiliation: University of Canterbury, New Zealand
   contributors: .na
