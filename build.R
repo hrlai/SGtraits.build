@@ -13,6 +13,10 @@ unit_conversions <- get_unit_conversions("config/unit_conversions.csv")
 taxon_list <- read_csv_char("config/taxon_list.csv")
 
 # Build each source
+Chong_2010_config <- dataset_configure("data/Chong_2010/metadata.yml", definitions)
+Chong_2010_raw <- dataset_process("data/Chong_2010/data.csv", Chong_2010_config, schema, resource_metadata, unit_conversions)
+Chong_2010 <- dataset_update_taxonomy(Chong_2010_raw, taxon_list)
+
 Lai_2020_config <- dataset_configure("data/Lai_2020/metadata.yml", definitions)
 Lai_2020_raw <- dataset_process("data/Lai_2020/data.csv", Lai_2020_config, schema, resource_metadata, unit_conversions)
 Lai_2020 <- dataset_update_taxonomy(Lai_2020_raw, taxon_list)
@@ -35,6 +39,7 @@ Ng_2017 <- dataset_update_taxonomy(Ng_2017_raw, taxon_list)
 
 
 SGtraits_raw <- austraits::bind_databases(
+  Chong_2010,
   Lai_2020,
   Lai_2020_2,
   Lai_2021,
