@@ -1,0 +1,48 @@
+source:
+  primary:
+    key: Chong_2010
+    bibtype: Article
+    year: unknown
+    author: unknown
+    title: unknown
+    journal: unknown
+    volume: unknown
+    number: unknown
+    pages: unknown
+    doi: unknown
+contributors:
+  data_collectors:
+  - last_name: Chong
+    given_name: Kwek Yan
+    ORCID: 0000-0003-4754-8957
+    affiliation: National University of Singapore
+  assistants: unknown
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: Collection Date
+  taxon_name: Species Name
+  location_name: Collection Locality
+  individual_id: IID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Seed mass per 1000 /g
+  unit_in: mg
+  trait_name: seed_dry_mass
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
