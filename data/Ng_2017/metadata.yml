@@ -1,0 +1,80 @@
+source:
+  primary:
+    key: Ng_2017
+    bibtype: Thesis
+    year: 2017
+    author: Amanda Wei Ling Ng
+    title: The feasibility of growing plants in deep-shade conditions under Singapore
+      viaducts
+    type: Honours thesis
+    institution: National University of Singapore
+contributors:
+  data_collectors:
+  - last_name: Ng
+    given_name: Amanda Wei Ling
+    ORCID: unknown
+    affiliation: National University of Singapore
+  assistants: unknown
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: yes
+  custom_R_code: .na
+  collection_date: 2016-12/2017-02
+  taxon_name: OrgName
+  trait_name: Trait
+  value: OrgVal
+  location_name: unknown
+  individual_id: IID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Area_mm2
+  unit_in: mm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: LDMC
+  unit_in: mg/mg
+  trait_name: leaf_dry_matter_content
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: SLA
+  unit_in: mm2/mg
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: Th
+  unit_in: mm
+  trait_name: leaf_thickness
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: SC
+  unit_in: mmol{H2O}/m2/s
+  trait_name: leaf_stomatal_conductance_per_area_ambient
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: 5
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
