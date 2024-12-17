@@ -1,0 +1,97 @@
+source:
+  primary:
+    key: Lai_2020_3
+    bibtype: Article
+    year: '2020'
+    author: Hao Ran Lai and Kwek Yan Chong and Alex Thiam Koon Yee and Hugh Tiang
+      Wah Tan and Michiel Van Breugel
+    journal: Journal of Ecology
+    title: Functional traits that moderate tropical tree recruitment during post-windstorm
+      secondary succession
+    volume: '108'
+    number: '4'
+    pages: 1322–1333
+    doi: 10.1111/1365-2745.13347
+    issn: 1365-2745
+    editor: Cynthia Chang
+  secondary:
+    key: Yee_2019
+    bibtype: Article
+    year: '2019'
+    author: Alex T. K. Yee and Hao Ran Lai and Kwek Yan Chong and Louise Neo and Choon
+      Yen Koh and Siu Yueh Tan and Wei Wei Seah and Jolyn W. Loh and Reuben C. J.
+      Lim and Michiel Van Breugel and Hugh T. W. Tan
+    journal: Journal of Vegetation Science
+    title: Short-term responses in a secondary tropical forest after a severe windstorm
+      event
+    volume: '30'
+    number: '4'
+    pages: 720–731
+    doi: 10.1111/jvs.12753
+    issn: 1654-1103
+    editor: Alicia Teresa Rosario Acosta
+contributors:
+  data_collectors:
+  - last_name: Lai
+    given_name: Hao Ran
+    ORCID: 0000-0001-6871-0146
+    affiliation: National University of Singapore
+    additional_role: contact
+  assistants: Kwek Yan Chong and Germaine Su Yin Tan and Jon Siu Yueh Tan and Loiuse
+    Neo and Jolyn Weiting Loh and Weng Ngai Lam and Ester J.Y. Suen and Reuben Lim
+    and Wei Wei Seah
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: yes
+  custom_R_code: .na
+  collection_date: CollDate
+  taxon_name: Species
+  trait_name: Trait
+  value: OrgVal
+  location_name: PlotID
+  individual_id: IID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: SDM seed
+  unit_in: mg
+  trait_name: seed_dry_mass
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies
+  methods: unknown
+- var_in: Width fruit
+  unit_in: cm
+  trait_name: fruit_width
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies
+  methods: unknown
+- var_in: Length fruit
+  unit_in: cm
+  trait_name: fruit_length
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies
+  methods: unknown
+- var_in: DryMassInd fruit
+  unit_in: g
+  trait_name: fruit_dry_mass
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
