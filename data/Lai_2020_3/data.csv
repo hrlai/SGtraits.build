@@ -1,0 +1,305 @@
+Project,PlotID,FieldID,Species,CollDate,MeasureDate,Ripen,Comment,Trait,OrgVal,IID
+Mandai,near F4,Prunus polystachya,Prunus polystachya,2015-05-26T00:00:00Z,2015-05-26T00:00:00Z,ripe,minor mold on a few specimens,SDM seed,210.33333333333334,1
+Opportunistic,Utown,fan palm,Licuala spinosa,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,SDM seed,78,2
+Opportunistic,Utown,fan palm,Licuala spinosa,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,SDM seed,63.9,3
+Opportunistic,Utown,fan palm,Licuala spinosa,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,SDM seed,75.80000000000001,4
+Mandai,Outside F1,Macaranga tritocarpa,Macaranga trichocarpa,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,ripe,NA,SDM seed,15.325,5
+Mandai,Outside G17,Anisophyllea disticha,Anisophyllea disticha,2015-06-05T00:00:00Z,2015-06-09T00:00:00Z,ripe,NA,SDM seed,180,6
+Mandai,Outside G17,Anisophyllea disticha,Anisophyllea disticha,2015-06-05T00:00:00Z,2015-06-09T00:00:00Z,ripe,NA,SDM seed,147,7
+Mandai,Mandai road,Mallotus,Mallotus paniculatus,2015-06-05T00:00:00Z,2015-06-09T00:00:00Z,ripe,NA,SDM seed,5.262295081967213,8
+Mandai,Mandai road,Callerya atropurpurea,Callerya atropurpurea,2015-06-10T00:00:00Z,2015-06-10T00:00:00Z,ripe,dropped to the ground by itself,SDM seed,26518.4,9
+Mandai,Mandai road,Callerya atropurpurea,Callerya atropurpurea,2015-06-11T00:00:00Z,2015-06-11T00:00:00Z,ripe,dropped to the ground by itself,SDM seed,13809,10
+Mandai,Mandai road,Callerya atropurpurea,Callerya atropurpurea,2015-06-11T00:00:00Z,2015-06-11T00:00:00Z,ripe,dropped to the ground by itself,SDM seed,22692,11
+Mandai,Near G2,Anisophyllea disticha,Anisophyllea disticha,2015-06-08T00:00:00Z,2015-06-12T00:00:00Z,ripe,NA,SDM seed,158,12
+Mandai,Near E10,Anisophyllea disticha,Anisophyllea disticha,2015-06-10T00:00:00Z,2015-06-13T00:00:00Z,ripe,NA,SDM seed,172,13
+Mandai,Mandai road,Syzygium polyanthum,Syzygium polyanthum,2015-06-09T00:00:00Z,2015-06-13T00:00:00Z,ripe,NA,SDM seed,204,14
+Mandai,Mandai road,Syzygium polyanthum,Syzygium polyanthum,2015-06-09T00:00:00Z,2015-06-13T00:00:00Z,ripe,NA,SDM seed,144,15
+Mandai,Mandai road,Syzygium polyanthum,Syzygium polyanthum,2015-06-09T00:00:00Z,2015-06-13T00:00:00Z,ripe,NA,SDM seed,181,16
+Mandai,Mandai road,Syzygium polyanthum,Syzygium polyanthum,2015-06-09T00:00:00Z,2015-06-13T00:00:00Z,ripe,NA,SDM seed,152,17
+Opportunistic,S1,Terminalia catappa,Terminalia catappa,2015-06-13T00:00:00Z,2015-06-19T00:00:00Z,green,dropped to the ground by itself,SDM seed,56.99999999999999,18
+Opportunistic,Alex,Dimocarpus longan,Dimocarpus longan,2015-06-15T00:00:00Z,2015-06-19T00:00:00Z,ripe,NA,SDM seed,358.3,19
+Mandai,Road to hell,Anisophyllea disticha,Anisophyllea disticha,NA,NA,ripe,NA,SDM seed,171,20
+Opportunistic,S1,Suregada multiflora,Suregada multiflora,2015-06-29T00:00:00Z,2015-06-29T00:00:00Z,ripe,NA,SDM seed,25.8,21
+Opportunistic,S15,Cassia fistula,Cassia fistula,2015-06-20T00:00:00Z,2015-06-20T00:00:00Z,ripe,NA,SDM seed,90.19444444444444,22
+Mandai,Mandai,Prunus polystachya,Prunus polystachya,NA,NA,ripe,NA,SDM seed,672,23
+Opportunistic,Alex,Carica papaya,Carica papaya,NA,NA,ripe,NA,SDM seed,14.9,24
+Opportunistic,Alex,Carica papaya,Carica papaya,NA,NA,ripe,NA,SDM seed,16.1,25
+Opportunistic,Alex,Carica papaya,Carica papaya,NA,NA,ripe,NA,SDM seed,14.099999999999998,26
+Opportunistic,Alex,Nephelium lappaceum,Nephelium lappaceum,NA,NA,ripe,NA,SDM seed,1882,27
+Opportunistic,Alex,Nephelium lappaceum,Nephelium lappaceum,NA,NA,ripe,NA,SDM seed,2086,28
+Opportunistic,UHall,Suregada multiflora,Suregada multiflora,NA,2015-09-02T00:00:00Z,ripe,NA,SDM seed,18.666666666666668,29
+Opportunistic,KR,Acacia auriculiformis,Acacia auriculiformis,NA,2015-09-02T00:00:00Z,ripe,NA,SDM seed,17,30
+Opportunistic,UHall,Ardisia elliptica,Ardisia elliptica,2015-08-17T00:00:00Z,2015-09-02T00:00:00Z,ripe,NA,SDM seed,5,31
+Opportunistic,UHall,Memecylon UHall,Memecylon caeruleum,2015-08-17T00:00:00Z,2015-09-02T00:00:00Z,ripe,NA,SDM seed,124,32
+Opportunistic,S8,Leea indica,Leea indica,NA,2015-09-02T00:00:00Z,ripe,NA,SDM seed,19,33
+Opportunistic,Ubin,Antidesma velutinosum,Antidesma velutinosum,2015-08-20T00:00:00Z,2015-09-02T00:00:00Z,ripe,NA,SDM seed,21.6,34
+Opportunistic,KR,Tetracera indica,Tetracera indica,NA,2015-09-02T00:00:00Z,ripe,NA,SDM seed,14.11111111111111,35
+Opportunistic,UHall,Calophyllum soulattri,Calophyllum soulattri,2015-09-01T00:00:00Z,2015-09-09T00:00:00Z,ripe,NA,SDM seed,94.8,36
+Opportunistic,Nee Soon,Trichosanthes wawraei,Trichosanthes wawraei,NA,2015-10-14T00:00:00Z,ripe,NA,SDM seed,376.29999999999995,37
+Mandai,Nee Soon,Prunus polystachya,Prunus polystachya,2015-10-15T00:00:00Z,2015-10-23T00:00:00Z,ripe,NA,SDM seed,425,38
+Mandai,Nee Soon,Campnosperma auriculatum,Campnosperma auriculatum,2015-10-15T00:00:00Z,2015-10-23T00:00:00Z,green,dropped to the ground with whole branch,SDM seed,37.199999999999996,39
+Mandai,Nee Soon,Campnosperma squamatum,Campnosperma squamatum,2015-10-15T00:00:00Z,2015-10-23T00:00:00Z,ripe,NA,SDM seed,138,40
+Opportunistic,Railway,Senna alata,Senna alata,2015-10-13T00:00:00Z,2015-10-31T00:00:00Z,green,"green pod, dried in oven and then naturally cracked",SDM seed,27.000000000000004,41
+Opportunistic,Utown,Syzygium zeylanicum,Syzygium zeylanicum,NA,2015-10-31T00:00:00Z,ripe,white fruit,SDM seed,16.76,42
+Herbarium,SINU,Archidendron jiringa,Archidendron jiringa,NA,2015-11-18T00:00:00Z,ripe,"SINU unlabelled jar; collected by RML Teo, Pulau Tekong",SDM seed,11673.666666666668,43
+Herbarium,SINU,2007019166,Elaeocarpus mastersii,NA,2015-11-18T00:00:00Z,ripe,SINU barcode 2007019166; measured with dried mesocarp,SDM seed,123.75,44
+Herbarium,SINU,2007003022,Elaeocarpus petiolatus,1959-03-06T00:00:00Z,2015-11-18T00:00:00Z,ripe,SINU barcode 2007003022; collected by Abu Kassim from MacRitchie,SDM seed,115,45
+Herbarium,SINU,Gymnacranthera farquhariana,Gymnacranthera farquhariana,2002-07-12T00:00:00Z,2015-11-18T00:00:00Z,ripe,SINU unlabelled jar; collected by CK Yeo from MacRitchie Nature Trail,SDM seed,366.33333333333337,46
+Herbarium,SINU,2007021708,Indigofera hirsuta,NA,2015-11-18T00:00:00Z,ripe,SINU barcode 2007021708,SDM seed,0.6000000000000001,47
+Herbarium,SINU,Koompassia malaccensis,Koompassia malaccensis,2002-07-10T00:00:00Z,2015-11-18T00:00:00Z,ripe,measured with wing structure; collected by CK Yeo and EEK Phua from MacRitchie Nature Trail,SDM seed,555.4,48
+Herbarium,SINU,Dialum indum,Dialum indum,2015-04-01T00:00:00Z,2015-11-18T00:00:00Z,ripe,"measured with mesocarp; SINU unlabelled jar; bought from market, Pahang by BC Ng",SDM seed,332.5,49
+Opportunistic,KR,ivy palm,Arthrophyllum diversifolium,2015-11-20T00:00:00Z,2015-12-12T00:00:00Z,ripe,NA,SDM seed,15.545454545454547,50
+Mandai,Nee Soon,Prunus polystachya,Prunus polystachya,2015-11-26T00:00:00Z,2015-12-12T00:00:00Z,ripe,NA,SDM seed,1366,51
+Mandai,Nee Soon,Macaranga bancana,Macaranga bancana,2015-11-26T00:00:00Z,2015-12-12T00:00:00Z,ripe,NA,SDM seed,11.3,52
+Mandai,Nee Soon,Camnosperma big,Campnosperma squamatum,2015-11-26T00:00:00Z,2015-12-12T00:00:00Z,ripe,NA,SDM seed,135.5,53
+Opportunistic,Nee Soon,unknown Litsea like,NA,2015-11-26T00:00:00Z,2015-12-12T00:00:00Z,ripe,NA,SDM seed,225.39999999999998,54
+Opportunistic,KR,Dolicandrone,Dolichandrone spathacea,NA,2015-12-12T00:00:00Z,ripe,collected by Jon Tan Siu Yueh,SDM seed,21.810344827586206,55
+Mandai,Nee Soon,Porterianda anisophyllea,Porterandia anisophylla,2015-11-23T00:00:00Z,2015-12-12T00:00:00Z,unripe,NA,SDM seed,7.794117647058823,56
+Opportunistic,Nee Soon,Myristica sp,NA,2015-12-07T00:00:00Z,2015-12-18T00:00:00Z,ripe,Collected by Louise Neo; ask to ID,SDM seed,6466,57
+Mandai,Nee Soon,Bhesa paniculata,Bhesa paniculata,2015-11-29T00:00:00Z,2015-12-18T00:00:00Z,ripe,NA,SDM seed,73.88235294117646,58
+Opportunistic,Bukit Batok Ave 5,Mimosa pigra,Mimosa pigra,2015-12-07T00:00:00Z,2015-12-18T00:00:00Z,ripe,NA,SDM seed,11.75,59
+Opportunistic,Bangkok,Pentace bangkok,NA,2015-12-11T00:00:00Z,2016-01-07T00:00:00Z,ripe,NA,SDM seed,98,60
+Opportunistic,Chulalongkorn,red flower see pressed,Cordia sebestena,2015-12-10T00:00:00Z,2016-01-07T00:00:00Z,ripe,NA,SDM seed,801.5,61
+Opportunistic,Labrador,Elaeocarpus petiolatus,Elaeocarpus petiolatus,2015-12-17T00:00:00Z,2016-01-07T00:00:00Z,ripe,NA,SDM seed,174.6,62
+Opportunistic,NUS school field,Syzygium pyc,Syzygium pyrifolium,NA,2016-01-07T00:00:00Z,ripe,NA,SDM seed,294.8,63
+Opportunistic,NUS school field,Alstonia scholaris or angustiloba,Alstonia angustiloba,NA,2016-01-13T00:00:00Z,ripe,pod splitted open,SDM seed,3.4633333333333334,64
+Opportunistic,Native nursery,Hoya sp.,Hoya verticillata,NA,2016-01-13T00:00:00Z,ripe,pod splitted open; collected by Jolyn Loh Weiting,SDM seed,0.825,65
+Opportunistic,Science Drive 4,Raintree,Albizia saman,NA,2015-01-26T00:00:00Z,ripe,pod dropped to the ground,SDM seed,206.25000000000003,66
+Opportunistic,Mandai,Chrysophyllum cainito,Chrysophyllum cainito,NA,2015-01-26T00:00:00Z,ripe,collected by Lam Weng Ngai,SDM seed,468.83333333333337,67
+Herbarium,SING,Koh SING 2013-071,Horsfieldia polyspherula,NA,2016-01-28T00:00:00Z,ripe,NA,SDM seed,772,68
+Herbarium,SING,Loo LC; Ng W; SING 2011-433; SING 0171388,Horsfieldia polyspherula,NA,2016-01-28T00:00:00Z,ripe,NA,SDM seed,1147,69
+Herbarium,SING,Young 94284,Horsfieldia sucosa,NA,2016-01-28T00:00:00Z,ripe,Subang (1960),SDM seed,2845,70
+Herbarium,SING,HNR (1891),Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,Carpenter shed?,SDM seed,1267,71
+Herbarium,SING,JFF (1891) SING 0018940,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,NA,SDM seed,2785,72
+Herbarium,SING,227,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,"WL Chew, EJH Corner, A Stainton (1961)",SDM seed,3810,73
+Herbarium,SING,Jeysmann Bogor,Knema intermedia,1959-12-23T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,SDM seed,918,74
+Herbarium,SING,Kostermans and Anta 795,Horsfieldia wallichii,NA,2016-01-28T00:00:00Z,ripe,1949,SDM seed,3692,75
+Herbarium,SING,Kochummen 98272,Gymnacranthera forbesii,NA,2016-01-28T00:00:00Z,ripe,FRIM 1961,SDM seed,272,76
+Herbarium,SING,R. Derry 89,Dialium platysepalum,NA,2016-01-28T00:00:00Z,ripe,with some attaching aril (1888),SDM seed,498,77
+Herbarium,SING,Pawanchee 13770,Dialium platysepalum,NA,2016-01-28T00:00:00Z,ripe,1927,SDM seed,192.5,78
+Herbarium,SING,PS Bray FRI11601,Dialium platysepalum,NA,2016-01-28T00:00:00Z,ripe,1968,SDM seed,451.25,79
+Herbarium,SING,JS Goodenough 1533,Dialium platysepalum,NA,2016-01-28T00:00:00Z,ripe,with some attaching aril,SDM seed,503,80
+Herbarium,SING,JS Goodenough 1693,Dialium platysepalum,NA,2016-01-28T00:00:00Z,ripe,NA,SDM seed,328,81
+Herbarium,SING,21001,Archidendron microcarpum,NA,2016-01-28T00:00:00Z,ripe,VIII 1980,SDM seed,160,82
+Herbarium,SING,S Chelliah FRI 6542,Koompassia malaccensis,NA,2016-01-28T00:00:00Z,ripe,NA,SDM seed,372.5,83
+Herbarium,SING,JS Goodenough 1416,Koompassia malaccensis,NA,2016-01-28T00:00:00Z,ripe,NA,SDM seed,343.66666666666663,84
+Opportunistic,NUS S1A capark,Eugenia unifolia,Eugenia uniflora,2016-01-09T00:00:00Z,2016-01-30T00:00:00Z,ripe,NA,SDM seed,6.2,85
+Opportunistic,NSSF,Urophyllum sp.,NA,2015-11-29T00:00:00Z,2016-01-30T00:00:00Z,ripe,Ask Louise Neo for ID,SDM seed,0.04174757281553398,86
+Opportunistic,SDE,Tembusu,Fagraea fragrans,NA,2016-01-30T00:00:00Z,ripe,NA,SDM seed,0.13809523809523808,87
+Mandai,Near D88,Gynotrodes auxillaris,Gynotroches axillaris,2016-01-21T00:00:00Z,2016-01-30T00:00:00Z,ripe,Collected by Lam Weng Ngai,SDM seed,0.25999999999999995,88
+Opportunistic,NSSF,Commersonia,Commersonia bartramia,2015-12-17T00:00:00Z,2016-01-30T00:00:00Z,ripe,NA,SDM seed,1.337037037037037,89
+Opportunistic,Jurong Sec Sch,Casuarina sp.,Gymnostoma sumatranum,NA,2016-01-30T00:00:00Z,ripe,NA,SDM seed,7.433333333333334,90
+Opportunistic,NSSF,Aidia densifolia,Aidia densiflora,2015-11-23T00:00:00Z,2016-01-30T00:00:00Z,ripe,NA,SDM seed,0.6083333333333334,91
+Opportunistic,SING building,Calophyllum inophyllum,Calophyllum inophyllum,2016-01-28T00:00:00Z,2016-02-04T00:00:00Z,ripe,"SBG Herbarium heritage tree, seeds/fruits fallen on ground",SDM seed,2885.9285714285716,92
+Herbarium,SING,R Derry 044889,Alstonia angustifolia,NA,2016-02-18T00:00:00Z,ripe,SING01155408,SDM seed,1.0999999999999999,93
+Herbarium,SING,Lua HK 2013-256,Alstonia angustifolia,NA,2016-02-18T00:00:00Z,ripe,SING0205471,SDM seed,1.90625,94
+Herbarium,SING,EJH Corner 30668,Tabernaemontana corymbosa,NA,2016-02-18T00:00:00Z,ripe,SING0003483,SDM seed,110.25,95
+Herbarium,SING,Hev Hamid 5499,Dyera costulata,NA,2016-02-18T00:00:00Z,ripe,SING0040292,SDM seed,65.57142857142857,96
+Herbarium,SING,Hook F and Thoms FRI10672,Dillenia grandifolia,NA,2016-02-18T00:00:00Z,ripe,SING0207455,SDM seed,12,97
+Herbarium,SING,Hook F and Thoms FRI33758,Dillenia grandifolia,NA,2016-02-18T00:00:00Z,ripe,SING0207462,SDM seed,14,98
+Herbarium,SING,Foxworthy FRI1554,Hopea ferruginea,NA,2016-02-18T00:00:00Z,ripe,SING0053947,SDM seed,96,99
+Herbarium,SING,Foxworthy FRI2012,Hopea ferruginea,NA,2016-02-18T00:00:00Z,ripe,SING0053948,SDM seed,59.6,100
+Herbarium,SING,Foxworthy FRI2011,Hopea ferruginea,NA,2016-02-18T00:00:00Z,ripe,SING0053950,SDM seed,56.33333333333334,101
+Herbarium,SING,HN Ridley 6480,Macaranga conifera,NA,2016-02-18T00:00:00Z,ripe,SING0034966,SDM seed,11.5,102
+Herbarium,SING,Eugene Tang and Hj Sidek 247,Macaranga conifera,NA,2016-02-18T00:00:00Z,ripe,SING0016717,SDM seed,5,103
+Herbarium,SING,Wong Khon Meng FRI34225,Agrostistachys borneensis,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,70.3,104
+Herbarium,SING,Perak Museum Herbarium 2976,Agrostistachys borneensis,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,36.5,105
+Herbarium,SING,HM Burkill HMB1898 500315,Agrostistachys borneensis,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,41,106
+Herbarium,SING,B. Evangelista 864,Croton oblongus,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,24.8,107
+Herbarium,SING,A1449,Croton oblongus,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,32,108
+Herbarium,SING,PS Ashton S.22013,Croton oblongus,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,24.5,109
+Herbarium,SING,GHS Wood and Kapis bin Sisiron 16834,Koilodepas longifolium,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,45,110
+Herbarium,SING,HN Ridley 14057,Trigonostemon villosus,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,3,111
+Herbarium,SING,CF Symington 14473,Trigonostemon villosus,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,14,112
+Herbarium,SING,Samsuri Ahmad SA280,Trigonostemon villosus,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,33,113
+Herbarium,SING,HN Ridley (HNR),Pimelodendron griffithianum,NA,2016-02-18T00:00:00Z,ripe,ID not resolved,SDM seed,73.39999999999999,114
+Herbarium,SING,King 028263,Neoscortechinia kingii,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,354,115
+Herbarium,SING,VM Alvins 028333,Neoscortechinia kingii,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,647,116
+Herbarium,SING,Md Hamiff 4063,Ptychopyxis costata var. oblanceolata,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,1096,117
+Herbarium,SING,AR Hutshana 21448,Cratoxylum formosum,NA,2016-02-18T00:00:00Z,ripe,NA,SDM seed,0.5092592592592592,118
+Opportunistic,SBG,Vatica maingayi,Vatica maingayi,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped on ground; removed wings,SDM seed,150,119
+Opportunistic,SBG Rainforest,Nothaphoebe sp.,Nothaphoebe umbelliflora,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped on ground,SDM seed,2433,120
+Opportunistic,SBG Café,Elaeocarpus sp.,NA,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped on ground,SDM seed,1592,121
+Opportunistic,SBG,Sterculia foetida,Sterculia foetida,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,"pod split open, seeds dropped on ground",SDM seed,1296.4,122
+Opportunistic,SBG Rainforest,Shorea pauciflora,Shorea pauciflora,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped on ground; removed wings,SDM seed,47.33333333333333,123
+Opportunistic,SBG,Dipterocarpus oblongus,Dipterocarpus hispidus,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped on ground; removed wings,SDM seed,120,124
+Herbarium,SING,Gwee AT 2005-255,Sterculia balanghas,NA,2016-02-25T00:00:00Z,ripe,SING0063944,SDM seed,402.25,125
+Herbarium,SING,Izzul HA 2011-539,Sterculia cordata,NA,2016-02-25T00:00:00Z,ripe,SING0174831,SDM seed,1017.0000000000001,126
+Herbarium,SING,Foo SJ 2007-264,Sterculia cordata,NA,2016-02-25T00:00:00Z,ripe,SING0093415,SDM seed,934.25,127
+Herbarium,SING,Aban Gibot 99298SAN,Aporosa lucida,NA,2016-02-25T00:00:00Z,ripe,SING0035745,SDM seed,21,128
+Herbarium,SING,Leong P MR2014-014,Aporosa lucida,NA,2016-02-25T00:00:00Z,ripe,SING0205619,SDM seed,18,129
+Herbarium,SING,"Boo CM, Chew PT 2014-07-22-001",Aporosa lucida,NA,2016-02-25T00:00:00Z,ripe,SING0211902,SDM seed,44,130
+Herbarium,SING,"Normaya N, Shalih R S91560",Aporosa lunata,NA,2016-02-25T00:00:00Z,ripe,SING0053809,SDM seed,80,131
+Herbarium,SING,"De Wilde, Postar, Ubaidus 133396",Aporosa lunata,NA,2016-02-25T00:00:00Z,ripe,NA,SDM seed,33.5,132
+Herbarium,SING,JF Maxwell 83-1a,Baccaurea bracteata,NA,2016-02-25T00:00:00Z,ripe,SING0012539,SDM seed,23.000000000000004,133
+Herbarium,SING,JF Maxwell 83-1a 083621,Baccaurea bracteata,NA,2016-02-25T00:00:00Z,ripe,SING0012538,SDM seed,24.666666666666668,134
+Herbarium,SING,"Lua HK, Sha J 2011-239",Baccaurea bracteata,NA,2016-02-25T00:00:00Z,ripe,SING0164197,SDM seed,15,135
+Herbarium,SING,Goh SM,Glochidion lutescens,NA,2016-02-25T00:00:00Z,ripe,NA,SDM seed,2.181818181818182,136
+Herbarium,SING,"Chua LSL, Mustafa D FRI52996",Xanthophyllum eurhynchum,NA,2016-02-25T00:00:00Z,ripe,SING0115375,SDM seed,65,137
+Herbarium,SING,JS Goodenough 1549,Nephelium maingayi,NA,2016-02-25T00:00:00Z,ripe,SING0190089,SDM seed,159,138
+Herbarium,SING,21703,Nephelium maingayi,NA,2016-02-25T00:00:00Z,ripe,SING0190294,SDM seed,460,139
+Herbarium,SING,"Hassan I, Lua HK, Haziqah N, Soh WJ 2011-519",Guioa pubescens,NA,2016-02-25T00:00:00Z,ripe,SING0171400,SDM seed,44,140
+Herbarium,SING,Mohd. Noor MN1126,Guioa pubescens,NA,2016-02-25T00:00:00Z,ripe,SING0025453,SDM seed,39,141
+Herbarium,SING,JS Goodenough 1355,Aquilaria malaccensis,NA,2016-02-25T00:00:00Z,ripe,SING0051097,SDM seed,14,142
+Herbarium,SING,JS Goodenough 1424,Aquilaria malaccensis,NA,2016-02-25T00:00:00Z,ripe,SING0051109,SDM seed,21,143
+Herbarium,SING,Ngadiman 37083,Aquilaria malaccensis,NA,2016-02-25T00:00:00Z,ripe,SING0051076,SDM seed,32.6,144
+Herbarium,SING,Khoo MS 84,Syzygium filiforme,NA,2016-02-25T00:00:00Z,ripe,SING0123499,SDM seed,175,145
+Herbarium,SING,Gwee AT 2009-696,Syzygium filiforme,NA,2016-02-25T00:00:00Z,ripe,SING0144697,SDM seed,87,146
+Herbarium,SING,8942,Calophyllum pulcherrimum,NA,2016-02-25T00:00:00Z,ripe,SING0017880,SDM seed,107,147
+Herbarium,SING,"Mohd Shah, Ahmad Shukor MS3163",Calophyllum pulcherrimum,NA,2016-02-25T00:00:00Z,ripe,NA,SDM seed,220,148
+Opportunistic,S3,Syzygium polyanthum,Syzygium polyanthum,2016-02-24T00:00:00Z,2016-03-08T00:00:00Z,ripe,NA,SDM seed,65.2,149
+Opportunistic,Kent Ridge,Syzygium grande,Syzygium grande,2016-02-23T00:00:00Z,2016-03-08T00:00:00Z,ripe,NA,SDM seed,2067,150
+Opportunistic,NA,Senna alata,Senna alata,2016-02-04T00:00:00Z,2016-03-08T00:00:00Z,ripe,collected by Lam Weng Ngai,SDM seed,22.700000000000003,151
+Opportunistic,Opp. Westpoint Hospital,Swietenia macrophylla,Swietenia macrophylla,2016-02-22T00:00:00Z,2016-03-08T00:00:00Z,ripe,fruit pod dropped on the ground,SDM seed,144,152
+Opportunistic,Native nursery,golden passionfruit,Passiflora laurifolia,NA,2016-03-21T00:00:00Z,ripe,fruit dropped on the ground,SDM seed,13.014285714285714,153
+Opportunistic,PGP,Syzygium sp.,NA,2016-03-08T00:00:00Z,2016-03-21T00:00:00Z,ripe,ID with Louise Neo,SDM seed,20.99230769230769,154
+Opportunistic,NSSF water treatment plant,Morinda umbilata,Morinda umbilata,2016-02-23T00:00:00Z,2016-03-21T00:00:00Z,ripe,NA,SDM seed,11.466666666666667,155
+Opportunistic,NA,Rhodamnia cinerea,Rhodamnia cinerea,2016-02-23T00:00:00Z,2016-03-21T00:00:00Z,ripe,NA,SDM seed,8.415384615384614,156
+Opportunistic,SBG MRT,Craxtoxylum formosum,Craxtoxylum formosum,2016-01-28T00:00:00Z,2016-03-21T00:00:00Z,ripe,NA,SDM seed,0.4066666666666667,157
+Opportunistic,Petai trail,leaf litter plant,Agrostistachys borneensis,2016-01-23T00:00:00Z,2016-03-21T00:00:00Z,unripe,NA,SDM seed,9.266666666666666,158
+Opportunistic,MacRitchie,Strombosia ceylanica,Strombosia ceylanica,2016-04-02T00:00:00Z,2016-04-09T00:00:00Z,ripe,NA,SDM seed,1862.9666666666667,159
+Opportunistic,S3,Andira inermis,Andira inermis,2016-03-16T00:00:00Z,2016-04-09T00:00:00Z,ripe,NA,SDM seed,16334.800000000001,160
+Opportunistic,Native nursery,Knema globularia,Knema globularia,2016-03-22T00:00:00Z,2016-04-09T00:00:00Z,ripe,collected by Lam Weng Ngai,SDM seed,466.1,161
+Opportunistic,Outside NERI,Gnetum gnemon,Gnetum gnemon,NA,2016-04-09T00:00:00Z,ripe,NA,SDM seed,1477.9,162
+Opportunistic,Near Corporation Drive,Ordeal tree,Erythrophleum suaveolens,NA,2016-04-09T00:00:00Z,ripe,NA,SDM seed,599.3000000000001,163
+Opportunistic,Lorong Lada Hitam,Aphanamixis,Aphanamixis polystachya,2016-03-19T00:00:00Z,2016-04-09T00:00:00Z,unripe,NA,SDM seed,49.2,164
+Opportunistic,NSSF,Smilax setosa,Smilax setosa,2016-03-23T00:00:00Z,2016-04-09T00:00:00Z,ripe,collected by Lam Weng Ngai,SDM seed,14.092857142857143,165
+Opportunistic,NA,Ploianum alternifolium,Ploiarium alternifolium,2016-03-31T00:00:00Z,2016-04-09T00:00:00Z,unripe,collected by Lam Weng Ngai,SDM seed,0.04666666666666666,166
+Opportunistic,Market,Avocado,Persea americana,NA,2016-04-22T00:00:00Z,ripe,NA,SDM seed,11879,167
+Opportunistic,Native nursery,Cissus hastata,Cissus hastata,2016-04-12T00:00:00Z,2016-04-22T00:00:00Z,ripe,collected by Lam Weng Ngai,SDM seed,19.383333333333333,168
+Opportunistic,S3,Pachira glabra,Pachira glabra,2016-03-31T00:00:00Z,2016-04-22T00:00:00Z,ripe,NA,SDM seed,1802.5249999999999,169
+Opportunistic,Native nursery,Pouteria linggensis,Pouteria linggensis,2016-03-31T00:00:00Z,2016-04-22T00:00:00Z,ripe,collected by Lam Weng Ngai,SDM seed,107.05714285714285,170
+Opportunistic,NSSF,Aspidopterys concava,Aspidopterys concava,2016-04-15T00:00:00Z,2016-05-10T00:00:00Z,ripe,measured with wings,SDM seed,10.6,171
+Opportunistic,School field,Caesalpinia bonduc,Caesalpinia bonduc,NA,2016-05-10T00:00:00Z,ripe,Collected by Louise Neo and Seah Wei Wei,SDM seed,1924.82,172
+Opportunistic,Native nursery,Climber next to Sterculia in nursery,NA,NA,2016-05-10T00:00:00Z,ripe,NA,SDM seed,26.974999999999998,173
+Opportunistic,Kent Ridge Park,Terminalia calamansanai,Terminalia calamansanai,2016-04-21T00:00:00Z,2016-05-10T00:00:00Z,ripe,collected by Lam Weng Ngai; measured with wings,SDM seed,132.05263157894737,174
+Opportunistic,NA,Dimocarpus longan,Dimocarpus longan,2016-06-20T00:00:00Z,2016-07-09T00:00:00Z,ripe,NA,SDM seed,300.09999999999997,175
+Opportunistic,UHall,Eurycoma longifolia,Eurycoma longifolia,2016-07-02T00:00:00Z,2016-07-09T00:00:00Z,ripe,NA,SDM seed,148.78666666666666,176
+Opportunistic,MacRitchie,Aporosa frutescens,Aporosa frutescens,2016-05-20T00:00:00Z,2016-07-09T00:00:00Z,unripe,collected by Lam Weng Ngai,SDM seed,11.542857142857143,177
+Opportunistic,Tioman,Lithocarpus Tioman,NA,2016-07-17T00:00:00Z,2016-09-28T00:00:00Z,ripe,fruit dropped on the ground,SDM seed,1077.6714285714286,178
+Opportunistic,Ubin,split fruit sap,Excoecaria agallocha,2016-08-20T00:00:00Z,2016-09-28T00:00:00Z,ripe,pod dry split in the oven,SDM seed,4.093333333333334,179
+Opportunistic,S3,Syzygium polyanthum,Syzygium polyanthum,NA,2016-11-17T00:00:00Z,ripe,NA,SDM seed,86.75000000000001,180
+Opportunistic,S2 Garden,Ploianum alternifolium,Ploianum alternifolium,NA,2017-02-08T00:00:00Z,ripe,NA,SDM seed,0.03333333333333333,181
+Opportunistic,Ubin,Derris trifoliata?,Derris trifoliata,2016-08-28T00:00:00Z,2017-02-08T00:00:00Z,ripe,NA,SDM seed,297.4,182
+Opportunistic,Utown,Craxtoxylum formosum,Craxtoxylum formosum,NA,2017-02-08T00:00:00Z,ripe,Collected by Ester Suen,SDM seed,0.37,183
+Opportunistic,BTNR,Gymnacranthera farquhariana,Gymnacranthera farquhariana,2017-01-17T00:00:00Z,2017-02-08T00:00:00Z,ripe,Gymnacranthera farquhariana var. farquhariana,SDM seed,512.4,184
+Opportunistic,Mandai Track 17,Knema latericia,Knema latericia,2017-01-12T00:00:00Z,2017-02-08T00:00:00Z,ripe,Knema latericia ssp. ridleyi,SDM seed,180.29999999999998,185
+Mandai,Mandai,Syzygium polyanthum,Syzygium polyanthum,2017-02-09T00:00:00Z,2017-03-02T00:00:00Z,ripe,NA,SDM seed,128.025,186
+Mandai,S11 Slope,Elaeocarpus mastersii,Elaeocarpus mastersii,2017-02-08T00:00:00Z,2017-03-02T00:00:00Z,ripe,NA,SDM seed,44.85,187
+Herbarium,SINU,Syzygium filiforme,Syzygium filiforme,2012-02-06T00:00:00Z,2017-03-01T00:00:00Z,ripe,CY Yeo & WF Ang; Lornie Trail,SDM seed,157,188
+Mandai,NA,Horsfieldia polyspherula,Horsfieldia polyspherula,2017-02-07T00:00:00Z,2017-09-26T00:00:00Z,ripe,Collected by Reuben Lim,SDM seed,2303,189
+Opportunistic,Dover,Aphanamixis,Aphanamixis polystachya,2017-09-25T00:00:00Z,2017-11-15T00:00:00Z,ripe,NA,SDM seed,420.93333333333334,190
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,Width fruit,NA,191
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,Length fruit,NA,192
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,DryMassInd fruit,2.7544,193
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,Width fruit,NA,194
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,Length fruit,NA,195
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,DryMassInd fruit,4.505,196
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,Width fruit,NA,197
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,Length fruit,NA,198
+Opportunistic,Utown,cabbage tree,Fagraea crenulata,2015-05-11T00:00:00Z,2015-05-23T00:00:00Z,unripe,UTown casal collection,DryMassInd fruit,4.6813,199
+Opportunistic,Kent Ridge,Ficus1,Ficus grossularioides,2015-04-14T00:00:00Z,2015-04-14T00:00:00Z,unripe,collected opportunistically with Chong Kwek Yan and Germaine Tan Shu Yi,Width fruit,NA,200
+Opportunistic,Kent Ridge,Ficus1,Ficus grossularioides,2015-04-14T00:00:00Z,2015-04-14T00:00:00Z,unripe,collected opportunistically with Chong Kwek Yan and Germaine Tan Shu Yi,Length fruit,NA,201
+Opportunistic,Kent Ridge,Ficus1,Ficus grossularioides,2015-04-14T00:00:00Z,2015-04-14T00:00:00Z,unripe,collected opportunistically with Chong Kwek Yan and Germaine Tan Shu Yi,DryMassInd fruit,0.238,202
+Mandai,near F4,Prunus polystachya,Prunus polystachya,2015-05-26T00:00:00Z,2015-05-26T00:00:00Z,ripe,minor mold on a few specimens; multiple specimens,Width fruit,1.5979999999999999,203
+Mandai,near F4,Prunus polystachya,Prunus polystachya,2015-05-26T00:00:00Z,2015-05-26T00:00:00Z,ripe,minor mold on a few specimens; multiple specimens,Length fruit,2.036,204
+Mandai,near F4,Prunus polystachya,Prunus polystachya,2015-05-26T00:00:00Z,2015-05-26T00:00:00Z,ripe,minor mold on a few specimens; multiple specimens,DryMassInd fruit,0.757090909090909,205
+Mandai,F1,Timonius wallichianus,Timonius wallichianus,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,unripe,multiple specimens,Width fruit,NA,206
+Mandai,F1,Timonius wallichianus,Timonius wallichianus,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,unripe,multiple specimens,Length fruit,NA,207
+Mandai,F1,Timonius wallichianus,Timonius wallichianus,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,unripe,multiple specimens,DryMassInd fruit,0.0907,208
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Width fruit,NA,209
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Length fruit,NA,210
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,DryMassInd fruit,0,211
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Width fruit,NA,212
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Length fruit,NA,213
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,DryMassInd fruit,0,214
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Width fruit,NA,215
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Length fruit,NA,216
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,DryMassInd fruit,0,217
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Width fruit,NA,218
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,Length fruit,NA,219
+Opportunistic,U Hall,Dillenia indica,Dillenia indica,2015-04-01T00:00:00Z,2015-04-07T00:00:00Z,unripe,dropped to the ground by itself,DryMassInd fruit,0,220
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Width fruit,7.19,221
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Length fruit,15.52,222
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,DryMassInd fruit,0.098,223
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Width fruit,7.86,224
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Length fruit,15.04,225
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,DryMassInd fruit,0.1126,226
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Width fruit,7.14,227
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Length fruit,14.07,228
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,DryMassInd fruit,0.0938,229
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Width fruit,7.71,230
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Length fruit,15.23,231
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,DryMassInd fruit,0.1087,232
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Width fruit,7.65,233
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Length fruit,16.43,234
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,DryMassInd fruit,0.1212,235
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Width fruit,7.35,236
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,Length fruit,15.19,237
+Mandai,D23,Nenga pumila,Nenga pumila,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,unripe,NA,DryMassInd fruit,0.0986,238
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,Width fruit,9.28,239
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,Length fruit,8.68,240
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,DryMassInd fruit,0.2029,241
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,Width fruit,10.12,242
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,Length fruit,8.17,243
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,DryMassInd fruit,0.1916,244
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,Width fruit,9.73,245
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,Length fruit,7.86,246
+Opportunistic,Utown,fan palm,Licuala sp,2015-05-30T00:00:00Z,2015-05-30T00:00:00Z,ripe,NA,DryMassInd fruit,0.2052,247
+Mandai,Outside F1,Macaranga tritocarpa,Macaranga tritocarpa,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,ripe,NA,Width fruit,9.251666666666667,248
+Mandai,Outside F1,Macaranga tritocarpa,Macaranga tritocarpa,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,ripe,NA,Length fruit,15.122857142857143,249
+Mandai,Outside F1,Macaranga tritocarpa,Macaranga tritocarpa,2015-05-27T00:00:00Z,2015-05-27T00:00:00Z,ripe,NA,DryMassInd fruit,0.12260000000000001,250
+Mandai,Mandai road,Callerya atropurpurea,Callerya atropurpurea,2015-06-10T00:00:00Z,2015-06-10T00:00:00Z,ripe,NA,Width fruit,NA,251
+Mandai,Mandai road,Callerya atropurpurea,Callerya atropurpurea,2015-06-10T00:00:00Z,2015-06-10T00:00:00Z,ripe,NA,Length fruit,NA,252
+Mandai,Mandai road,Callerya atropurpurea,Callerya atropurpurea,2015-06-10T00:00:00Z,2015-06-10T00:00:00Z,ripe,NA,DryMassInd fruit,0,253
+Herbarium,SING,Ridley 2108,Horsfieldia polyspherula,NA,2016-01-28T00:00:00Z,ripe,SING 0018857,Width fruit,NA,254
+Herbarium,SING,Ridley 2108,Horsfieldia polyspherula,NA,2016-01-28T00:00:00Z,ripe,SING 0018857,Length fruit,NA,255
+Herbarium,SING,Ridley 2108,Horsfieldia polyspherula,NA,2016-01-28T00:00:00Z,ripe,SING 0018857,DryMassInd fruit,1.784,256
+Herbarium,SING,SK531,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,"Collector Sidek bin Kiah, Maulod bin Elin (1976)",Width fruit,NA,257
+Herbarium,SING,SK531,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,"Collector Sidek bin Kiah, Maulod bin Elin (1976)",Length fruit,NA,258
+Herbarium,SING,SK531,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,"Collector Sidek bin Kiah, Maulod bin Elin (1976)",DryMassInd fruit,1.0908333333333333,259
+Herbarium,SING,2130,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,-1888,Width fruit,NA,260
+Herbarium,SING,2130,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,-1888,Length fruit,NA,261
+Herbarium,SING,2130,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,-1888,DryMassInd fruit,1.6456666666666668,262
+Herbarium,SING,Kochummen 79110,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,can be used as seed mass because exocarp relatively thin; (1960),Width fruit,NA,263
+Herbarium,SING,Kochummen 79110,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,can be used as seed mass because exocarp relatively thin; (1960),Length fruit,NA,264
+Herbarium,SING,Kochummen 79110,Knema intermedia,NA,2016-01-28T00:00:00Z,ripe,can be used as seed mass because exocarp relatively thin; (1960),DryMassInd fruit,7.796,265
+Herbarium,SING,Kochummen 95090,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Lagong F.R.,Width fruit,NA,266
+Herbarium,SING,Kochummen 95090,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Lagong F.R.,Length fruit,NA,267
+Herbarium,SING,Kochummen 95090,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Lagong F.R.,DryMassInd fruit,1.028,268
+Herbarium,SING,R. Perry 1204,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Batu Tiga (Melaka?),Width fruit,NA,269
+Herbarium,SING,R. Perry 1204,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Batu Tiga (Melaka?),Length fruit,NA,270
+Herbarium,SING,R. Perry 1204,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Batu Tiga (Melaka?),DryMassInd fruit,2.623,271
+Herbarium,SING,Loh Hoy Shing FRI 17324,Knema curtisii,1973-05-10T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,Width fruit,NA,272
+Herbarium,SING,Loh Hoy Shing FRI 17324,Knema curtisii,1973-05-10T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,Length fruit,NA,273
+Herbarium,SING,Loh Hoy Shing FRI 17324,Knema curtisii,1973-05-10T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,DryMassInd fruit,1.707,274
+Herbarium,SING,SA430,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Samsuri Ahmad and Ahmad Shukor; Lesong F.R. 1971,Width fruit,NA,275
+Herbarium,SING,SA430,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Samsuri Ahmad and Ahmad Shukor; Lesong F.R. 1971,Length fruit,NA,276
+Herbarium,SING,SA430,Knema curtisii,NA,2016-01-28T00:00:00Z,ripe,Samsuri Ahmad and Ahmad Shukor; Lesong F.R. 1971,DryMassInd fruit,1.0257142857142856,277
+Herbarium,SING,Larex Kebal,Knema communis,NA,2016-01-28T00:00:00Z,ripe,NA,Width fruit,NA,278
+Herbarium,SING,Larex Kebal,Knema communis,NA,2016-01-28T00:00:00Z,ripe,NA,Length fruit,NA,279
+Herbarium,SING,Larex Kebal,Knema communis,NA,2016-01-28T00:00:00Z,ripe,NA,DryMassInd fruit,1.84,280
+Herbarium,SING,SAR 12771,Horsfieldia wallichii,NA,2016-01-28T00:00:00Z,ripe,1960,Width fruit,NA,281
+Herbarium,SING,SAR 12771,Horsfieldia wallichii,NA,2016-01-28T00:00:00Z,ripe,1960,Length fruit,NA,282
+Herbarium,SING,SAR 12771,Horsfieldia wallichii,NA,2016-01-28T00:00:00Z,ripe,1960,DryMassInd fruit,13.824,283
+Herbarium,SING,Kepong 77285,Gymnacranthera forbesii,1955-05-28T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,Width fruit,NA,284
+Herbarium,SING,Kepong 77285,Gymnacranthera forbesii,1955-05-28T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,Length fruit,NA,285
+Herbarium,SING,Kepong 77285,Gymnacranthera forbesii,1955-05-28T00:00:00Z,2016-01-28T00:00:00Z,ripe,NA,DryMassInd fruit,0.45620000000000005,286
+Herbarium,SING,Barmarw 1918 C.7.21,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,Width fruit,NA,287
+Herbarium,SING,Barmarw 1918 C.7.21,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,Length fruit,NA,288
+Herbarium,SING,Barmarw 1918 C.7.21,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,DryMassInd fruit,0.361,289
+Herbarium,SING,S.f. Na 28577,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,Width fruit,NA,290
+Herbarium,SING,S.f. Na 28577,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,Length fruit,NA,291
+Herbarium,SING,S.f. Na 28577,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,DryMassInd fruit,0.46175,292
+Herbarium,SING,EJH Corner 32381,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,Width fruit,NA,293
+Herbarium,SING,EJH Corner 32381,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,Length fruit,NA,294
+Herbarium,SING,EJH Corner 32381,Garcinia parvifolia,NA,2016-02-18T00:00:00Z,ripe,NA,DryMassInd fruit,0.6585714285714286,295
+Opportunistic,SBG,Vatica maingayi,Vatica maingayi,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,Width fruit,NA,296
+Opportunistic,SBG,Vatica maingayi,Vatica maingayi,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,Length fruit,NA,297
+Opportunistic,SBG,Vatica maingayi,Vatica maingayi,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,DryMassInd fruit,0.377,298
+Opportunistic,SBG Rainforest,Shorea pauciflora,Shorea pauciflora,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,Width fruit,NA,299
+Opportunistic,SBG Rainforest,Shorea pauciflora,Shorea pauciflora,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,Length fruit,NA,300
+Opportunistic,SBG Rainforest,Shorea pauciflora,Shorea pauciflora,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,DryMassInd fruit,0.0898888888888889,301
+Opportunistic,SBG,Dipterocarpus oblongus,Dipterocarpus hispidus,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,Width fruit,NA,302
+Opportunistic,SBG,Dipterocarpus oblongus,Dipterocarpus hispidus,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,Length fruit,NA,303
+Opportunistic,SBG,Dipterocarpus oblongus,Dipterocarpus hispidus,2016-02-03T00:00:00Z,2016-02-20T00:00:00Z,ripe,dropped to the ground by itself,DryMassInd fruit,0.335,304
