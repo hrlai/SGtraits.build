@@ -1,0 +1,373 @@
+Dataset1,Dataset2,IID,SID,OrgName,AccName,Trait,OrgVal,n
+SG02,NA,A27_32,NA,Santiria rubiginosa,NA,WD_twig,0.44789309192800947,1
+SG02,NA,A27_36,NA,Clerodendrum laevifolium,NA,WD_twig,0.3547937868237815,1
+SG02,NA,A27_39,NA,Knema curtisii,NA,WD_twig,0.5022777212069242,1
+SG02,NA,A27_55,NA,Xylopia ferruginea,NA,WD_twig,0.3772835905537328,1
+SG02,NA,A27_58,NA,Xylopia ferruginea,NA,WD_twig,0.37766017595042634,1
+SG02,NA,A27_Artocarpus elasticus,NA,Artocarpus elasticus,NA,WD_twig,0.6844299748686314,1
+SG02,NA,A27_Prunus polystachya,NA,Prunus polystachya,NA,WD_twig,0.2275922671353251,1
+SG02,NA,A27_macaranga bancana,NA,Macaranga bancana,NA,WD_twig,0.3188562829194883,1
+SG02,NA,A63_16,NA,Syzygium filiforme,NA,WD_twig,0.5230928905033732,1
+SG02,NA,A63_Rorea as. vine,NA,Rourea asplenifolia,NA,WD_twig,0.4434452665528362,1
+SG02,NA,A63_Silverback-1,NA,Rhodamnia cinerea,NA,WD_twig,0.7287005649717514,1
+SG02,NA,A63_Silverback-2,NA,Rhodamnia cinerea,NA,WD_twig,0.5310212765957446,1
+SG02,NA,A63_Swollen Pulvinus vine,NA,Spatholobus ridleyi,NA,WD_twig,0.47861507128309566,1
+SG02,NA,A63_Syzygium filiformi,NA,Syzygium filiforme,NA,WD_twig,0.6995811518324607,1
+SG02,NA,A63_Trigonostemon,NA,Trigonostemon villosus,NA,WD_twig,0.6299265605875153,1
+SG02,NA,B10_37,NA,Ochanostachys amentacea,NA,WD_twig,0.6220816793379533,1
+SG02,NA,B10_71,NA,Litsea accedens,NA,WD_twig,0.47871208089409256,1
+SG02,NA,D12_10,NA,Palaquium obovatum,NA,WD_twig,0.5090936121710689,1
+SG02,NA,D12_56,NA,Litsea elliptica,NA,WD_twig,0.424362552327794,1
+SG02,NA,D13_2,NA,Dasymaschalon dasymaschalum,NA,WD_twig,0.5452959334317541,1
+SG02,NA,D13_24,NA,Gynotroches axillaris,NA,WD_twig,0.5394406033940917,1
+SG02,NA,D13_26,NA,Syzygium filiforme,NA,WD_twig,0.530854271356784,1
+SG02,NA,D13_32,NA,Baccaurea parviflora,NA,WD_twig,0.7503267973856209,1
+SG02,NA,D13_5,NA,Aporosa frutescens,NA,WD_twig,0.5655204460966542,1
+SG02,NA,D13_Timonius,NA,Timonius wallichianus,NA,WD_twig,0.705511811023622,1
+SG02,NA,D23_13,NA,Scleropyrum pentandrum,NA,WD_twig,0.4108085412667946,1
+SG02,NA,D23_14,NA,Xanthophyllum eurhynchum,NA,WD_twig,0.7014319809069212,1
+SG02,NA,D23_17,NA,Baccaurea parviflora,NA,WD_twig,0.6784566949370342,1
+SG02,NA,D23_2,NA,Dyera costulata,NA,WD_twig,0.12058328659562535,1
+SG02,NA,D23_22,NA,Porterandia anisophylla,NA,WD_twig,0.4703905091448344,1
+SG02,NA,D23_25,NA,Macaranga conifera,NA,WD_twig,0.4126162208553855,1
+SG02,NA,D23_27,NA,Archidendron clypearia,NA,WD_twig,0.5922913842838773,1
+SG02,NA,D23_37,NA,Dyera costulata,NA,WD_twig,0.19152676452491868,1
+SG02,NA,D23_38,NA,Palaquium obovatum,NA,WD_twig,0.4662333705697167,1
+SG02,NA,D23_39,NA,Lindera lucida,NA,WD_twig,0.43230403800475053,1
+SG02,NA,D23_44,NA,Litsea firma,NA,WD_twig,0.3322429122630431,1
+SG02,NA,D23_5,NA,Gironniera nervosa,NA,WD_twig,0.40677003712601006,1
+SG02,NA,D23_56,NA,Bhesa robusta,NA,WD_twig,0.5787712488288047,1
+SG02,NA,D23_57,NA,Macaranga gigantea,NA,WD_twig,0.2802839683680805,1
+SG02,NA,D23_62,NA,Cratoxylum arborescens,NA,WD_twig,0.5252671617460605,1
+SG02,NA,D23_70,NA,Buchanania sessilifolia,NA,WD_twig,0.5250146455770357,1
+SG02,NA,D23_74,NA,Ochanostachys amentacea,NA,WD_twig,0.6087191108233517,1
+SG02,NA,D23_75,NA,Dyera costulata,NA,WD_twig,0.34258031616522183,1
+SG02,NA,D57_13,NA,Aquilaria malaccensis,NA,WD_twig,0.34542844090582786,1
+SG02,NA,D57_19,NA,Elaeocarpus ferrugineus,NA,WD_twig,0.5210959130542585,1
+SG02,NA,D57_21,NA,Psydrax sp. 10,NA,WD_twig,0.7856780394615087,1
+SG02,NA,D57_35,NA,Psydrax sp. 10,NA,WD_twig,0.7768732097090305,1
+SG02,NA,D57_41,NA,Cratoxylum formosum,NA,WD_twig,0.7196650459211238,1
+SG02,NA,D57_46,NA,Aporosa globifera,NA,WD_twig,0.5874580166165811,1
+SG02,NA,D57_81,NA,Glochidion lutescens,NA,WD_twig,0.5991471215351812,1
+SG02,NA,D57_83,NA,Decaspermum parviflorum,NA,WD_twig,0.6364468371467024,1
+SG02,NA,Dover_Baccaurea motleyana,NA,Baccaurea motleyana,NA,WD_twig,0.5838276053215078,1
+SG02,NA,E10_40,NA,Artocarpus integer,NA,WD_twig,0.4174434938066658,1
+SG02,NA,E10_5,NA,Artocarpus integer,NA,WD_twig,0.33207258510050575,1
+SG02,NA,E10_58,NA,Ficus aurata,NA,WD_twig,0.5616405112441353,1
+SG02,NA,E10_7,NA,Knema curtisii,NA,WD_twig,0.4547419616319914,1
+SG02,NA,E10_81,NA,Garcinia parvifolia,NA,WD_twig,0.6680070227105397,1
+SG02,NA,E10_9,NA,Calophyllum wallichianum var. incrassatum,NA,WD_twig,0.3977111510451149,1
+SG02,NA,E10_Maesa,NA,Maesa ramentacea,NA,WD_twig,0.5079306071871128,1
+SG02,NA,E3_23,NA,Mallotus paniculatus,NA,WD_twig,0.4327585257010633,1
+SG02,NA,E3_38,NA,Elaeocarpus petiolatus,NA,WD_twig,0.49615837431228005,1
+SG02,NA,E3_4,NA,Litsea grandis,NA,WD_twig,0.496067967982025,1
+SG02,NA,E3_45,NA,Santiria rubiginosa,NA,WD_twig,0.5340962957946772,1
+SG02,NA,E3_46,NA,Clerodendrum laevifolium,NA,WD_twig,0.42357658380112273,1
+SG02,NA,E3_85,NA,Macaranga conifera,NA,WD_twig,0.40898480053950304,1
+SG02,NA,E3_Elaeocarpus mastersii,NA,Elaeocarpus mastersii,NA,WD_twig,0.553258823058126,1
+SG02,NA,E3_Elaeocarpus stipularis,NA,Elaeocarpus stipularis,NA,WD_twig,0.4055198878311563,1
+SG02,NA,E3_Ficus fistulosa,NA,Artocarpus elasticus,NA,WD_twig,0.5138479845307155,1
+SG02,NA,E3_Fisistigma,NA,Fissistigma manubriatum,NA,WD_twig,0.38504045786461416,1
+SG02,NA,E3_Garcinia griff,NA,Garcinia griffithii,NA,WD_twig,0.4982738295722466,1
+SG02,NA,E3_Syzygium filiformi,NA,Syzygium filiforme,NA,WD_twig,0.6911437338306962,1
+SG02,NA,E6_65,NA,Litsea accedens,NA,WD_twig,0.39213095500256917,1
+SG02,NA,E6_70,NA,Trema cannabina,NA,WD_twig,0.30368122032843026,1
+SG02,NA,F1_107,NA,Gordonia multinervis,NA,WD_twig,0.3966514459665144,1
+SG02,NA,F1_131,NA,Dacryodes longifolia,NA,WD_twig,0.4533990920809281,1
+SG02,NA,F1_135,NA,Litsea elliptica,NA,WD_twig,0.3290633233396929,1
+SG02,NA,F1_170,NA,Litsea castanea,NA,WD_twig,0.41150700934579443,1
+SG02,NA,F1_19,NA,Syzygium filiforme,NA,WD_twig,0.6792104095815467,1
+SG02,NA,F1_2,NA,Syzygium filiforme,NA,WD_twig,0.7526106414719045,1
+SG02,NA,F1_20,NA,Alstonia angustifolia,NA,WD_twig,0.41002685765443153,1
+SG02,NA,F1_21,NA,Syzygium filiforme,NA,WD_twig,0.6772140048680022,1
+SG02,NA,F1_25,NA,Prunus polystachya,NA,WD_twig,0.4602208096353295,1
+SG02,NA,F1_29,NA,Alstonia angustifolia,NA,WD_twig,0.5951244351091591,1
+SG02,NA,F1_33,NA,Croton oblongus,NA,WD_twig,0.6264662395268605,1
+SG02,NA,F1_39,NA,Syzygium filiforme,NA,WD_twig,0.7236653386454184,1
+SG02,NA,F1_4,NA,Porterandia anisophylla,NA,WD_twig,0.5669685092580079,1
+SG02,NA,F1_54,NA,Ochanostachys amentacea,NA,WD_twig,0.6437648927720414,1
+SG02,NA,F1_7,NA,Rhodamnia cinerea,NA,WD_twig,0.7853213303325831,1
+SG02,NA,F1_92,NA,Heritiera javanica,NA,WD_twig,0.40683904732336895,1
+SG02,NA,F4_14,NA,Litsea elliptica,NA,WD_twig,0.3969868554095045,1
+SG02,NA,F4_18,NA,Ixonanthes reticulata,NA,WD_twig,0.580715059588299,1
+SG02,NA,F4_26,NA,Syzygium lineatum,NA,WD_twig,0.5942203491872367,1
+SG02,NA,F4_33,NA,Archidendron clypearia,NA,WD_twig,0.3733150036277542,1
+SG02,NA,F4_44,NA,Litsea elliptica,NA,WD_twig,0.3625600825833092,1
+SG02,NA,F4_47,NA,Santiria laevigata,NA,WD_twig,0.28000778159652423,1
+SG02,NA,F4_57,NA,Garcinia parvifolia,NA,WD_twig,0.6552137435077906,1
+SG02,NA,F4_95,NA,Prunus polystachya,NA,WD_twig,0.3930306230200633,1
+SG02,NA,G13_106,NA,Elaeocarpus salicifolius,NA,WD_twig,0.3779219624922229,1
+SG02,NA,G13_11,NA,Xanthophyllum eurhynchum,NA,WD_twig,0.7136173888009212,1
+SG02,NA,G13_115,NA,Macaranga heynei,NA,WD_twig,0.2875658389372174,1
+SG02,NA,G13_117,NA,Gynotroches axillaris,NA,WD_twig,0.5149016841548364,1
+SG02,NA,G13_13,NA,Gaertnera obesa,NA,WD_twig,0.3974358974358974,1
+SG02,NA,G13_19,NA,Macaranga bancana,NA,WD_twig,0.32268041237113404,1
+SG02,NA,G13_2,NA,Dacryodes longifolia,NA,WD_twig,0.5424557116676849,1
+SG02,NA,G13_27,NA,Dacryodes longifolia,NA,WD_twig,0.4765202337156459,1
+SG02,NA,G13_30,NA,Gironniera nervosa,NA,WD_twig,0.5169347209082308,1
+SG02,NA,G13_35,NA,Memecylon garcinioides,NA,WD_twig,0.8950235571260307,1
+SG02,NA,G13_38,NA,Garcinia parvifolia,NA,WD_twig,0.6174966150142921,1
+SG02,NA,G13_39,NA,Xanthophyllum eurhynchum,NA,WD_twig,0.6370266479663393,1
+SG02,NA,G13_43,NA,Ixonanthes icosandra,NA,WD_twig,0.6107897781049532,1
+SG02,NA,G13_49,NA,Artocarpus kemando,NA,WD_twig,0.3167033504524333,1
+SG02,NA,G13_50,NA,Koilodepas longifolium,NA,WD_twig,0.8143153526970955,1
+SG02,NA,G13_61,NA,Elaeocarpus stipularis,NA,WD_twig,0.45820596259408997,1
+SG02,NA,G13_88,NA,Alstonia angustifolia,NA,WD_twig,0.4858245392975271,1
+SG02,NA,G13_92,NA,Calophyllum wallichianum var. incrassatum,NA,WD_twig,0.4789881680946552,1
+SG02,NA,G13_Fisistigma,NA,Fissistigma latifolium var. ovoideum,NA,WD_twig,0.4985438381361128,1
+SG02,NA,G14_24,NA,Memecylon dichotomum,NA,WD_twig,0.7886458409539834,1
+SG02,NA,G14_27,NA,Archidendron microcarpum,NA,WD_twig,0.6836608976239366,1
+SG02,NA,G14_47,NA,Lithocarpus conocarpus,NA,WD_twig,0.6128618113912232,1
+SG02,NA,G14_68,NA,Koompasia malaccensis,NA,WD_twig,0.6547688471515615,1
+SG02,NA,G14_8,NA,Archidendron microcarpum,NA,WD_twig,0.6032761831988156,1
+SG02,NA,G14_Terentang,NA,Campnosperma auriculatum,NA,WD_twig,0.5299594600614781,1
+SG02,NA,G17_10,NA,Timonius wallichianus,NA,WD_twig,0.7154777486910995,1
+SG02,NA,G17_102,NA,Strombosia ceylanica,NA,WD_twig,0.6593716907871515,1
+SG02,NA,G17_115,NA,Palaquium obovatum,NA,WD_twig,0.36512184814762644,1
+SG02,NA,G17_170,NA,Drepananthus ramuliflorus,NA,WD_twig,0.32481916333226246,1
+SG02,NA,G17_22,NA,Glycosmis chlorosperma,NA,WD_twig,0.6509211802188668,1
+SG02,NA,G17_46,NA,Dacryodes longifolia,NA,WD_twig,0.4136816590358201,1
+SG02,NA,G17_50,NA,Garcinia parvifolia,NA,WD_twig,0.6583845904823568,1
+SG02,NA,G17_52,NA,Palaquium obovatum,NA,WD_twig,0.4640039103414566,1
+SG02,NA,G17_63,NA,Elaeocarpus petiolatus,NA,WD_twig,0.5076302403087177,1
+SG02,NA,G17_64,NA,Ardisia teysmanniana,NA,WD_twig,0.5585355470412942,1
+SG02,NA,G17_73,NA,Dacryodes puberula,NA,WD_twig,0.6202912504513177,1
+SG02,NA,G17_78,NA,Calophyllum wallichianum var. incrassatum,NA,WD_twig,0.5932569825873555,1
+SG02,NA,G17_8,NA,Dacryodes rostrata,NA,WD_twig,0.4465083470491418,1
+SG02,NA,G17_86,NA,Litsea firma,NA,WD_twig,0.4218117408906883,1
+SG02,NA,G17_95,NA,Calophyllum wallichianum var. incrassatum,NA,WD_twig,0.5583867737605727,1
+SG02,NA,G17_Macaranga.conifera,NA,Macaranga conifera,NA,WD_twig,0.4017810065030172,1
+SG02,NA,G21_11,NA,Dasymaschalon dasymaschalum,NA,WD_twig,0.5763131813676907,1
+SG02,NA,G21_12,NA,Ixonanthes reticulata,NA,WD_twig,0.7473562273457643,1
+SG02,NA,G21_3,NA,Elaeocarpus ferrugineus,NA,WD_twig,0.6098487372559471,1
+SG02,NA,G21_45,NA,Gonystylus confusus,NA,WD_twig,0.5697778663213467,1
+SG02,NA,G2_1,NA,Alstonia angustifolia,NA,WD_twig,0.5928503375999338,1
+SG02,NA,G2_10,NA,Elaeocarpus mastersii,NA,WD_twig,0.5803599621092517,1
+SG02,NA,G2_11,NA,Beilschmiedia madang,NA,WD_twig,0.5189606741573034,1
+SG02,NA,G2_112,NA,Phaeanthus ophthalmicus,NA,WD_twig,0.6312938177182918,1
+SG02,NA,G2_18,NA,Litsea elliptica,NA,WD_twig,0.4307768309250339,1
+SG02,NA,G2_20,NA,Archidendron clypearia,NA,WD_twig,0.39226920008702587,1
+SG02,NA,G2_22,NA,Rhodamnia cinerea,NA,WD_twig,0.7639115185993206,1
+SG02,NA,G2_4,NA,Syzygium borneense,NA,WD_twig,0.4279151943462898,1
+SG02,NA,G2_45,NA,Archidendron clypearia,NA,WD_twig,0.5215051419818684,1
+SG02,NA,G2_57,NA,Alstonia angustifolia,NA,WD_twig,0.6472749540722597,1
+SG02,NA,G2_7,NA,Xanthophyllum ellipticum,NA,WD_twig,0.5574169143474736,1
+SG02,NA,G2_76,NA,Nothaphoebe umbelliblora,NA,WD_twig,0.538169548713623,1
+SG02,NA,G4_128,NA,Ficus microcarpa,NA,WD_twig,0.4814975113611772,1
+SG02,NA,G4_13,NA,Aporosa lucida,NA,WD_twig,0.5449476174383239,1
+SG02,NA,G4_147,NA,Knema laurina,NA,WD_twig,0.4599069512862617,1
+SG02,NA,G4_21,NA,Ixonanthes icosandra,NA,WD_twig,0.6239339163037337,1
+SG02,NA,G4_37,NA,Timonius wallichianus,NA,WD_twig,0.5090524814748797,1
+SG02,NA,G4_4,NA,Heritiera elata,NA,WD_twig,0.693646318985146,1
+SG02,NA,G4_5,NA,Baccaurea bracteata,NA,WD_twig,0.5936870382807253,1
+SG02,NA,G4_59,NA,Prunus polystachya,NA,WD_twig,0.502314394626974,1
+SG02,NA,G4_6,NA,Baccaurea bracteata,NA,WD_twig,0.5770880240162968,1
+SG02,NA,G4_66,NA,Litsea elliptica,NA,WD_twig,0.3921598675943237,1
+SG02,NA,G4_8,NA,Porterandia anisophylla,NA,WD_twig,0.4765111180707799,1
+SG02,NA,G4_86,NA,Lithocarpus ewyckii,NA,WD_twig,0.6179747256401729,1
+SG02,NA,G4_90,NA,Elaeocarpus salicifolius,NA,WD_twig,0.43456984913613395,1
+SG02,NA,H11_3,NA,Koilodepas longifolium,NA,WD_twig,0.7220600162206002,1
+SG02,NA,H11_35,NA,Syzygium ridleyi,NA,WD_twig,0.49901185770750983,1
+SG02,NA,H11_37,NA,Streblus elongatus,NA,WD_twig,0.6779494726514596,1
+SG02,NA,H11_57,NA,Aquilaria malaccensis,NA,WD_twig,0.3219479201893811,1
+SG02,NA,H11_67,NA,Pimelodendron griffithianum,NA,WD_twig,0.4639510570742662,1
+SG02,NA,H11_69,NA,Croton oblongus,NA,WD_twig,0.570480928689884,1
+SG02,NA,H12_111,NA,Calophyllum tetrapterum,NA,WD_twig,0.5321326024536674,1
+SG02,NA,H12_17,NA,Castanopsis wallichii,NA,WD_twig,0.5398416146891863,1
+SG02,NA,H12_50,NA,Macaranga heynei,NA,WD_twig,0.4659291663161437,1
+SG02,NA,H12_63,NA,Lindera lucida,NA,WD_twig,0.36697995327864397,1
+SG02,NA,H13_10,NA,Nephelium maingayi,NA,WD_twig,0.5557334647124029,1
+SG02,NA,H13_M.tri1,NA,Macaranga trichocarpa,NA,WD_twig,0.419336051252184,1
+SG02,NA,H13_Rattan,NA,Rattan,NA,WD_twig,0.568526868820585,1
+SG02,NA,H16_11,NA,Calophyllum teysmannii,NA,WD_twig,0.8183842068558554,1
+SG02,NA,H16_42,NA,Diospyros lanceifolia,NA,WD_twig,0.45465116279069767,1
+SG02,NA,H16_71,NA,Archidendron clypearia,NA,WD_twig,0.43855902036166883,1
+SG02,NA,H18_6,NA,Baccaurea polyneura,NA,WD_twig,0.4820984315846403,1
+SG02,NA,H1_12,NA,Elaeocarpus stipularis,NA,WD_twig,0.4762796504369538,1
+SG02,NA,H1_2,NA,Rhodamnia cinerea,NA,WD_twig,0.7612708018154312,1
+SG02,NA,H1_7 or 9,NA,Prunus polystachya,NA,WD_twig,0.45142857142857146,1
+SG02,NA,H1_SVP,NA,Spatholobus ridleyi,NA,WD_twig,0.48697788697788696,1
+SG02,NA,H21_14,NA,Horsfieldia polypherula,NA,WD_twig,0.4680629884880453,1
+SG02,NA,H21_29,NA,Lindera lucida,NA,WD_twig,0.4083132265847773,1
+SG02,NA,H21_Garcinia forbesii,NA,Garcinia forbesii,NA,WD_twig,0.4770304067395025,1
+SG02,NA,H23_13,NA,Horsfieldia sucosa,NA,WD_twig,0.40629604164620364,1
+SG02,NA,H23_29,NA,Baccaurea macrocarpa,NA,WD_twig,0.5883597111808038,1
+SG02,NA,H23_7,NA,Cratoxylum cochinchinense,NA,WD_twig,0.5465242185808128,1
+SG02,NA,H23_9,NA,Pternandra echinata,NA,WD_twig,0.4902222222222222,1
+SG02,NA,H8_12,NA,Elaeocarpus stipularis,NA,WD_twig,0.4211666666666667,1
+SG02,NA,H8_5,NA,Gynotroches axillaris,NA,WD_twig,0.4799285714285715,1
+SG02,NA,H8_77,NA,Garcinia parvifolia,NA,WD_twig,0.5291126506024095,1
+SG02,NA,Holland Woods_Albizia 2,NA,Falcataria moluccana,NA,WD_twig,0.3419984245288735,1
+SG02,NA,Holland Woods_Senna 1,NA,Senna alata,NA,WD_twig,0.3549588449601943,1
+SG02,NA,Holland Woods_Senna 2,NA,Senna alata,NA,WD_twig,0.38250098309083763,1
+SG02,NA,Kent Ridge_Archidendron jiringa,NA,Archidendron jiringa,NA,WD_twig,0.42777541053459633,1
+SG02,NA,Kent Ridge_Cinnamomum iners,NA,Cinnamomum iners,NA,WD_twig,0.4959481361426256,1
+SG02,NA,Kent Ridge_Dillenia suff 1,NA,Dillenia suffruticosa,NA,WD_twig,0.2838095238095238,1
+SG02,NA,Kent Ridge_Dillenia suff 2,NA,Dillenia suffruticosa,NA,WD_twig,0.2467692307692308,1
+SG02,NA,Kent Ridge_Ficus glob,NA,Ficus grossularioides,NA,WD_twig,0.4349623223062477,1
+SG02,NA,Kent Ridge_Ilex,NA,Ilex cymosa,NA,WD_twig,0.6265757575757576,1
+SG02,NA,Kent Ridge_Syzygium grande,NA,Syzygium grande,NA,WD_twig,0.667180137731062,1
+SG02,NA,KentRidge_Aporosa lunata,NA,Aporosa lunata,NA,WD_twig,0.4264705882352941,1
+SG02,NA,KentRidge_Ficglo3,NA,Ficus grossularioides,NA,WD_twig,0.4487282268056264,1
+SG02,NA,KentRidge_Ficglo4,NA,Ficus grossularioides,NA,WD_twig,0.4052705882352941,1
+SG02,NA,KentRidge_Ficglo5,NA,Ficus grossularioides,NA,WD_twig,0.5721961972995315,1
+SG02,NA,KentRidge_Malpan4,NA,Mallotus paniculatus,NA,WD_twig,0.5677724459280896,1
+SG02,NA,KentRidge_Malpan5,NA,Mallotus paniculatus,NA,WD_twig,0.46745087555139686,1
+SG02,NA,KentRidge_Melmal1,NA,Melastoma malabathricum,NA,WD_twig,0.4345410439001487,1
+SG02,NA,KentRidge_Melmal2,NA,Melastoma malabathricum,NA,WD_twig,0.4696055684454757,1
+SG02,NA,KentRidge_Melmal3,NA,Melastoma malabathricum,NA,WD_twig,0.4257534246575343,1
+SG02,NA,KentRidge_Melmal4,NA,Melastoma malabathricum,NA,WD_twig,0.3964172813487882,1
+SG02,NA,Labrador Park_Callerya atropurpurea,NA,Callerya atropurpurea,NA,WD_twig,0.34752716211401946,1
+SG02,NA,Labrador Park_Syzygium syzygioides,NA,Syzygium syzygioides,NA,WD_twig,0.5387023248971462,1
+SG02,NA,Mandai_Actino,NA,Actinodaphne macrophylla,NA,WD_twig,0.38441935230926055,1
+SG02,NA,Mandai_Calophyllum pulcherimum,NA,Calophyllum pulcherrimum,NA,WD_twig,0.7264982373678026,1
+SG02,NA,Mandai_Dyera costulata,NA,Dyera costulata,NA,WD_twig,0.4080307018112513,1
+SG02,NA,NSSF_Calo wall,NA,Calophyllum wallichianum var. incrassatum,NA,WD_twig,0.541539655267971,1
+SG02,NA,NSSF_Calophyllum rubi or teys,NA,NA,NA,WD_twig,0.6977742244963224,1
+SG02,NA,NSSF_Clerodendrum villosum,NA,Clerodendrum villosum,NA,WD_twig,0.42285373608903015,1
+SG02,NA,NSSF_F. fistulosa,NA,Ficus fistulosa,NA,WD_twig,0.3671217609361939,1
+SG02,NA,NSSF_Garcinia sp.,NA,NA,NA,WD_twig,0.7131802120141342,1
+SG02,NA,NSSF_Garpar1,NA,Garcinia parvifolia,NA,WD_twig,0.39409701928696667,1
+SG02,NA,NSSF_Garpar2,NA,Garcinia parvifolia,NA,WD_twig,0.4866596429283294,1
+SG02,NA,NSSF_Garpar3,NA,Garcinia parvifolia,NA,WD_twig,0.6282036635058456,1
+SG02,NA,NSSF_Jelutong1,NA,Dyera costulata,NA,WD_twig,0.37448888888888887,1
+SG02,NA,NSSF_Leaf litter,NA,Agrostistachys borneensis,NA,WD_twig,0.6336552894341839,1
+SG02,NA,NSSF_Macaranga griff,NA,Macaranga griffithiana,NA,WD_twig,0.39867060561299855,1
+SG02,NA,NSSF_Maranthes,NA,Maranthes corymbosa,NA,WD_twig,0.7361351462711166,1
+SG02,NA,NSSF_Symplocos fasciculata,NA,Symplocos fasciculata,NA,WD_twig,0.26194196428571426,1
+SG02,NA,NSSF_Ziziphus calophylla,NA,Ziziphus calophylla,NA,WD_twig,0.4961569794212446,1
+SG02,NA,NUS School Field_Baphia nitida,NA,Baphia nitida,NA,WD_twig,0.6870977350433969,1
+SG02,NA,Native nursery_Ficus heteropleura,NA,Ficus heteropleura,NA,WD_twig,0.6293385826771654,1
+SG02,NA,Near D23_Palaquium,NA,Palaquium obovatum,NA,WD_twig,0.3917621145374449,1
+SG02,NA,Near D23_unknown_Alex,NA,Palaquium obovatum,NA,WD_twig,0.5702899374644684,1
+SG02,NA,Near E10_G.sco2,NA,Garcinia scortechinii,NA,WD_twig,0.6945590560289978,1
+SG02,NA,Near E10_Macaranga.gigantea,NA,Macaranga gigantea,NA,WD_twig,0.29741726260544277,1
+SG02,NA,Near E10_Pternandra,NA,Pternandra echinata,NA,WD_twig,0.5187256538675571,1
+SG02,NA,Near G4_Anisophylla,NA,Anisophyllea disticha,NA,WD_twig,0.7696170999236611,1
+SG02,NA,Nursery_Clausena excavata,NA,Clausena excavata,NA,WD_twig,0.4384934841758556,1
+SG02,NA,Nursery_Cratoxylum maingayi,NA,Cratoxylum maingayi,NA,WD_twig,0.6272802065306817,1
+SG02,NA,Nursery_Falcataria moluccana,NA,Falcataria moluccana,NA,WD_twig,0.30623671969218397,1
+SG02,NA,Outside D12_Ginorriena.nervosa,NA,Gironniera nervosa,NA,WD_twig,0.5526927380713281,1
+SG02,NA,Outside D23_Cryptocarya GRIFFITHI,NA,Cryptocarya griffithiana,NA,WD_twig,0.609892601431981,1
+SG02,NA,Outside E3_Anisophylla,NA,Anisophyllea disticha,NA,WD_twig,0.7080111598246313,1
+SG02,NA,Outside G2_Porterandia.anisophylla,NA,Porterandia anisophylla,NA,WD_twig,0.5322462337076116,1
+SG02,NA,Q111_15,NA,Diospyros lanceifolia,NA,WD_twig,0.4676056338028169,1
+SG02,NA,Q111_35,NA,Santiria apiculata,NA,WD_twig,0.5743565746373421,1
+SG02,NA,Q111_Camnosperma squa,NA,Campnosperma squamatum,NA,WD_twig,0.5673532628508932,1
+SG02,NA,Q111_Sandoricum,NA,Sandoricum beccarianum,NA,WD_twig,0.447534516765286,1
+SG02,NA,Q111_Trema,NA,Trema tomentosa,NA,WD_twig,0.29333215812436647,1
+SG02,NA,Q204_23,NA,Actinodaphne malaccensis,NA,WD_twig,0.626925887099336,1
+SG02,NA,Q204_41,NA,Knema communis,NA,WD_twig,0.5336874272409778,1
+SG02,NA,Q509_34,NA,Polyalthia cauliflora,NA,WD_twig,0.6106036410092622,1
+SG02,NA,S1_Malpan3,NA,Mallotus paniculatus,NA,WD_twig,0.44839199630192167,1
+SG02,NA,S2_Dillenia suff,NA,Dillenia suffruticosa,NA,WD_twig,0.3752846153846154,1
+SG02,NA,S3_Dilsuf1,NA,Dillenia suffruticosa,NA,WD_twig,0.38090764561352797,1
+SG02,NA,S3_Dilsuf2,NA,Dillenia suffruticosa,NA,WD_twig,0.33520449077786685,1
+SG02,NA,S3_Dilsuf3,NA,Dillenia suffruticosa,NA,WD_twig,0.19546873193850423,1
+SG02,NA,S3_Dilsuf4,NA,Dillenia suffruticosa,NA,WD_twig,0.21560814124570865,1
+SG02,NA,S3_Dilsuf5,NA,Dillenia suffruticosa,NA,WD_twig,0.31188544739429697,1
+SG02,NA,S3_Ficglo1,NA,Ficus grossularioides,NA,WD_twig,0.4716271334098919,1
+SG02,NA,S3_Ficglo2,NA,Ficus grossularioides,NA,WD_twig,0.4022940124171314,1
+SG02,NA,S3_Malpan1,NA,Mallotus paniculatus,NA,WD_twig,0.36095146871008943,1
+SG02,NA,S3_Malpan2,NA,Mallotus paniculatus,NA,WD_twig,0.35808442013742814,1
+SG02,NA,S8_Sysmyr1,NA,Syzygium myrtifolium,NA,WD_twig,0.6778255342333072,1
+SG02,NA,S8_Sysmyr2,NA,Syzygium myrtifolium,NA,WD_twig,0.7025495750708216,1
+SG02,NA,S8_Sysmyr3,NA,Syzygium myrtifolium,NA,WD_twig,0.6759814204375186,1
+SG02,NA,S8_Sysmyr4,NA,Syzygium myrtifolium,NA,WD_twig,0.6301879530438129,1
+SG02,NA,S8_Sysmyr5,NA,Syzygium myrtifolium,NA,WD_twig,0.6442315433539973,1
+SG02,NA,Tekukor_Diospyros discolor,NA,Diospyros blancoi,NA,WD_twig,0.5944559445594456,1
+SG02,NA,Uhall_Cracoc1,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6209428129829985,1
+SG02,NA,Uhall_Cracoc2,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6346845766370832,1
+SG02,NA,Uhall_Cracoc3,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6860430805547358,1
+SG02,NA,Uhall_Cracoc4,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6512409513960704,1
+SG02,NA,Uhall_Cracoc5,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6642565231059415,1
+SG02,NA,WengNgai_Trema,NA,Trema tomentosa,NA,WD_twig,0.325597626941197,1
+SG05,NA,adindu 1,NA,Adinandra dumosa,NA,WD_twig,0.5335051945663623,3
+SG05,NA,adindu 2,NA,Adinandra dumosa,NA,WD_twig,0.5731899089197242,3
+SG05,NA,adindu 3,NA,Adinandra dumosa,NA,WD_twig,0.552374861509957,3
+SG05,NA,adindu 4,NA,Adinandra dumosa,NA,WD_twig,0.517580183164708,3
+SG05,NA,adindu 5,NA,Adinandra dumosa,NA,WD_twig,0.533779346693833,3
+SG05,NA,archcl 1,NA,Archidendron clypearia,NA,WD_twig,0.5121573685906947,3
+SG05,NA,archcl 2,NA,Archidendron clypearia,NA,WD_twig,0.4484622727819344,3
+SG05,NA,archcl 3,NA,Archidendron clypearia,NA,WD_twig,0.4233802726648176,3
+SG05,NA,archcl 4,NA,Archidendron clypearia,NA,WD_twig,0.4966137629610323,3
+SG05,NA,archcl 5,NA,Archidendron clypearia,NA,WD_twig,0.5028814385313091,3
+SG05,NA,caloin 1,NA,Calophyllum inophyllum,NA,WD_twig,0.5159398033377243,3
+SG05,NA,caloin 2,NA,Calophyllum inophyllum,NA,WD_twig,0.5483053976506663,3
+SG05,NA,caloin 3,NA,Calophyllum inophyllum,NA,WD_twig,0.5217239648605771,3
+SG05,NA,caloin 4,NA,Calophyllum inophyllum,NA,WD_twig,0.6033218795008688,3
+SG05,NA,caloin 5,NA,Calophyllum inophyllum,NA,WD_twig,0.5003045681876463,3
+SG05,NA,cinnin 1,NA,Cinnamomum iners,NA,WD_twig,0.5619847041767085,3
+SG05,NA,cinnin 2,NA,Cinnamomum iners,NA,WD_twig,0.5320352390230962,3
+SG05,NA,cinnin 3,NA,Cinnamomum iners,NA,WD_twig,0.569230657955918,3
+SG05,NA,cinnin 4,NA,Cinnamomum iners,NA,WD_twig,0.5572213800127118,3
+SG05,NA,cinnin 5,NA,Cinnamomum iners,NA,WD_twig,0.5608238728456141,3
+SG05,NA,claoin 1,NA,Claoxylon indicum,NA,WD_twig,0.45511504226649474,3
+SG05,NA,claoin 2,NA,Claoxylon indicum,NA,WD_twig,0.3960670845548369,3
+SG05,NA,claoin 3,NA,Claoxylon indicum,NA,WD_twig,0.3906899321031956,3
+SG05,NA,claoin 4,NA,Claoxylon indicum,NA,WD_twig,0.3782324716676189,3
+SG05,NA,claoin 5,NA,Claoxylon indicum,NA,WD_twig,0.4710491016370427,3
+SG05,NA,cratco 1,NA,Cratoxylum cochinchinense,NA,WD_twig,0.672018203530044,3
+SG05,NA,cratco 2,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6777224081200822,3
+SG05,NA,cratco 3,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6343717464331811,3
+SG05,NA,cratco 4,NA,Cratoxylum cochinchinense,NA,WD_twig,0.7072937504897988,3
+SG05,NA,cratco 5,NA,Cratoxylum cochinchinense,NA,WD_twig,0.6430067234876726,3
+SG05,NA,dillsu 1,NA,Dillenia suffruticosa,NA,WD_twig,0.44913971464130303,3
+SG05,NA,dillsu 2,NA,Dillenia suffruticosa,NA,WD_twig,0.460170985273623,3
+SG05,NA,dillsu 3,NA,Dillenia suffruticosa,NA,WD_twig,0.5010710223880022,3
+SG05,NA,dillsu 4,NA,Dillenia suffruticosa,NA,WD_twig,0.4579103861099086,3
+SG05,NA,dillsu 5,NA,Dillenia suffruticosa,NA,WD_twig,0.5052783114948999,3
+SG05,NA,diospi 1,NA,Diospyros pilosanthera,NA,WD_twig,0.5660728260589435,3
+SG05,NA,diospi 2,NA,Diospyros pilosanthera,NA,WD_twig,0.6267775532519624,3
+SG05,NA,diospi 3,NA,Diospyros pilosanthera,NA,WD_twig,0.6026608830169251,3
+SG05,NA,diospi 4,NA,Diospyros pilosanthera,NA,WD_twig,0.6014254446108354,3
+SG05,NA,diospi 5,NA,Diospyros pilosanthera,NA,WD_twig,0.6598575048380787,3
+SG05,NA,fagrfr 1,NA,Fagraea fragrans,NA,WD_twig,0.685081131250863,3
+SG05,NA,fagrfr 2,NA,Fagraea fragrans,NA,WD_twig,0.7722751987995317,3
+SG05,NA,fagrfr 3,NA,Fagraea fragrans,NA,WD_twig,0.8096473553393184,3
+SG05,NA,fagrfr 4,NA,Fagraea fragrans,NA,WD_twig,0.7091154970022636,3
+SG05,NA,fagrfr 5,NA,Fagraea fragrans,NA,WD_twig,0.6858034067053208,3
+SG05,NA,garcpa 1,NA,Garcinia parvifolia,NA,WD_twig,0.7051850896546791,3
+SG05,NA,garcpa 2,NA,Garcinia parvifolia,NA,WD_twig,0.720167694791306,3
+SG05,NA,garcpa 3,NA,Garcinia parvifolia,NA,WD_twig,0.6306038288721707,3
+SG05,NA,garcpa 4,NA,Garcinia parvifolia,NA,WD_twig,0.6343498473652626,3
+SG05,NA,garcpa 5,NA,Garcinia parvifolia,NA,WD_twig,0.5823054895390002,3
+SG05,NA,girone 1,NA,Gironniera nervosa,NA,WD_twig,0.4803222695928042,3
+SG05,NA,girone 2,NA,Gironniera nervosa,NA,WD_twig,0.4824342954932134,3
+SG05,NA,girone 3,NA,Gironniera nervosa,NA,WD_twig,0.41134715077401557,3
+SG05,NA,girone 4,NA,Gironniera nervosa,NA,WD_twig,0.5115526097555825,3
+SG05,NA,girone 5,NA,Gironniera nervosa,NA,WD_twig,0.4733966691635444,3
+SG05,NA,melama 1,NA,Melastoma malabathricum,NA,WD_twig,0.5948254636252781,3
+SG05,NA,melama 2,NA,Melastoma malabathricum,NA,WD_twig,0.5296823340295077,3
+SG05,NA,melama 3,NA,Melastoma malabathricum,NA,WD_twig,0.5702210565322092,3
+SG05,NA,melama 4,NA,Melastoma malabathricum,NA,WD_twig,0.5625340904787622,3
+SG05,NA,melama 5,NA,Melastoma malabathricum,NA,WD_twig,0.4980995174828426,3
+SG05,NA,prunpo 1,NA,Prunus polystachya,NA,WD_twig,0.5425921822808303,3
+SG05,NA,prunpo 2,NA,Prunus polystachya,NA,WD_twig,0.4745372897155115,3
+SG05,NA,prunpo 3,NA,Prunus polystachya,NA,WD_twig,0.47107121867096163,3
+SG05,NA,prunpo 4,NA,Prunus polystachya,NA,WD_twig,0.5527166440906368,3
+SG05,NA,prunpo 5,NA,Prunus polystachya,NA,WD_twig,0.6050028909050758,3
+SG05,NA,rhodci 1,NA,Rhodamnia cinerea,NA,WD_twig,0.8856090221616032,3
+SG05,NA,rhodci 2,NA,Rhodamnia cinerea,NA,WD_twig,0.7982692602077298,3
+SG05,NA,rhodci 3,NA,Rhodamnia cinerea,NA,WD_twig,0.8032734815770853,3
+SG05,NA,rhodci 4,NA,Rhodamnia cinerea,NA,WD_twig,0.8193639969431213,3
+SG05,NA,rhodci 5,NA,Rhodamnia cinerea,NA,WD_twig,0.8173307983957478,3
+SG05,NA,santla 1,NA,Santiria laevigata,NA,WD_twig,0.41350774901385406,3
+SG05,NA,santla 2,NA,Santiria laevigata,NA,WD_twig,0.5327115269692272,3
+SG05,NA,santla 3,NA,Santiria laevigata,NA,WD_twig,0.556602803612246,3
+SG05,NA,santla 4,NA,Santiria laevigata,NA,WD_twig,0.5150832249538349,3
+SG05,NA,santla 5,NA,Santiria laevigata,NA,WD_twig,0.4603008031379476,3
+SG05,NA,suremu 1,NA,Suregada multiflora,NA,WD_twig,0.6124530255407695,3
+SG05,NA,suremu 2,NA,Suregada multiflora,NA,WD_twig,0.6627048983056393,3
+SG05,NA,suremu 3,NA,Suregada multiflora,NA,WD_twig,0.6411243675298769,3
+SG05,NA,suremu 4,NA,Suregada multiflora,NA,WD_twig,0.6553908741427802,3
+SG05,NA,suremu 5,NA,Suregada multiflora,NA,WD_twig,0.6649715019323817,3
+SG05,NA,syzygr 1,NA,Syzygium grande,NA,WD_twig,0.6025368804485309,3
+SG05,NA,syzygr 2,NA,Syzygium grande,NA,WD_twig,0.6023668533308854,3
+SG05,NA,syzygr 3,NA,Syzygium grande,NA,WD_twig,0.5887648965421225,3
+SG05,NA,syzygr 4,NA,Syzygium grande,NA,WD_twig,0.6032822603792491,3
+SG05,NA,syzygr 5,NA,Syzygium grande,NA,WD_twig,0.6492756843688919,3
+SG05,NA,timowa 1,NA,Timonius wallichianus,NA,WD_twig,0.6622056527740663,3
+SG05,NA,timowa 2,NA,Timonius wallichianus,NA,WD_twig,0.5413448284629495,3
+SG05,NA,timowa 3,NA,Timonius wallichianus,NA,WD_twig,0.5528681960322107,3
+SG05,NA,timowa 4,NA,Timonius wallichianus,NA,WD_twig,0.6590209487904416,3
