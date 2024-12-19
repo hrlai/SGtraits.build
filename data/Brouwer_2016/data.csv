@@ -1,0 +1,1667 @@
+Dataset1,Dataset2,IID,SID,OrgName,AccName,Trait,OrgVal,n
+SG07,Tech,B.Vista MRTTTerminalia catappa 5,NA,Terminalia catappa,NA,Thickness,0.24383333333333335,6
+SG07,Tech,B.Vista MRTTTerminalia catappa 5,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_concave,2.3743617102890724,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 5,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_flat,2.540975197652092,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 5,NA,Terminalia catappa,NA,leaf_work_to_punch_concave,0.5791106924153038,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 5,NA,Terminalia catappa,NA,leaf_work_to_punch_flat,0.6189814668187372,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 5,NA,Terminalia catappa,NA,leaf_work_to_shear,3540.118838028169,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 6,NA,Terminalia catappa,NA,Thickness,0.24566666666666667,6
+SG07,Tech,B.Vista MRTTTerminalia catappa 6,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_concave,2.4647660016389348,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 6,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_flat,2.8786959782641075,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 6,NA,Terminalia catappa,NA,leaf_work_to_punch_concave,0.6117620673382802,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 6,NA,Terminalia catappa,NA,leaf_work_to_punch_flat,0.7285850771129497,2
+SG07,Tech,B.Vista MRTTTerminalia catappa 6,NA,Terminalia catappa,NA,leaf_work_to_shear,4852.998679957877,2
+SG07,Tech,KRTAcacia auriculiformis 1,NA,Acacia auriculiformis,NA,Thickness,0.31133333333333335,6
+SG07,Tech,KRTAcacia auriculiformis 1,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,2.9660940148678527,2
+SG07,Tech,KRTAcacia auriculiformis 1,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.0008514694352817,2
+SG07,Tech,KRTAcacia auriculiformis 1,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.9430340571347098,2
+SG07,Tech,KRTAcacia auriculiformis 1,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,0.9143205364738007,2
+SG07,Tech,KRTAcacia auriculiformis 1,NA,Acacia auriculiformis,NA,leaf_work_to_shear,2713.022206512022,2
+SG07,Tech,KRTAcacia auriculiformis 10,NA,Acacia auriculiformis,NA,Thickness,0.29533333333333334,6
+SG07,Tech,KRTAcacia auriculiformis 10,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,3.5871853712244226,2
+SG07,Tech,KRTAcacia auriculiformis 10,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,4.395041014246679,2
+SG07,Tech,KRTAcacia auriculiformis 10,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.99340577623699,2
+SG07,Tech,KRTAcacia auriculiformis 10,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.1973538115599034,2
+SG07,Tech,KRTAcacia auriculiformis 10,NA,Acacia auriculiformis,NA,leaf_work_to_shear,5188.707608050401,2
+SG07,Tech,KRTAcacia auriculiformis 11,NA,Acacia auriculiformis,NA,Thickness,0.2908,5
+SG07,Tech,KRTAcacia auriculiformis 11,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,3.3856419290166833,2
+SG07,Tech,KRTAcacia auriculiformis 11,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.976669796898827,2
+SG07,Tech,KRTAcacia auriculiformis 11,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.9940620852806679,2
+SG07,Tech,KRTAcacia auriculiformis 11,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.125241855385792,2
+SG07,Tech,KRTAcacia auriculiformis 11,NA,Acacia auriculiformis,NA,leaf_work_to_shear,3766.2162162162153,1
+SG07,Tech,KRTAcacia auriculiformis 2,NA,Acacia auriculiformis,NA,Thickness,0.30966666666666665,6
+SG07,Tech,KRTAcacia auriculiformis 2,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,2.7826982571750367,2
+SG07,Tech,KRTAcacia auriculiformis 2,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.7028888306684498,2
+SG07,Tech,KRTAcacia auriculiformis 2,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,1.007270304784686,2
+SG07,Tech,KRTAcacia auriculiformis 2,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.0752803294358104,2
+SG07,Tech,KRTAcacia auriculiformis 2,NA,Acacia auriculiformis,NA,leaf_work_to_shear,3011.4347357065803,2
+SG07,Tech,KRTAcacia auriculiformis 3,NA,Acacia auriculiformis,NA,Thickness,0.34900000000000003,6
+SG07,Tech,KRTAcacia auriculiformis 3,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,2.352668479300763,2
+SG07,Tech,KRTAcacia auriculiformis 3,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.571685931111297,2
+SG07,Tech,KRTAcacia auriculiformis 3,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.9141564592128812,2
+SG07,Tech,KRTAcacia auriculiformis 3,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.183571321642667,2
+SG07,Tech,KRTAcacia auriculiformis 3,NA,Acacia auriculiformis,NA,leaf_work_to_shear,5330.573406710456,2
+SG07,Tech,KRTAcacia auriculiformis 4,NA,Acacia auriculiformis,NA,Thickness,0.29983333333333334,6
+SG07,Tech,KRTAcacia auriculiformis 4,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,2.833101923015154,2
+SG07,Tech,KRTAcacia auriculiformis 4,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,4.300446513361362,2
+SG07,Tech,KRTAcacia auriculiformis 4,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.9241651721289696,2
+SG07,Tech,KRTAcacia auriculiformis 4,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.2199144349363318,2
+SG07,Tech,KRTAcacia auriculiformis 4,NA,Acacia auriculiformis,NA,leaf_work_to_shear,1970.864680661732,2
+SG07,Tech,KRTAcacia auriculiformis 5,NA,Acacia auriculiformis,NA,Thickness,0.309,6
+SG07,Tech,KRTAcacia auriculiformis 5,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,3.083387339862353,2
+SG07,Tech,KRTAcacia auriculiformis 5,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.441693599645224,2
+SG07,Tech,KRTAcacia auriculiformis 5,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.9524684996375798,2
+SG07,Tech,KRTAcacia auriculiformis 5,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.0843866174168415,2
+SG07,Tech,KRTAcacia auriculiformis 5,NA,Acacia auriculiformis,NA,leaf_work_to_shear,3084.041132058606,2
+SG07,Tech,KRTAcacia auriculiformis 6,NA,Acacia auriculiformis,NA,Thickness,0.30983333333333335,6
+SG07,Tech,KRTAcacia auriculiformis 6,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,2.2262871035232226,2
+SG07,Tech,KRTAcacia auriculiformis 6,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.405947513725887,2
+SG07,Tech,KRTAcacia auriculiformis 6,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.699789517821581,2
+SG07,Tech,KRTAcacia auriculiformis 6,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.0457464224703041,2
+SG07,Tech,KRTAcacia auriculiformis 6,NA,Acacia auriculiformis,NA,leaf_work_to_shear,3314.591670489236,2
+SG07,Tech,KRTAcacia auriculiformis 9,NA,Acacia auriculiformis,NA,Thickness,0.30616666666666664,6
+SG07,Tech,KRTAcacia auriculiformis 9,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_concave,2.8920503025405395,2
+SG07,Tech,KRTAcacia auriculiformis 9,NA,Acacia auriculiformis,NA,leaf_work_to_punch_adjusted_flat,3.7466368729911865,2
+SG07,Tech,KRTAcacia auriculiformis 9,NA,Acacia auriculiformis,NA,leaf_work_to_punch_concave,0.8781415004410555,2
+SG07,Tech,KRTAcacia auriculiformis 9,NA,Acacia auriculiformis,NA,leaf_work_to_punch_flat,1.145423358478888,2
+SG07,Tech,KRTAcacia auriculiformis 9,NA,Acacia auriculiformis,NA,leaf_work_to_shear,9968.093487394959,2
+SG07,Tech,KRTAdinandra dumosa 1,NA,Adinandra dumosa,NA,Thickness,0.31516666666666665,6
+SG07,Tech,KRTAdinandra dumosa 1,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_concave,1.5493398025167195,2
+SG07,Tech,KRTAdinandra dumosa 1,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_flat,2.2445455359036517,2
+SG07,Tech,KRTAdinandra dumosa 1,NA,Adinandra dumosa,NA,leaf_work_to_punch_concave,0.48099249038545483,2
+SG07,Tech,KRTAdinandra dumosa 1,NA,Adinandra dumosa,NA,leaf_work_to_punch_flat,0.7179200551531836,2
+SG07,Tech,KRTAdinandra dumosa 1,NA,Adinandra dumosa,NA,leaf_work_to_shear,5867.544220485397,2
+SG07,Tech,KRTAdinandra dumosa 2,NA,Adinandra dumosa,NA,Thickness,0.3575,6
+SG07,Tech,KRTAdinandra dumosa 2,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_concave,1.3869074592862178,2
+SG07,Tech,KRTAdinandra dumosa 2,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_flat,1.727901334352477,2
+SG07,Tech,KRTAdinandra dumosa 2,NA,Adinandra dumosa,NA,leaf_work_to_punch_concave,0.5065885430888937,2
+SG07,Tech,KRTAdinandra dumosa 2,NA,Adinandra dumosa,NA,leaf_work_to_punch_flat,0.5907601779405868,2
+SG07,Tech,KRTAdinandra dumosa 2,NA,Adinandra dumosa,NA,leaf_work_to_shear,4095.5728764610258,2
+SG07,Tech,KRTAdinandra dumosa 3,NA,Adinandra dumosa,NA,Thickness,0.33166666666666667,6
+SG07,Tech,KRTAdinandra dumosa 3,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_concave,1.7466214350561784,2
+SG07,Tech,KRTAdinandra dumosa 3,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_flat,1.9684262846939538,2
+SG07,Tech,KRTAdinandra dumosa 3,NA,Adinandra dumosa,NA,leaf_work_to_punch_concave,0.5841150488733479,2
+SG07,Tech,KRTAdinandra dumosa 3,NA,Adinandra dumosa,NA,leaf_work_to_punch_flat,0.6519609962635526,2
+SG07,Tech,KRTAdinandra dumosa 3,NA,Adinandra dumosa,NA,leaf_work_to_shear,5651.588340447979,2
+SG07,Tech,KRTAdinandra dumosa 4,NA,Adinandra dumosa,NA,Thickness,0.3753333333333333,6
+SG07,Tech,KRTAdinandra dumosa 4,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_concave,1.4010302751378074,2
+SG07,Tech,KRTAdinandra dumosa 4,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_flat,1.8258651146378595,2
+SG07,Tech,KRTAdinandra dumosa 4,NA,Adinandra dumosa,NA,leaf_work_to_punch_concave,0.5499049399716364,2
+SG07,Tech,KRTAdinandra dumosa 4,NA,Adinandra dumosa,NA,leaf_work_to_punch_flat,0.6335023044101112,2
+SG07,Tech,KRTAdinandra dumosa 4,NA,Adinandra dumosa,NA,leaf_work_to_shear,4880.783266706812,2
+SG07,Tech,KRTAdinandra dumosa 5,NA,Adinandra dumosa,NA,Thickness,0.32316666666666666,6
+SG07,Tech,KRTAdinandra dumosa 5,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_concave,1.459054391673626,2
+SG07,Tech,KRTAdinandra dumosa 5,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_flat,1.6885184938140356,2
+SG07,Tech,KRTAdinandra dumosa 5,NA,Adinandra dumosa,NA,leaf_work_to_punch_concave,0.4611391418141978,2
+SG07,Tech,KRTAdinandra dumosa 5,NA,Adinandra dumosa,NA,leaf_work_to_punch_flat,0.5654102411285271,2
+SG07,Tech,KRTAdinandra dumosa 5,NA,Adinandra dumosa,NA,leaf_work_to_shear,6940.171041974367,2
+SG07,Tech,KRTAdinandra dumosa 6,NA,Adinandra dumosa,NA,Thickness,0.33016666666666666,6
+SG07,Tech,KRTAdinandra dumosa 6,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_concave,1.8281871122877376,2
+SG07,Tech,KRTAdinandra dumosa 6,NA,Adinandra dumosa,NA,leaf_work_to_punch_adjusted_flat,2.0007155835449426,2
+SG07,Tech,KRTAdinandra dumosa 6,NA,Adinandra dumosa,NA,leaf_work_to_punch_concave,0.5817359285900154,2
+SG07,Tech,KRTAdinandra dumosa 6,NA,Adinandra dumosa,NA,leaf_work_to_punch_flat,0.6844482939256097,2
+SG07,Tech,KRTAdinandra dumosa 6,NA,Adinandra dumosa,NA,leaf_work_to_shear,8700.552825552826,2
+SG07,Tech,KRTArtocarpus heterophyllus 3,NA,Artocarpus heterophyllus,NA,Thickness,0.3601666666666667,6
+SG07,Tech,KRTArtocarpus heterophyllus 3,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_concave,1.420202218760029,2
+SG07,Tech,KRTArtocarpus heterophyllus 3,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_flat,1.7114061946244987,2
+SG07,Tech,KRTArtocarpus heterophyllus 3,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_concave,0.5081472770676287,2
+SG07,Tech,KRTArtocarpus heterophyllus 3,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_flat,0.6003586977043763,2
+SG07,Tech,KRTArtocarpus heterophyllus 3,NA,Artocarpus heterophyllus,NA,leaf_work_to_shear,6623.591855560642,2
+SG07,Tech,KRTCalophyllum inophyllum 3,NA,Calophyllum inophyllum,NA,Thickness,0.391,6
+SG07,Tech,KRTCalophyllum inophyllum 3,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_concave,2.37505846849918,2
+SG07,Tech,KRTCalophyllum inophyllum 3,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_flat,2.840253577840399,2
+SG07,Tech,KRTCalophyllum inophyllum 3,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_concave,0.9657587577720577,2
+SG07,Tech,KRTCalophyllum inophyllum 3,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_flat,1.0891448579835066,2
+SG07,Tech,KRTCalophyllum inophyllum 3,NA,Calophyllum inophyllum,NA,leaf_work_to_shear,3021.5984240889265,2
+SG07,Tech,KRTCalophyllum inophyllum 4,NA,Calophyllum inophyllum,NA,Thickness,0.29083333333333333,6
+SG07,Tech,KRTCalophyllum inophyllum 4,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_concave,3.1328307395110278,2
+SG07,Tech,KRTCalophyllum inophyllum 4,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_flat,4.079412647198067,2
+SG07,Tech,KRTCalophyllum inophyllum 4,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_concave,0.8691172510904841,2
+SG07,Tech,KRTCalophyllum inophyllum 4,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_flat,1.1375476499547528,2
+SG07,Tech,KRTCalophyllum inophyllum 4,NA,Calophyllum inophyllum,NA,leaf_work_to_shear,7151.564235057226,2
+SG07,Tech,KRTCinnamomum iners 10,NA,Cinnamomum iners,NA,Thickness,0.28900000000000003,6
+SG07,Tech,KRTCinnamomum iners 10,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,3.10269555291557,2
+SG07,Tech,KRTCinnamomum iners 10,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,3.1133455904589242,2
+SG07,Tech,KRTCinnamomum iners 10,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.9037375531444944,2
+SG07,Tech,KRTCinnamomum iners 10,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.8799463503111697,2
+SG07,Tech,KRTCinnamomum iners 10,NA,Cinnamomum iners,NA,leaf_work_to_shear,19148.951885629176,2
+SG07,Tech,KRTClidemia hirta 1,NA,Clidemia hirta,NA,Thickness,0.16383333333333333,6
+SG07,Tech,KRTClidemia hirta 1,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.9004048548199329,2
+SG07,Tech,KRTClidemia hirta 1,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,1.2440254736891059,2
+SG07,Tech,KRTClidemia hirta 1,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.13633179609799573,2
+SG07,Tech,KRTClidemia hirta 1,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.20632715560624576,2
+SG07,Tech,KRTClidemia hirta 1,NA,Clidemia hirta,NA,leaf_work_to_shear,2510.3345092862082,2
+SG07,Tech,KRTClidemia hirta 2,NA,Clidemia hirta,NA,Thickness,0.17966666666666667,6
+SG07,Tech,KRTClidemia hirta 2,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.6520543757972199,2
+SG07,Tech,KRTClidemia hirta 2,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.98342947959183,2
+SG07,Tech,KRTClidemia hirta 2,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.1316063709835147,2
+SG07,Tech,KRTClidemia hirta 2,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.15161559295264523,2
+SG07,Tech,KRTClidemia hirta 2,NA,Clidemia hirta,NA,leaf_work_to_shear,957.7326390844929,2
+SG07,Tech,KRTClidemia hirta 3,NA,Clidemia hirta,NA,Thickness,0.20616666666666666,6
+SG07,Tech,KRTClidemia hirta 3,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,3.3989207278470097,2
+SG07,Tech,KRTClidemia hirta 3,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.8826543085657368,2
+SG07,Tech,KRTClidemia hirta 3,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.5801443791590964,2
+SG07,Tech,KRTClidemia hirta 3,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.19623640405969775,2
+SG07,Tech,KRTClidemia hirta 3,NA,Clidemia hirta,NA,leaf_work_to_shear,1738.9970136958088,2
+SG07,Tech,KRTClidemia hirta 4,NA,Clidemia hirta,NA,Thickness,0.21983333333333333,6
+SG07,Tech,KRTClidemia hirta 4,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.6850341648239042,2
+SG07,Tech,KRTClidemia hirta 4,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.9616405693430702,2
+SG07,Tech,KRTClidemia hirta 4,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.14632410128799203,2
+SG07,Tech,KRTClidemia hirta 4,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.19123204760165363,2
+SG07,Tech,KRTClidemia hirta 4,NA,Clidemia hirta,NA,leaf_work_to_shear,1534.6639820494665,2
+SG07,Tech,KRTClidemia hirta 5,NA,Clidemia hirta,NA,Thickness,0.25183333333333335,6
+SG07,Tech,KRTClidemia hirta 5,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.6285656839391222,2
+SG07,Tech,KRTClidemia hirta 5,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.6228211615118384,2
+SG07,Tech,KRTClidemia hirta 5,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.1483422515973016,2
+SG07,Tech,KRTClidemia hirta 5,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.1696969071059719,2
+SG07,Tech,KRTClidemia hirta 5,NA,Clidemia hirta,NA,leaf_work_to_shear,2034.4315466029361,2
+SG07,Tech,KRTClidemia hirta 6,NA,Clidemia hirta,NA,Thickness,0.20566666666666666,6
+SG07,Tech,KRTClidemia hirta 6,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,1.097012588931608,2
+SG07,Tech,KRTClidemia hirta 6,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,1.0125977365348227,2
+SG07,Tech,KRTClidemia hirta 6,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.2151052890654379,2
+SG07,Tech,KRTClidemia hirta 6,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.2105111257596925,2
+SG07,Tech,KRTClidemia hirta 6,NA,Clidemia hirta,NA,leaf_work_to_shear,3137.2513905847236,2
+SG07,Tech,KRTDillenia suffruticosa 1,NA,Dillenia suffruticosa,NA,Thickness,0.3305,6
+SG07,Tech,KRTDillenia suffruticosa 1,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_concave,1.9946740762182198,2
+SG07,Tech,KRTDillenia suffruticosa 1,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_flat,1.8795855316606382,2
+SG07,Tech,KRTDillenia suffruticosa 1,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_concave,0.6551605028514826,2
+SG07,Tech,KRTDillenia suffruticosa 1,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_flat,0.6421983992388436,2
+SG07,Tech,KRTDillenia suffruticosa 1,NA,Dillenia suffruticosa,NA,leaf_work_to_shear,3473.9849429782835,2
+SG07,Tech,KRTDillenia suffruticosa 2,NA,Dillenia suffruticosa,NA,Thickness,0.3108333333333333,6
+SG07,Tech,KRTDillenia suffruticosa 2,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_concave,1.8464252553509741,2
+SG07,Tech,KRTDillenia suffruticosa 2,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_flat,1.8839592478140679,2
+SG07,Tech,KRTDillenia suffruticosa 2,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_concave,0.6010150067480542,2
+SG07,Tech,KRTDillenia suffruticosa 2,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_flat,0.5613903482359999,2
+SG07,Tech,KRTDillenia suffruticosa 2,NA,Dillenia suffruticosa,NA,leaf_work_to_shear,3869.406267179769,2
+SG07,Tech,KRTDillenia suffruticosa 3,NA,Dillenia suffruticosa,NA,Thickness,0.30266666666666664,6
+SG07,Tech,KRTDillenia suffruticosa 3,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_concave,1.64086789446259,2
+SG07,Tech,KRTDillenia suffruticosa 3,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_flat,1.8131839532085996,2
+SG07,Tech,KRTDillenia suffruticosa 3,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_concave,0.47147600925212496,2
+SG07,Tech,KRTDillenia suffruticosa 3,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_flat,0.5711529452607089,2
+SG07,Tech,KRTDillenia suffruticosa 3,NA,Dillenia suffruticosa,NA,leaf_work_to_shear,4634.955188463269,2
+SG07,Tech,KRTDillenia suffruticosa 4,NA,Dillenia suffruticosa,NA,Thickness,0.26616666666666666,6
+SG07,Tech,KRTDillenia suffruticosa 4,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_concave,1.638488066913014,2
+SG07,Tech,KRTDillenia suffruticosa 4,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_flat,2.0532915207694415,2
+SG07,Tech,KRTDillenia suffruticosa 4,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_concave,0.4635182620975302,2
+SG07,Tech,KRTDillenia suffruticosa 4,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_flat,0.5235705395940599,2
+SG07,Tech,KRTDillenia suffruticosa 4,NA,Dillenia suffruticosa,NA,leaf_work_to_shear,6139.830606230139,2
+SG07,Tech,KRTDillenia suffruticosa 5,NA,Dillenia suffruticosa,NA,Thickness,0.2793333333333333,6
+SG07,Tech,KRTDillenia suffruticosa 5,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_concave,1.6540060154002592,2
+SG07,Tech,KRTDillenia suffruticosa 5,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_flat,2.0684656600236386,2
+SG07,Tech,KRTDillenia suffruticosa 5,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_concave,0.4768085202320081,2
+SG07,Tech,KRTDillenia suffruticosa 5,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_flat,0.5491665922974986,2
+SG07,Tech,KRTDillenia suffruticosa 5,NA,Dillenia suffruticosa,NA,leaf_work_to_shear,6894.539350251802,2
+SG07,Tech,KRTDillenia suffruticosa 6,NA,Dillenia suffruticosa,NA,Thickness,0.3373333333333333,6
+SG07,Tech,KRTDillenia suffruticosa 6,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_concave,1.5315501256258162,2
+SG07,Tech,KRTDillenia suffruticosa 6,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_adjusted_flat,1.6394892735287505,2
+SG07,Tech,KRTDillenia suffruticosa 6,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_concave,0.5330049820969298,2
+SG07,Tech,KRTDillenia suffruticosa 6,NA,Dillenia suffruticosa,NA,leaf_work_to_punch_flat,0.5582728802785297,2
+SG07,Tech,KRTDillenia suffruticosa 6,NA,Dillenia suffruticosa,NA,leaf_work_to_shear,7569.236462316517,2
+SG07,Tech,KRTFicus grossularioides 1,NA,Ficus grossularioides,NA,Thickness,0.3556666666666667,6
+SG07,Tech,KRTFicus grossularioides 1,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_concave,0.6797700910471982,2
+SG07,Tech,KRTFicus grossularioides 1,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_flat,0.8747306366977288,2
+SG07,Tech,KRTFicus grossularioides 1,NA,Ficus grossularioides,NA,leaf_work_to_punch_concave,0.23372805817979886,2
+SG07,Tech,KRTFicus grossularioides 1,NA,Ficus grossularioides,NA,leaf_work_to_punch_flat,0.3188021179665491,2
+SG07,Tech,KRTFicus grossularioides 1,NA,Ficus grossularioides,NA,leaf_work_to_shear,3000.7003959807553,2
+SG07,Tech,KRTFicus grossularioides 2,NA,Ficus grossularioides,NA,Thickness,0.30083333333333334,6
+SG07,Tech,KRTFicus grossularioides 2,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_concave,1.1266982713042053,2
+SG07,Tech,KRTFicus grossularioides 2,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_flat,1.243906024274597,2
+SG07,Tech,KRTFicus grossularioides 2,NA,Ficus grossularioides,NA,leaf_work_to_punch_concave,0.358262699217684,2
+SG07,Tech,KRTFicus grossularioides 2,NA,Ficus grossularioides,NA,leaf_work_to_punch_flat,0.32536520840332833,2
+SG07,Tech,KRTFicus grossularioides 2,NA,Ficus grossularioides,NA,leaf_work_to_shear,2912.717391304348,2
+SG07,Tech,KRTFicus grossularioides 3,NA,Ficus grossularioides,NA,Thickness,0.31166666666666665,6
+SG07,Tech,KRTFicus grossularioides 3,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_concave,1.0321558303017784,2
+SG07,Tech,KRTFicus grossularioides 3,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_flat,1.178578009692127,2
+SG07,Tech,KRTFicus grossularioides 3,NA,Ficus grossularioides,NA,leaf_work_to_punch_concave,0.3165050363136764,2
+SG07,Tech,KRTFicus grossularioides 3,NA,Ficus grossularioides,NA,leaf_work_to_punch_flat,0.3542428063251567,2
+SG07,Tech,KRTFicus grossularioides 3,NA,Ficus grossularioides,NA,leaf_work_to_shear,3597.301551057688,2
+SG07,Tech,KRTFicus grossularioides 4,NA,Ficus grossularioides,NA,Thickness,0.3645,6
+SG07,Tech,KRTFicus grossularioides 4,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_concave,1.2973497264522407,2
+SG07,Tech,KRTFicus grossularioides 4,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_flat,1.552648831989897,2
+SG07,Tech,KRTFicus grossularioides 4,NA,Ficus grossularioides,NA,leaf_work_to_punch_concave,0.4722143569262627,2
+SG07,Tech,KRTFicus grossularioides 4,NA,Ficus grossularioides,NA,leaf_work_to_punch_flat,0.5684456704555375,2
+SG07,Tech,KRTFicus grossularioides 4,NA,Ficus grossularioides,NA,leaf_work_to_shear,2742.070624107536,2
+SG07,Tech,KRTFicus grossularioides 5,NA,Ficus grossularioides,NA,Thickness,0.2785,6
+SG07,Tech,KRTFicus grossularioides 5,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_concave,0.9876442019505094,2
+SG07,Tech,KRTFicus grossularioides 5,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_flat,1.124719220652709,2
+SG07,Tech,KRTFicus grossularioides 5,NA,Ficus grossularioides,NA,leaf_work_to_punch_concave,0.2754857210838064,2
+SG07,Tech,KRTFicus grossularioides 5,NA,Ficus grossularioides,NA,leaf_work_to_punch_flat,0.2912371381320765,2
+SG07,Tech,KRTFicus grossularioides 5,NA,Ficus grossularioides,NA,leaf_work_to_shear,6155.8830705628525,2
+SG07,Tech,KRTFicus grossularioides 6,NA,Ficus grossularioides,NA,Thickness,0.3576666666666667,6
+SG07,Tech,KRTFicus grossularioides 6,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_concave,0.8432467711998515,2
+SG07,Tech,KRTFicus grossularioides 6,NA,Ficus grossularioides,NA,leaf_work_to_punch_adjusted_flat,1.1953087913738232,2
+SG07,Tech,KRTFicus grossularioides 6,NA,Ficus grossularioides,NA,leaf_work_to_punch_concave,0.3040351644837959,2
+SG07,Tech,KRTFicus grossularioides 6,NA,Ficus grossularioides,NA,leaf_work_to_punch_flat,0.4122441180601928,2
+SG07,Tech,KRTFicus grossularioides 6,NA,Ficus grossularioides,NA,leaf_work_to_shear,5489.661249144744,2
+SG07,Tech,KRTMacaranga heynei 1,NA,Macaranga heynei,NA,Thickness,0.21283333333333332,6
+SG07,Tech,KRTMacaranga heynei 1,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_concave,1.012043503962033,2
+SG07,Tech,KRTMacaranga heynei 1,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_flat,1.0694731802110937,2
+SG07,Tech,KRTMacaranga heynei 1,NA,Macaranga heynei,NA,leaf_work_to_punch_concave,0.21477713454359895,2
+SG07,Tech,KRTMacaranga heynei 1,NA,Macaranga heynei,NA,leaf_work_to_punch_flat,0.22577031102520412,2
+SG07,Tech,KRTMacaranga heynei 1,NA,Macaranga heynei,NA,leaf_work_to_shear,2352.3136579060747,2
+SG07,Tech,KRTMacaranga heynei 2,NA,Macaranga heynei,NA,Thickness,0.18483333333333332,6
+SG07,Tech,KRTMacaranga heynei 2,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_concave,1.3197260975976168,2
+SG07,Tech,KRTMacaranga heynei 2,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_flat,1.137489740333252,2
+SG07,Tech,KRTMacaranga heynei 2,NA,Macaranga heynei,NA,leaf_work_to_punch_concave,0.2628517719930065,2
+SG07,Tech,KRTMacaranga heynei 2,NA,Macaranga heynei,NA,leaf_work_to_punch_flat,0.22970816528727162,2
+SG07,Tech,KRTMacaranga heynei 2,NA,Macaranga heynei,NA,leaf_work_to_shear,5374.706318203348,2
+SG07,Tech,KRTMacaranga heynei 3,NA,Macaranga heynei,NA,Thickness,0.18083333333333335,6
+SG07,Tech,KRTMacaranga heynei 3,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_concave,1.6726449814809274,2
+SG07,Tech,KRTMacaranga heynei 3,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_flat,0.9854507715447618,2
+SG07,Tech,KRTMacaranga heynei 3,NA,Macaranga heynei,NA,leaf_work_to_punch_concave,0.3233962812722946,2
+SG07,Tech,KRTMacaranga heynei 3,NA,Macaranga heynei,NA,leaf_work_to_punch_flat,0.19910775612578863,2
+SG07,Tech,KRTMacaranga heynei 3,NA,Macaranga heynei,NA,leaf_work_to_shear,5034.901873327386,2
+SG07,Tech,KRTMacaranga heynei 4,NA,Macaranga heynei,NA,Thickness,0.20216666666666666,6
+SG07,Tech,KRTMacaranga heynei 4,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_concave,1.190032266486071,2
+SG07,Tech,KRTMacaranga heynei 4,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_flat,1.1657997074998512,2
+SG07,Tech,KRTMacaranga heynei 4,NA,Macaranga heynei,NA,leaf_work_to_punch_concave,0.2637541969280637,2
+SG07,Tech,KRTMacaranga heynei 4,NA,Macaranga heynei,NA,leaf_work_to_punch_flat,0.2579294541654221,2
+SG07,Tech,KRTMacaranga heynei 4,NA,Macaranga heynei,NA,leaf_work_to_shear,6349.672046777262,2
+SG07,Tech,KRTMacaranga heynei 5,NA,Macaranga heynei,NA,Thickness,0.21883333333333332,6
+SG07,Tech,KRTMacaranga heynei 5,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_concave,1.6631397321727996,2
+SG07,Tech,KRTMacaranga heynei 5,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_flat,1.3219125012459938,2
+SG07,Tech,KRTMacaranga heynei 5,NA,Macaranga heynei,NA,leaf_work_to_punch_concave,0.4086344183199643,2
+SG07,Tech,KRTMacaranga heynei 5,NA,Macaranga heynei,NA,leaf_work_to_punch_flat,0.3009997351567856,2
+SG07,Tech,KRTMacaranga heynei 5,NA,Macaranga heynei,NA,leaf_work_to_shear,6375.290219223974,2
+SG07,Tech,KRTMelastoma malabathricum 10,NA,Melastoma malabathricum,NA,Thickness,0.26583333333333337,6
+SG07,Tech,KRTMelastoma malabathricum 10,NA,Melastoma malabathricum,NA,leaf_work_to_punch_adjusted_concave,1.0714564487606681,2
+SG07,Tech,KRTMelastoma malabathricum 10,NA,Melastoma malabathricum,NA,leaf_work_to_punch_adjusted_flat,1.2150555650719808,2
+SG07,Tech,KRTMelastoma malabathricum 10,NA,Melastoma malabathricum,NA,leaf_work_to_punch_concave,0.28368958412978046,2
+SG07,Tech,KRTMelastoma malabathricum 10,NA,Melastoma malabathricum,NA,leaf_work_to_punch_flat,0.3379171188636685,2
+SG07,Tech,KRTMelastoma malabathricum 10,NA,Melastoma malabathricum,NA,leaf_work_to_shear,4039.2842660178426,2
+SG07,Tech,KRTMelastoma malabathricum 11,NA,Melastoma malabathricum,NA,Thickness,0.29583333333333334,6
+SG07,Tech,KRTMelastoma malabathricum 11,NA,Melastoma malabathricum,NA,leaf_work_to_punch_adjusted_concave,1.024067306738432,2
+SG07,Tech,KRTMelastoma malabathricum 11,NA,Melastoma malabathricum,NA,leaf_work_to_punch_adjusted_flat,1.3784870151953852,2
+SG07,Tech,KRTMelastoma malabathricum 11,NA,Melastoma malabathricum,NA,leaf_work_to_punch_concave,0.3133875683562063,2
+SG07,Tech,KRTMelastoma malabathricum 11,NA,Melastoma malabathricum,NA,leaf_work_to_punch_flat,0.4061732594061721,2
+SG07,Tech,KRTMelastoma malabathricum 11,NA,Melastoma malabathricum,NA,leaf_work_to_shear,4589.254978239878,2
+SG07,Tech,KRTMelastoma malabathricum 9,NA,Melastoma malabathricum,NA,Thickness,0.28049999999999997,6
+SG07,Tech,KRTMelastoma malabathricum 9,NA,Melastoma malabathricum,NA,leaf_work_to_punch_adjusted_concave,0.8173801609280702,2
+SG07,Tech,KRTMelastoma malabathricum 9,NA,Melastoma malabathricum,NA,leaf_work_to_punch_adjusted_flat,0.9986265225862154,2
+SG07,Tech,KRTMelastoma malabathricum 9,NA,Melastoma malabathricum,NA,leaf_work_to_punch_concave,0.22929797213497294,2
+SG07,Tech,KRTMelastoma malabathricum 9,NA,Melastoma malabathricum,NA,leaf_work_to_punch_flat,0.30313273954873876,2
+SG07,Tech,KRTMelastoma malabathricum 9,NA,Melastoma malabathricum,NA,leaf_work_to_shear,5863.971664065548,2
+SG07,Tech,KRTRhodamnia cinerea 1,NA,Rhodamnia cinerea,NA,Thickness,0.2786666666666667,6
+SG07,Tech,KRTRhodamnia cinerea 1,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_concave,2.057028453306013,2
+SG07,Tech,KRTRhodamnia cinerea 1,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_flat,2.50408163199628,2
+SG07,Tech,KRTRhodamnia cinerea 1,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_concave,0.5608981164532414,2
+SG07,Tech,KRTRhodamnia cinerea 1,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_flat,0.7284209998520302,2
+SG07,Tech,KRTRhodamnia cinerea 1,NA,Rhodamnia cinerea,NA,leaf_work_to_shear,11766.370139398387,2
+SG07,Tech,KRTRhodamnia cinerea 2,NA,Rhodamnia cinerea,NA,Thickness,0.2465,6
+SG07,Tech,KRTRhodamnia cinerea 2,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_concave,1.708783517796729,2
+SG07,Tech,KRTRhodamnia cinerea 2,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_flat,1.863553085369027,2
+SG07,Tech,KRTRhodamnia cinerea 2,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_concave,0.39911793718663446,2
+SG07,Tech,KRTRhodamnia cinerea 2,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_flat,0.47180416377396395,2
+SG07,Tech,KRTRhodamnia cinerea 2,NA,Rhodamnia cinerea,NA,leaf_work_to_shear,7422.1203087976755,2
+SG07,Tech,KRTRhodamnia cinerea 3,NA,Rhodamnia cinerea,NA,Thickness,0.25933333333333336,6
+SG07,Tech,KRTRhodamnia cinerea 3,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_concave,2.2572971829289123,2
+SG07,Tech,KRTRhodamnia cinerea 3,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_flat,2.0015771351009084,2
+SG07,Tech,KRTRhodamnia cinerea 3,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_concave,0.5791106924153037,2
+SG07,Tech,KRTRhodamnia cinerea 3,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_flat,0.5273443165952079,2
+SG07,Tech,KRTRhodamnia cinerea 3,NA,Rhodamnia cinerea,NA,leaf_work_to_shear,10586.66315081442,2
+SG07,Tech,KRTRhodamnia cinerea 4,NA,Rhodamnia cinerea,NA,Thickness,0.32816666666666666,6
+SG07,Tech,KRTRhodamnia cinerea 4,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_concave,1.5963462923701228,2
+SG07,Tech,KRTRhodamnia cinerea 4,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_flat,1.7579869302147548,2
+SG07,Tech,KRTRhodamnia cinerea 4,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_concave,0.5531044465595661,2
+SG07,Tech,KRTRhodamnia cinerea 4,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_flat,0.57714176528427,2
+SG07,Tech,KRTRhodamnia cinerea 4,NA,Rhodamnia cinerea,NA,leaf_work_to_shear,7961.135068153655,2
+SG07,Tech,KRTRhodamnia cinerea 5,NA,Rhodamnia cinerea,NA,Thickness,0.2335,6
+SG07,Tech,KRTRhodamnia cinerea 5,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_concave,2.0241308065735497,2
+SG07,Tech,KRTRhodamnia cinerea 5,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_flat,1.9955267283064912,2
+SG07,Tech,KRTRhodamnia cinerea 5,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_concave,0.4544119741164991,2
+SG07,Tech,KRTRhodamnia cinerea 5,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_flat,0.465487189228564,2
+SG07,Tech,KRTRhodamnia cinerea 5,NA,Rhodamnia cinerea,NA,leaf_work_to_shear,6527.348337886166,2
+SG07,Tech,KRTRhodamnia cinerea 6,NA,Rhodamnia cinerea,NA,Thickness,0.28883333333333333,6
+SG07,Tech,KRTRhodamnia cinerea 6,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_concave,1.8815023762877243,2
+SG07,Tech,KRTRhodamnia cinerea 6,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_adjusted_flat,2.6901186564858,2
+SG07,Tech,KRTRhodamnia cinerea 6,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_concave,0.6044606292273633,2
+SG07,Tech,KRTRhodamnia cinerea 6,NA,Rhodamnia cinerea,NA,leaf_work_to_punch_flat,0.6788696670543475,2
+SG07,Tech,KRTRhodamnia cinerea 6,NA,Rhodamnia cinerea,NA,leaf_work_to_shear,8414.530678249423,2
+SG07,Tech,KRTSyzygium grande 4,NA,Syzygium grande,NA,Thickness,0.3908333333333333,6
+SG07,Tech,KRTSyzygium grande 4,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_concave,2.9591826371682517,2
+SG07,Tech,KRTSyzygium grande 4,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_flat,3.2368057657662423,2
+SG07,Tech,KRTSyzygium grande 4,NA,Syzygium grande,NA,leaf_work_to_punch_concave,1.1396806543467064,2
+SG07,Tech,KRTSyzygium grande 4,NA,Syzygium grande,NA,leaf_work_to_punch_flat,1.3753776396575388,2
+SG07,Tech,KRTSyzygium grande 4,NA,Syzygium grande,NA,leaf_work_to_shear,9550.457389156694,2
+SG07,Tech,KRTSyzygium grande 5,NA,Syzygium grande,NA,Thickness,0.4241666666666667,6
+SG07,Tech,KRTSyzygium grande 5,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_concave,2.178942426720858,2
+SG07,Tech,KRTSyzygium grande 5,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_flat,2.6925725416481643,2
+SG07,Tech,KRTSyzygium grande 5,NA,Syzygium grande,NA,leaf_work_to_punch_concave,0.9970154759772185,2
+SG07,Tech,KRTSyzygium grande 5,NA,Syzygium grande,NA,leaf_work_to_punch_flat,1.074706059022592,2
+SG07,Tech,KRTSyzygium grande 5,NA,Syzygium grande,NA,leaf_work_to_shear,5422.506496676286,2
+SG07,Tech,KRTSyzygium grande 6,NA,Syzygium grande,NA,Thickness,0.33866666666666667,6
+SG07,Tech,KRTSyzygium grande 6,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_concave,2.634599232729226,2
+SG07,Tech,KRTSyzygium grande 6,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_flat,3.077157329969393,2
+SG07,Tech,KRTSyzygium grande 6,NA,Syzygium grande,NA,leaf_work_to_punch_concave,0.8928264152933489,2
+SG07,Tech,KRTSyzygium grande 6,NA,Syzygium grande,NA,leaf_work_to_punch_flat,1.056821637582369,2
+SG07,Tech,KRTSyzygium grande 6,NA,Syzygium grande,NA,leaf_work_to_shear,6427.013489452678,2
+SG07,Tech,Lily AvenueTArtocarpus heterophyllus 4,NA,Artocarpus heterophyllus,NA,Thickness,0.33516666666666667,6
+SG07,Tech,Lily AvenueTArtocarpus heterophyllus 4,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_concave,1.7539803778386176,2
+SG07,Tech,Lily AvenueTArtocarpus heterophyllus 4,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_flat,1.877161860227964,2
+SG07,Tech,Lily AvenueTArtocarpus heterophyllus 4,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_concave,0.5615544254969194,2
+SG07,Tech,Lily AvenueTArtocarpus heterophyllus 4,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_flat,0.6565551595692982,2
+SG07,Tech,Lily AvenueTArtocarpus heterophyllus 4,NA,Artocarpus heterophyllus,NA,leaf_work_to_shear,6237.114737114736,2
+SG07,Tech,MandaiTCalophyllum teysmannii 1,NA,Calophyllum teysmannii,NA,Thickness,0.38566666666666666,6
+SG07,Tech,MandaiTCalophyllum teysmannii 1,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_concave,2.4207626057674876,2
+SG07,Tech,MandaiTCalophyllum teysmannii 1,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_flat,3.349067130193057,2
+SG07,Tech,MandaiTCalophyllum teysmannii 1,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_concave,0.982084445233546,2
+SG07,Tech,MandaiTCalophyllum teysmannii 1,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_flat,1.183653360273127,2
+SG07,Tech,MandaiTCalophyllum teysmannii 1,NA,Calophyllum teysmannii,NA,leaf_work_to_shear,6888.835117517219,2
+SG07,Tech,MandaiTCalophyllum teysmannii 2,NA,Calophyllum teysmannii,NA,Thickness,0.4038333333333333,6
+SG07,Tech,MandaiTCalophyllum teysmannii 2,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_concave,2.8170936212603923,2
+SG07,Tech,MandaiTCalophyllum teysmannii 2,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_flat,3.2386933938217934,2
+SG07,Tech,MandaiTCalophyllum teysmannii 2,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_concave,1.0994817254214335,2
+SG07,Tech,MandaiTCalophyllum teysmannii 2,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_flat,1.3346864789495079,2
+SG07,Tech,MandaiTCalophyllum teysmannii 2,NA,Calophyllum teysmannii,NA,leaf_work_to_shear,9367.964242121616,2
+SG07,Tech,MandaiTCalophyllum teysmannii 3,NA,Calophyllum teysmannii,NA,Thickness,0.3476666666666667,6
+SG07,Tech,MandaiTCalophyllum teysmannii 3,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_concave,3.269901270377047,2
+SG07,Tech,MandaiTCalophyllum teysmannii 3,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_flat,3.697640890334358,2
+SG07,Tech,MandaiTCalophyllum teysmannii 3,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_concave,0.9856121063433146,2
+SG07,Tech,MandaiTCalophyllum teysmannii 3,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_flat,1.367091737981105,2
+SG07,Tech,MandaiTCalophyllum teysmannii 3,NA,Calophyllum teysmannii,NA,leaf_work_to_shear,8489.697187902675,2
+SG07,Tech,MandaiTCalophyllum teysmannii 4,NA,Calophyllum teysmannii,NA,Thickness,0.36616666666666664,6
+SG07,Tech,MandaiTCalophyllum teysmannii 4,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_concave,2.732092550910564,2
+SG07,Tech,MandaiTCalophyllum teysmannii 4,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_flat,2.4871057118381175,2
+SG07,Tech,MandaiTCalophyllum teysmannii 4,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_concave,0.9142384978433411,2
+SG07,Tech,MandaiTCalophyllum teysmannii 4,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_flat,0.9316306875008059,2
+SG07,Tech,MandaiTCalophyllum teysmannii 4,NA,Calophyllum teysmannii,NA,leaf_work_to_shear,6230.349527276881,2
+SG07,Tech,MandaiTCalophyllum teysmannii 5,NA,Calophyllum teysmannii,NA,Thickness,0.37933333333333336,6
+SG07,Tech,MandaiTCalophyllum teysmannii 5,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_concave,2.8056672078940483,2
+SG07,Tech,MandaiTCalophyllum teysmannii 5,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_flat,2.958394727833184,2
+SG07,Tech,MandaiTCalophyllum teysmannii 5,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_concave,0.9803616339938912,2
+SG07,Tech,MandaiTCalophyllum teysmannii 5,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_flat,1.1701169862472698,2
+SG07,Tech,MandaiTCalophyllum teysmannii 5,NA,Calophyllum teysmannii,NA,leaf_work_to_shear,5623.932761422509,2
+SG07,Tech,MandaiTCalophyllum teysmannii 6,NA,Calophyllum teysmannii,NA,Thickness,0.3998333333333333,6
+SG07,Tech,MandaiTCalophyllum teysmannii 6,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_concave,3.2431929647563664,2
+SG07,Tech,MandaiTCalophyllum teysmannii 6,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_adjusted_flat,3.36279633849876,2
+SG07,Tech,MandaiTCalophyllum teysmannii 6,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_concave,1.3012967563523938,2
+SG07,Tech,MandaiTCalophyllum teysmannii 6,NA,Calophyllum teysmannii,NA,leaf_work_to_punch_flat,1.320493795879973,2
+SG07,Tech,MandaiTCalophyllum teysmannii 6,NA,Calophyllum teysmannii,NA,leaf_work_to_shear,7169.787135381014,2
+SG07,Tech,MandaiTClerodendrum villosum 1,NA,Clerodendrum villosum,NA,Thickness,0.27116666666666667,6
+SG07,Tech,MandaiTClerodendrum villosum 1,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_concave,1.3288479117417968,2
+SG07,Tech,MandaiTClerodendrum villosum 1,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_flat,1.0624261441477827,2
+SG07,Tech,MandaiTClerodendrum villosum 1,NA,Clerodendrum villosum,NA,leaf_work_to_punch_concave,0.27441921888782983,2
+SG07,Tech,MandaiTClerodendrum villosum 1,NA,Clerodendrum villosum,NA,leaf_work_to_punch_flat,0.3444802093004477,2
+SG07,Tech,MandaiTClerodendrum villosum 1,NA,Clerodendrum villosum,NA,leaf_work_to_shear,3484.198180084036,2
+SG07,Tech,MandaiTClerodendrum villosum 2,NA,Clerodendrum villosum,NA,Thickness,0.2783333333333333,6
+SG07,Tech,MandaiTClerodendrum villosum 2,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_concave,2.63831596950884,2
+SG07,Tech,MandaiTClerodendrum villosum 2,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_flat,0.7635086428061566,2
+SG07,Tech,MandaiTClerodendrum villosum 2,NA,Clerodendrum villosum,NA,leaf_work_to_punch_concave,0.7162792825439888,2
+SG07,Tech,MandaiTClerodendrum villosum 2,NA,Clerodendrum villosum,NA,leaf_work_to_punch_flat,0.21165966658612884,2
+SG07,Tech,MandaiTClerodendrum villosum 2,NA,Clerodendrum villosum,NA,leaf_work_to_shear,3983.019158336955,2
+SG07,Tech,MandaiTClerodendrum villosum 3,NA,Clerodendrum villosum,NA,Thickness,0.2345,6
+SG07,Tech,MandaiTClerodendrum villosum 3,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_concave,1.0192532269971495,2
+SG07,Tech,MandaiTClerodendrum villosum 3,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_flat,2.1221035504484242,2
+SG07,Tech,MandaiTClerodendrum villosum 3,NA,Clerodendrum villosum,NA,leaf_work_to_punch_concave,0.2273290450039392,2
+SG07,Tech,MandaiTClerodendrum villosum 3,NA,Clerodendrum villosum,NA,leaf_work_to_punch_flat,0.6004407363348361,2
+SG07,Tech,MandaiTClerodendrum villosum 3,NA,Clerodendrum villosum,NA,leaf_work_to_shear,3212.7734035967487,2
+SG07,Tech,MandaiTGironniera nervosa 1,NA,Gironniera nervosa,NA,Thickness,0.3328333333333333,6
+SG07,Tech,MandaiTGironniera nervosa 1,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_concave,1.0659239161566483,2
+SG07,Tech,MandaiTGironniera nervosa 1,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_flat,1.3370042956408486,2
+SG07,Tech,MandaiTGironniera nervosa 1,NA,Gironniera nervosa,NA,leaf_work_to_punch_concave,0.337753041602749,2
+SG07,Tech,MandaiTGironniera nervosa 1,NA,Gironniera nervosa,NA,leaf_work_to_punch_flat,0.45851390563948613,2
+SG07,Tech,MandaiTGironniera nervosa 1,NA,Gironniera nervosa,NA,leaf_work_to_shear,4525.7590120450495,2
+SG07,Tech,MandaiTGironniera nervosa 2,NA,Gironniera nervosa,NA,Thickness,0.36033333333333334,6
+SG07,Tech,MandaiTGironniera nervosa 2,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_concave,1.083388480746248,2
+SG07,Tech,MandaiTGironniera nervosa 2,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_flat,1.4889096237771182,2
+SG07,Tech,MandaiTGironniera nervosa 2,NA,Gironniera nervosa,NA,leaf_work_to_punch_concave,0.39747716457743965,2
+SG07,Tech,MandaiTGironniera nervosa 2,NA,Gironniera nervosa,NA,leaf_work_to_punch_flat,0.495759443868208,2
+SG07,Tech,MandaiTGironniera nervosa 2,NA,Gironniera nervosa,NA,leaf_work_to_shear,5865.1740671252865,2
+SG07,Tech,MandaiTGironniera nervosa 3,NA,Gironniera nervosa,NA,Thickness,0.35883333333333334,6
+SG07,Tech,MandaiTGironniera nervosa 3,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_concave,1.1728787484786685,2
+SG07,Tech,MandaiTGironniera nervosa 3,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_flat,1.6207517536181768,2
+SG07,Tech,MandaiTGironniera nervosa 3,NA,Gironniera nervosa,NA,leaf_work_to_punch_concave,0.41970963343202916,2
+SG07,Tech,MandaiTGironniera nervosa 3,NA,Gironniera nervosa,NA,leaf_work_to_punch_flat,0.512167169960156,2
+SG07,Tech,MandaiTGironniera nervosa 3,NA,Gironniera nervosa,NA,leaf_work_to_shear,5832.323958017903,2
+SG07,Tech,MandaiTLitsea elliptica 1,NA,Litsea elliptica,NA,Thickness,0.21133333333333332,6
+SG07,Tech,MandaiTLitsea elliptica 1,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_concave,1.933463871200102,2
+SG07,Tech,MandaiTLitsea elliptica 1,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_flat,2.2196219307151708,2
+SG07,Tech,MandaiTLitsea elliptica 1,NA,Litsea elliptica,NA,leaf_work_to_punch_concave,0.41232615669065253,2
+SG07,Tech,MandaiTLitsea elliptica 1,NA,Litsea elliptica,NA,leaf_work_to_punch_flat,0.48468422875614314,2
+SG07,Tech,MandaiTLitsea elliptica 1,NA,Litsea elliptica,NA,leaf_work_to_shear,7883.651129943502,2
+SG07,Tech,MandaiTLitsea elliptica 2,NA,Litsea elliptica,NA,Thickness,0.22483333333333333,6
+SG07,Tech,MandaiTLitsea elliptica 2,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_concave,1.2170239729035264,2
+SG07,Tech,MandaiTLitsea elliptica 2,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_flat,1.5912232750626312,2
+SG07,Tech,MandaiTLitsea elliptica 2,NA,Litsea elliptica,NA,leaf_work_to_punch_concave,0.2960774173292012,2
+SG07,Tech,MandaiTLitsea elliptica 2,NA,Litsea elliptica,NA,leaf_work_to_punch_flat,0.3348816895366581,2
+SG07,Tech,MandaiTLitsea elliptica 2,NA,Litsea elliptica,NA,leaf_work_to_shear,3788.7270918555496,2
+SG07,Tech,MandaiTLitsea elliptica 3,NA,Litsea elliptica,NA,Thickness,0.23233333333333334,6
+SG07,Tech,MandaiTLitsea elliptica 3,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_concave,1.0597598923681386,2
+SG07,Tech,MandaiTLitsea elliptica 3,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_flat,1.7244248932935682,2
+SG07,Tech,MandaiTLitsea elliptica 3,NA,Litsea elliptica,NA,leaf_work_to_punch_concave,0.23856833737692354,2
+SG07,Tech,MandaiTLitsea elliptica 3,NA,Litsea elliptica,NA,leaf_work_to_punch_flat,0.4034659846010007,2
+SG07,Tech,MandaiTLitsea elliptica 3,NA,Litsea elliptica,NA,leaf_work_to_shear,3642.29043482811,2
+SG07,Tech,MandaiTMacaranga bancana 1,NA,Macaranga bancana,NA,Thickness,0.24483333333333335,6
+SG07,Tech,MandaiTMacaranga bancana 1,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_concave,2.020776820538887,2
+SG07,Tech,MandaiTMacaranga bancana 1,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_flat,1.8730975239019052,2
+SG07,Tech,MandaiTMacaranga bancana 1,NA,Macaranga bancana,NA,leaf_work_to_punch_concave,0.5163511401136027,2
+SG07,Tech,MandaiTMacaranga bancana 1,NA,Macaranga bancana,NA,leaf_work_to_punch_flat,0.4222528309762811,2
+SG07,Tech,MandaiTMacaranga bancana 1,NA,Macaranga bancana,NA,leaf_work_to_shear,9555.615778540801,2
+SG07,Tech,MandaiTMacaranga bancana 2,NA,Macaranga bancana,NA,Thickness,0.1915,6
+SG07,Tech,MandaiTMacaranga bancana 2,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_concave,2.2589052996295704,2
+SG07,Tech,MandaiTMacaranga bancana 2,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_flat,2.948978931119508,2
+SG07,Tech,MandaiTMacaranga bancana 2,NA,Macaranga bancana,NA,leaf_work_to_punch_concave,0.42742126469524466,2
+SG07,Tech,MandaiTMacaranga bancana 2,NA,Macaranga bancana,NA,leaf_work_to_punch_flat,0.5704966362170311,2
+SG07,Tech,MandaiTMacaranga bancana 2,NA,Macaranga bancana,NA,leaf_work_to_shear,5442.657293497364,2
+SG07,Tech,MandaiTMacaranga bancana 3,NA,Macaranga bancana,NA,Thickness,0.21566666666666667,6
+SG07,Tech,MandaiTMacaranga bancana 3,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_concave,2.2300878425870243,2
+SG07,Tech,MandaiTMacaranga bancana 3,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_flat,1.754082505407541,2
+SG07,Tech,MandaiTMacaranga bancana 3,NA,Macaranga bancana,NA,leaf_work_to_punch_concave,0.4657333051199432,2
+SG07,Tech,MandaiTMacaranga bancana 3,NA,Macaranga bancana,NA,leaf_work_to_punch_flat,0.392965039902154,2
+SG07,Tech,MandaiTMacaranga bancana 3,NA,Macaranga bancana,NA,leaf_work_to_shear,10118.403123043494,2
+SG07,Tech,MandaiTMacaranga gigantea 1,NA,Macaranga gigantea,NA,Thickness,0.3398333333333333,6
+SG07,Tech,MandaiTMacaranga gigantea 1,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_concave,1.261833100113538,2
+SG07,Tech,MandaiTMacaranga gigantea 1,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_flat,1.3997579571032401,2
+SG07,Tech,MandaiTMacaranga gigantea 1,NA,Macaranga gigantea,NA,leaf_work_to_punch_concave,0.4411217159820212,2
+SG07,Tech,MandaiTMacaranga gigantea 1,NA,Macaranga gigantea,NA,leaf_work_to_punch_flat,0.4688507730774133,2
+SG07,Tech,MandaiTMacaranga gigantea 1,NA,Macaranga gigantea,NA,leaf_work_to_shear,6468.822393822394,2
+SG07,Tech,MandaiTMacaranga gigantea 2,NA,Macaranga gigantea,NA,Thickness,0.246,6
+SG07,Tech,MandaiTMacaranga gigantea 2,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_concave,1.4540520149996823,2
+SG07,Tech,MandaiTMacaranga gigantea 2,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_flat,1.0318408746073782,2
+SG07,Tech,MandaiTMacaranga gigantea 2,NA,Macaranga gigantea,NA,leaf_work_to_punch_concave,0.37401411626595404,2
+SG07,Tech,MandaiTMacaranga gigantea 2,NA,Macaranga gigantea,NA,leaf_work_to_punch_flat,0.23906056915968196,2
+SG07,Tech,MandaiTMacaranga gigantea 2,NA,Macaranga gigantea,NA,leaf_work_to_shear,2432.8251107235997,2
+SG07,Tech,MandaiTMacaranga gigantea 3,NA,Macaranga gigantea,NA,Thickness,0.278,6
+SG07,Tech,MandaiTMacaranga gigantea 3,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_concave,0.8812397287724099,2
+SG07,Tech,MandaiTMacaranga gigantea 3,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_flat,1.1563643128535577,2
+SG07,Tech,MandaiTMacaranga gigantea 3,NA,Macaranga gigantea,NA,leaf_work_to_punch_concave,0.21682810030509247,2
+SG07,Tech,MandaiTMacaranga gigantea 3,NA,Macaranga gigantea,NA,leaf_work_to_punch_flat,0.376229159288367,2
+SG07,Tech,MandaiTMacaranga gigantea 3,NA,Macaranga gigantea,NA,leaf_work_to_shear,2750.2229816845934,2
+SG07,Tech,MandaiTMacaranga gigantea 4,NA,Macaranga gigantea,NA,Thickness,0.3383333333333333,6
+SG07,Tech,MandaiTMacaranga gigantea 4,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_concave,1.1598031184573387,2
+SG07,Tech,MandaiTMacaranga gigantea 4,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_flat,1.0862221769347216,2
+SG07,Tech,MandaiTMacaranga gigantea 4,NA,Macaranga gigantea,NA,leaf_work_to_punch_concave,0.3674510258291749,2
+SG07,Tech,MandaiTMacaranga gigantea 4,NA,Macaranga gigantea,NA,leaf_work_to_punch_flat,0.3644155965021645,2
+SG07,Tech,MandaiTMacaranga gigantea 4,NA,Macaranga gigantea,NA,leaf_work_to_shear,4448.555687909469,2
+SG07,Tech,MandaiTMacaranga gigantea 5,NA,Macaranga gigantea,NA,Thickness,0.2645,6
+SG07,Tech,MandaiTMacaranga gigantea 5,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_concave,0.8565168611962237,2
+SG07,Tech,MandaiTMacaranga gigantea 5,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_flat,1.0176211227851792,2
+SG07,Tech,MandaiTMacaranga gigantea 5,NA,Macaranga gigantea,NA,leaf_work_to_punch_concave,0.2502178229022066,2
+SG07,Tech,MandaiTMacaranga gigantea 5,NA,Macaranga gigantea,NA,leaf_work_to_punch_flat,0.2455416209660014,2
+SG07,Tech,MandaiTMacaranga gigantea 5,NA,Macaranga gigantea,NA,leaf_work_to_shear,2677.8456819254366,2
+SG07,Tech,MandaiTMacaranga gigantea 6,NA,Macaranga gigantea,NA,Thickness,0.2735,6
+SG07,Tech,MandaiTMacaranga gigantea 6,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_concave,1.1334951892625722,2
+SG07,Tech,MandaiTMacaranga gigantea 6,NA,Macaranga gigantea,NA,leaf_work_to_punch_adjusted_flat,1.4497666375137235,2
+SG07,Tech,MandaiTMacaranga gigantea 6,NA,Macaranga gigantea,NA,leaf_work_to_punch_concave,0.31133660259471274,2
+SG07,Tech,MandaiTMacaranga gigantea 6,NA,Macaranga gigantea,NA,leaf_work_to_punch_flat,0.39189853770617733,2
+SG07,Tech,MandaiTMacaranga gigantea 6,NA,Macaranga gigantea,NA,leaf_work_to_shear,2889.519624760583,2
+SG07,Tech,MandaiTMacaranga heynei 6,NA,Macaranga heynei,NA,Thickness,0.25466666666666665,6
+SG07,Tech,MandaiTMacaranga heynei 6,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_concave,2.1011356747154437,2
+SG07,Tech,MandaiTMacaranga heynei 6,NA,Macaranga heynei,NA,leaf_work_to_punch_adjusted_flat,2.056712005789155,2
+SG07,Tech,MandaiTMacaranga heynei 6,NA,Macaranga heynei,NA,leaf_work_to_punch_concave,0.5371889522503766,2
+SG07,Tech,MandaiTMacaranga heynei 6,NA,Macaranga heynei,NA,leaf_work_to_punch_flat,0.5293952823567014,2
+SG07,Tech,MandaiTMacaranga heynei 6,NA,Macaranga heynei,NA,leaf_work_to_shear,5226.3933954328095,2
+SG07,Tech,MandaiTPrunus polystachya 1,NA,Prunus polystachya,NA,Thickness,0.291,6
+SG07,Tech,MandaiTPrunus polystachya 1,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_concave,1.412362025351142,2
+SG07,Tech,MandaiTPrunus polystachya 1,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_flat,1.9906508709450916,2
+SG07,Tech,MandaiTPrunus polystachya 1,NA,Prunus polystachya,NA,leaf_work_to_punch_concave,0.4042043322751383,2
+SG07,Tech,MandaiTPrunus polystachya 1,NA,Prunus polystachya,NA,leaf_work_to_punch_flat,0.5602418074095635,2
+SG07,Tech,MandaiTPrunus polystachya 1,NA,Prunus polystachya,NA,leaf_work_to_shear,4720.848870203379,2
+SG07,Tech,MandaiTPrunus polystachya 2,NA,Prunus polystachya,NA,Thickness,0.26616666666666666,6
+SG07,Tech,MandaiTPrunus polystachya 2,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_concave,1.5687381389678432,2
+SG07,Tech,MandaiTPrunus polystachya 2,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_flat,1.7897091904833027,2
+SG07,Tech,MandaiTPrunus polystachya 2,NA,Prunus polystachya,NA,leaf_work_to_punch_concave,0.42299117865041874,2
+SG07,Tech,MandaiTPrunus polystachya 2,NA,Prunus polystachya,NA,leaf_work_to_punch_flat,0.44834111546247835,2
+SG07,Tech,MandaiTPrunus polystachya 2,NA,Prunus polystachya,NA,leaf_work_to_shear,4862.32220911677,2
+SG07,Tech,MandaiTPrunus polystachya 3,NA,Prunus polystachya,NA,Thickness,0.311,6
+SG07,Tech,MandaiTPrunus polystachya 3,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_concave,1.6696773536104126,2
+SG07,Tech,MandaiTPrunus polystachya 3,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_flat,1.850408424453157,2
+SG07,Tech,MandaiTPrunus polystachya 3,NA,Prunus polystachya,NA,leaf_work_to_punch_concave,0.495759443868208,2
+SG07,Tech,MandaiTPrunus polystachya 3,NA,Prunus polystachya,NA,leaf_work_to_punch_flat,0.5642617003020908,2
+SG07,Tech,MandaiTPrunus polystachya 3,NA,Prunus polystachya,NA,leaf_work_to_shear,5741.733572185911,2
+SG07,Tech,MandaiTPrunus polystachya 4,NA,Prunus polystachya,NA,Thickness,0.255,6
+SG07,Tech,MandaiTPrunus polystachya 4,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_concave,1.6936406934321218,2
+SG07,Tech,MandaiTPrunus polystachya 4,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_flat,1.9167989433866426,2
+SG07,Tech,MandaiTPrunus polystachya 4,NA,Prunus polystachya,NA,leaf_work_to_punch_concave,0.45531439905155624,2
+SG07,Tech,MandaiTPrunus polystachya 4,NA,Prunus polystachya,NA,leaf_work_to_punch_flat,0.4634362234670705,2
+SG07,Tech,MandaiTPrunus polystachya 4,NA,Prunus polystachya,NA,leaf_work_to_shear,6518.966334755808,2
+SG07,Tech,MandaiTPrunus polystachya 5,NA,Prunus polystachya,NA,Thickness,0.29933333333333334,6
+SG07,Tech,MandaiTPrunus polystachya 5,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_concave,1.4370940288258627,2
+SG07,Tech,MandaiTPrunus polystachya 5,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_flat,1.9880273423782127,2
+SG07,Tech,MandaiTPrunus polystachya 5,NA,Prunus polystachya,NA,leaf_work_to_punch_concave,0.4238936035854759,2
+SG07,Tech,MandaiTPrunus polystachya 5,NA,Prunus polystachya,NA,leaf_work_to_punch_flat,0.5726296406089844,2
+SG07,Tech,MandaiTPrunus polystachya 5,NA,Prunus polystachya,NA,leaf_work_to_shear,6227.426349118943,2
+SG07,Tech,MandaiTPrunus polystachya 6,NA,Prunus polystachya,NA,Thickness,0.30483333333333335,6
+SG07,Tech,MandaiTPrunus polystachya 6,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_concave,1.2101579277942607,2
+SG07,Tech,MandaiTPrunus polystachya 6,NA,Prunus polystachya,NA,leaf_work_to_punch_adjusted_flat,2.127072843611944,2
+SG07,Tech,MandaiTPrunus polystachya 6,NA,Prunus polystachya,NA,leaf_work_to_punch_concave,0.4034659846010007,2
+SG07,Tech,MandaiTPrunus polystachya 6,NA,Prunus polystachya,NA,leaf_work_to_punch_flat,0.6272673684951711,2
+SG07,Tech,MandaiTPrunus polystachya 6,NA,Prunus polystachya,NA,leaf_work_to_shear,4592.158736660067,2
+SG07,Tech,MandaiTTimonius wallichianus 1,NA,Timonius wallichianus,NA,Thickness,0.17666666666666667,6
+SG07,Tech,MandaiTTimonius wallichianus 1,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_concave,1.5117778020138635,2
+SG07,Tech,MandaiTTimonius wallichianus 1,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_flat,2.083810151465914,2
+SG07,Tech,MandaiTTimonius wallichianus 1,NA,Timonius wallichianus,NA,leaf_work_to_punch_concave,0.25924207225277796,2
+SG07,Tech,MandaiTTimonius wallichianus 1,NA,Timonius wallichianus,NA,leaf_work_to_punch_flat,0.36343113293664764,2
+SG07,Tech,MandaiTTimonius wallichianus 1,NA,Timonius wallichianus,NA,leaf_work_to_shear,8441.17861066847,2
+SG07,Tech,MandaiTTimonius wallichianus 2,NA,Timonius wallichianus,NA,Thickness,0.1535,6
+SG07,Tech,MandaiTTimonius wallichianus 2,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_concave,2.133446410436317,2
+SG07,Tech,MandaiTTimonius wallichianus 2,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_flat,3.1135445310939227,2
+SG07,Tech,MandaiTTimonius wallichianus 2,NA,Timonius wallichianus,NA,leaf_work_to_punch_concave,0.32175550866309977,2
+SG07,Tech,MandaiTTimonius wallichianus 2,NA,Timonius wallichianus,NA,leaf_work_to_punch_flat,0.5013380707394703,2
+SG07,Tech,MandaiTTimonius wallichianus 2,NA,Timonius wallichianus,NA,leaf_work_to_shear,7061.403508771929,2
+SG07,Tech,MandaiTTimonius wallichianus 3,NA,Timonius wallichianus,NA,Thickness,0.15483333333333332,6
+SG07,Tech,MandaiTTimonius wallichianus 3,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_concave,1.89869534753901,2
+SG07,Tech,MandaiTTimonius wallichianus 3,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_flat,2.134612992550486,2
+SG07,Tech,MandaiTTimonius wallichianus 3,NA,Timonius wallichianus,NA,leaf_work_to_punch_concave,0.29337014252402976,2
+SG07,Tech,MandaiTTimonius wallichianus 3,NA,Timonius wallichianus,NA,leaf_work_to_punch_flat,0.32659578786022436,2
+SG07,Tech,MandaiTTimonius wallichianus 3,NA,Timonius wallichianus,NA,leaf_work_to_shear,9497.778456111788,2
+SG07,Tech,MandaiTTimonius wallichianus 4,NA,Timonius wallichianus,NA,Thickness,0.18983333333333333,6
+SG07,Tech,MandaiTTimonius wallichianus 4,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_concave,1.7881557288762697,2
+SG07,Tech,MandaiTTimonius wallichianus 4,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_flat,1.4024458800921948,2
+SG07,Tech,MandaiTTimonius wallichianus 4,NA,Timonius wallichianus,NA,leaf_work_to_punch_concave,0.36146220580561383,2
+SG07,Tech,MandaiTTimonius wallichianus 4,NA,Timonius wallichianus,NA,leaf_work_to_punch_flat,0.26637943310277534,2
+SG07,Tech,MandaiTTimonius wallichianus 4,NA,Timonius wallichianus,NA,leaf_work_to_shear,8428.420688240423,2
+SG07,Tech,MandaiTTimonius wallichianus 5,NA,Timonius wallichianus,NA,Thickness,0.1775,6
+SG07,Tech,MandaiTTimonius wallichianus 5,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_concave,1.7943895711485545,2
+SG07,Tech,MandaiTTimonius wallichianus 5,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_flat,1.7265545323558422,2
+SG07,Tech,MandaiTTimonius wallichianus 5,NA,Timonius wallichianus,NA,leaf_work_to_punch_concave,0.34218312764757497,2
+SG07,Tech,MandaiTTimonius wallichianus 5,NA,Timonius wallichianus,NA,leaf_work_to_punch_flat,0.29435460608954667,2
+SG07,Tech,MandaiTTimonius wallichianus 5,NA,Timonius wallichianus,NA,leaf_work_to_shear,10703.29943768491,2
+SG07,Tech,MandaiTTimonius wallichianus 6,NA,Timonius wallichianus,NA,Thickness,0.17516666666666666,6
+SG07,Tech,MandaiTTimonius wallichianus 6,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_concave,2.6484239486037593,2
+SG07,Tech,MandaiTTimonius wallichianus 6,NA,Timonius wallichianus,NA,leaf_work_to_punch_adjusted_flat,2.334635954876183,2
+SG07,Tech,MandaiTTimonius wallichianus 6,NA,Timonius wallichianus,NA,leaf_work_to_punch_concave,0.4699993139038497,2
+SG07,Tech,MandaiTTimonius wallichianus 6,NA,Timonius wallichianus,NA,leaf_work_to_punch_flat,0.4019072506222656,2
+SG07,Tech,MandaiTTimonius wallichianus 6,NA,Timonius wallichianus,NA,leaf_work_to_shear,6840.585701981051,2
+SG07,Tech,NSSFTClerodendrum villosum 4,NA,Clerodendrum villosum,NA,Thickness,0.3125,6
+SG07,Tech,NSSFTClerodendrum villosum 4,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_concave,0.6455694521365809,2
+SG07,Tech,NSSFTClerodendrum villosum 4,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_flat,0.7826809293837467,2
+SG07,Tech,NSSFTClerodendrum villosum 4,NA,Clerodendrum villosum,NA,leaf_work_to_punch_concave,0.21289024604302495,2
+SG07,Tech,NSSFTClerodendrum villosum 4,NA,Clerodendrum villosum,NA,leaf_work_to_punch_flat,0.23184116967922486,2
+SG07,Tech,NSSFTClerodendrum villosum 4,NA,Clerodendrum villosum,NA,leaf_work_to_shear,847.5324095295184,2
+SG07,Tech,NSSFTClerodendrum villosum 5,NA,Clerodendrum villosum,NA,Thickness,0.30333333333333334,6
+SG07,Tech,NSSFTClerodendrum villosum 5,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_concave,0.8501514299963335,2
+SG07,Tech,NSSFTClerodendrum villosum 5,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_flat,0.8236934024290491,2
+SG07,Tech,NSSFTClerodendrum villosum 5,NA,Clerodendrum villosum,NA,leaf_work_to_punch_concave,0.22888777898267423,2
+SG07,Tech,NSSFTClerodendrum villosum 5,NA,Clerodendrum villosum,NA,leaf_work_to_punch_flat,0.28180269562920646,2
+SG07,Tech,NSSFTClerodendrum villosum 5,NA,Clerodendrum villosum,NA,leaf_work_to_shear,1738.0028588931998,2
+SG07,Tech,NSSFTClerodendrum villosum 6,NA,Clerodendrum villosum,NA,Thickness,0.29033333333333333,6
+SG07,Tech,NSSFTClerodendrum villosum 6,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_concave,0.7854270805727754,2
+SG07,Tech,NSSFTClerodendrum villosum 6,NA,Clerodendrum villosum,NA,leaf_work_to_punch_adjusted_flat,0.9218798009501366,2
+SG07,Tech,NSSFTClerodendrum villosum 6,NA,Clerodendrum villosum,NA,leaf_work_to_punch_concave,0.22741108363439888,2
+SG07,Tech,NSSFTClerodendrum villosum 6,NA,Clerodendrum villosum,NA,leaf_work_to_punch_flat,0.29222160169759337,2
+SG07,Tech,NSSFTClerodendrum villosum 6,NA,Clerodendrum villosum,NA,leaf_work_to_shear,3518.0010186675963,2
+SG07,Tech,NSSFTGironniera nervosa 5,NA,Gironniera nervosa,NA,Thickness,0.272,6
+SG07,Tech,NSSFTGironniera nervosa 5,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_concave,1.3800883196440739,2
+SG07,Tech,NSSFTGironniera nervosa 5,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_flat,1.4375329615327317,2
+SG07,Tech,NSSFTGironniera nervosa 5,NA,Gironniera nervosa,NA,leaf_work_to_punch_concave,0.3941135807285903,2
+SG07,Tech,NSSFTGironniera nervosa 5,NA,Gironniera nervosa,NA,leaf_work_to_punch_flat,0.38147963163779036,2
+SG07,Tech,NSSFTGironniera nervosa 5,NA,Gironniera nervosa,NA,leaf_work_to_shear,6414.496050394961,2
+SG07,Tech,NSSFTGironniera nervosa 6,NA,Gironniera nervosa,NA,Thickness,0.25983333333333336,6
+SG07,Tech,NSSFTGironniera nervosa 6,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_concave,1.156261709153755,2
+SG07,Tech,NSSFTGironniera nervosa 6,NA,Gironniera nervosa,NA,leaf_work_to_punch_adjusted_flat,1.0013286498274172,2
+SG07,Tech,NSSFTGironniera nervosa 6,NA,Gironniera nervosa,NA,leaf_work_to_punch_concave,0.2703993259953026,2
+SG07,Tech,NSSFTGironniera nervosa 6,NA,Gironniera nervosa,NA,leaf_work_to_punch_flat,0.29968711706942974,2
+SG07,Tech,NSSFTGironniera nervosa 6,NA,Gironniera nervosa,NA,leaf_work_to_shear,6503.273092040168,2
+SG07,Tech,NSSFTLitsea elliptica 4,NA,Litsea elliptica,NA,Thickness,0.21733333333333332,6
+SG07,Tech,NSSFTLitsea elliptica 4,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_concave,1.6265484389630762,2
+SG07,Tech,NSSFTLitsea elliptica 4,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_flat,1.5526888068322364,2
+SG07,Tech,NSSFTLitsea elliptica 4,NA,Litsea elliptica,NA,leaf_work_to_punch_concave,0.3712248028303229,2
+SG07,Tech,NSSFTLitsea elliptica 4,NA,Litsea elliptica,NA,leaf_work_to_punch_flat,0.3362763462544737,2
+SG07,Tech,NSSFTLitsea elliptica 4,NA,Litsea elliptica,NA,leaf_work_to_shear,3886.6003682671926,2
+SG07,Tech,NSSFTLitsea elliptica 5,NA,Litsea elliptica,NA,Thickness,0.217,1
+SG07,Tech,NSSFTLitsea elliptica 5,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_flat,2.038489840732338,1
+SG07,Tech,NSSFTLitsea elliptica 5,NA,Litsea elliptica,NA,leaf_work_to_punch_flat,0.44235229543891735,1
+SG07,Tech,NSSFTLitsea elliptica 6,NA,Litsea elliptica,NA,Thickness,0.23,1
+SG07,Tech,NSSFTLitsea elliptica 6,NA,Litsea elliptica,NA,leaf_work_to_punch_adjusted_flat,1.7841618676505164,1
+SG07,Tech,NSSFTLitsea elliptica 6,NA,Litsea elliptica,NA,leaf_work_to_punch_flat,0.4103572295596188,1
+SG07,Tech,NSSFTMacaranga bancana 4,NA,Macaranga bancana,NA,Thickness,0.2851666666666667,6
+SG07,Tech,NSSFTMacaranga bancana 4,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_concave,1.9039586503901735,2
+SG07,Tech,NSSFTMacaranga bancana 4,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_flat,2.3132856968476605,2
+SG07,Tech,NSSFTMacaranga bancana 4,NA,Macaranga bancana,NA,leaf_work_to_punch_concave,0.5296413982480805,2
+SG07,Tech,NSSFTMacaranga bancana 4,NA,Macaranga bancana,NA,leaf_work_to_punch_flat,0.622509127928506,2
+SG07,Tech,NSSFTMacaranga bancana 4,NA,Macaranga bancana,NA,leaf_work_to_shear,6583.936245599598,2
+SG07,Tech,NSSFTMacaranga bancana 5,NA,Macaranga bancana,NA,Thickness,0.19566666666666666,6
+SG07,Tech,NSSFTMacaranga bancana 5,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_concave,2.2824401110947665,2
+SG07,Tech,NSSFTMacaranga bancana 5,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_flat,2.381476983120508,2
+SG07,Tech,NSSFTMacaranga bancana 5,NA,Macaranga bancana,NA,leaf_work_to_punch_concave,0.46483088018488605,2
+SG07,Tech,NSSFTMacaranga bancana 5,NA,Macaranga bancana,NA,leaf_work_to_punch_flat,0.4115057703860552,2
+SG07,Tech,NSSFTMacaranga bancana 5,NA,Macaranga bancana,NA,leaf_work_to_shear,3984.4331856275385,2
+SG07,Tech,NSSFTMacaranga bancana 6,NA,Macaranga bancana,NA,Thickness,0.21133333333333335,6
+SG07,Tech,NSSFTMacaranga bancana 6,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_concave,2.441147817109126,2
+SG07,Tech,NSSFTMacaranga bancana 6,NA,Macaranga bancana,NA,leaf_work_to_punch_adjusted_flat,2.8317350278341444,2
+SG07,Tech,NSSFTMacaranga bancana 6,NA,Macaranga bancana,NA,leaf_work_to_punch_concave,0.5446544676222129,2
+SG07,Tech,NSSFTMacaranga bancana 6,NA,Macaranga bancana,NA,leaf_work_to_punch_flat,0.5762393403492128,2
+SG07,Tech,NSSFTMacaranga bancana 6,NA,Macaranga bancana,NA,leaf_work_to_shear,12910.640778113728,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 1,NA,Garcinia mangostana,NA,Thickness,0.5298333333333334,6
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 1,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_concave,1.5709738590386808,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 1,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_flat,2.384307494172295,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 1,NA,Garcinia mangostana,NA,leaf_work_to_punch_concave,0.8804385820939282,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 1,NA,Garcinia mangostana,NA,leaf_work_to_punch_flat,1.2519095008156302,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 1,NA,Garcinia mangostana,NA,leaf_work_to_shear,9363.780873122454,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 2,NA,Garcinia mangostana,NA,Thickness,0.5748333333333333,6
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 2,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_concave,1.3652041348183162,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 2,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_flat,2.1025678389739473,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 2,NA,Garcinia mangostana,NA,leaf_work_to_punch_concave,0.7878990069353418,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 2,NA,Garcinia mangostana,NA,leaf_work_to_punch_flat,1.2548628915121811,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 2,NA,Garcinia mangostana,NA,leaf_work_to_shear,7354.279035099607,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 3,NA,Garcinia mangostana,NA,Thickness,0.4761666666666667,6
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 3,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_concave,1.798913685188365,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 3,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_flat,2.4447423615969175,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 3,NA,Garcinia mangostana,NA,leaf_work_to_punch_concave,0.8671483239594503,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 3,NA,Garcinia mangostana,NA,leaf_work_to_punch_flat,1.145423358478888,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 3,NA,Garcinia mangostana,NA,leaf_work_to_shear,9232.425793952812,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 4,NA,Garcinia mangostana,NA,Thickness,0.5595,6
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 4,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_concave,1.5273978358363647,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 4,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_flat,2.3312015648239344,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 4,NA,Garcinia mangostana,NA,leaf_work_to_punch_concave,0.8674764784812894,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 4,NA,Garcinia mangostana,NA,leaf_work_to_punch_flat,1.3139307054431937,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 4,NA,Garcinia mangostana,NA,leaf_work_to_shear,11131.443298969072,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 5,NA,Garcinia mangostana,NA,Thickness,0.5568333333333333,6
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 5,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_concave,1.4880218324843555,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 5,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_flat,2.309355378732298,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 5,NA,Garcinia mangostana,NA,leaf_work_to_punch_concave,0.8497561343019855,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 5,NA,Garcinia mangostana,NA,leaf_work_to_punch_flat,1.2378808950070148,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 5,NA,Garcinia mangostana,NA,leaf_work_to_shear,10087.07910060222,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,Thickness,0.5375,6
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_concave,1.6116126197966922,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,leaf_work_to_punch_adjusted_flat,2.1807658688043636,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,leaf_work_to_punch_concave,0.8448338164744011,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,leaf_work_to_punch_flat,1.182012587663932,2
+SG07,Tech,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,leaf_work_to_shear,8420.071359458152,2
+SG07,Tech,UHallTCalophyllum inophyllum 10,NA,NA,NA,Thickness,0.36,6
+SG07,Tech,UHallTCalophyllum inophyllum 10,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.893149906878895,2
+SG07,Tech,UHallTCalophyllum inophyllum 10,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.32182360176542,2
+SG07,Tech,UHallTCalophyllum inophyllum 10,NA,NA,NA,leaf_work_to_punch_concave,1.1073574339455687,2
+SG07,Tech,UHallTCalophyllum inophyllum 10,NA,NA,NA,leaf_work_to_punch_flat,1.205065442823119,2
+SG07,Tech,UHallTCalophyllum inophyllum 10,NA,NA,NA,leaf_work_to_shear,6094.269362628907,2
+SG07,Tech,UHallTCalophyllum inophyllum 11,NA,NA,NA,Thickness,0.3471666666666667,6
+SG07,Tech,UHallTCalophyllum inophyllum 11,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.813745144666063,2
+SG07,Tech,UHallTCalophyllum inophyllum 11,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.4905895345544025,2
+SG07,Tech,UHallTCalophyllum inophyllum 11,NA,NA,NA,leaf_work_to_punch_concave,0.9581291651393019,2
+SG07,Tech,UHallTCalophyllum inophyllum 11,NA,NA,NA,leaf_work_to_punch_flat,1.2291027615478227,2
+SG07,Tech,UHallTCalophyllum inophyllum 11,NA,NA,NA,leaf_work_to_shear,6403.263286236821,2
+SG07,Tech,UHallTCalophyllum inophyllum 7,NA,NA,NA,Thickness,0.34299999999999997,6
+SG07,Tech,UHallTCalophyllum inophyllum 7,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.813965290178764,2
+SG07,Tech,UHallTCalophyllum inophyllum 7,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.4287666430507495,2
+SG07,Tech,UHallTCalophyllum inophyllum 7,NA,NA,NA,leaf_work_to_punch_concave,0.9546015040295331,2
+SG07,Tech,UHallTCalophyllum inophyllum 7,NA,NA,NA,leaf_work_to_punch_flat,1.1822587035553112,2
+SG07,Tech,UHallTCalophyllum inophyllum 7,NA,NA,NA,leaf_work_to_shear,6326.982373977258,2
+SG07,Tech,UHallTCalophyllum inophyllum 8,NA,NA,NA,Thickness,0.32266666666666666,6
+SG07,Tech,UHallTCalophyllum inophyllum 8,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.5937795225747604,2
+SG07,Tech,UHallTCalophyllum inophyllum 8,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.1297751470790622,2
+SG07,Tech,UHallTCalophyllum inophyllum 8,NA,NA,NA,leaf_work_to_punch_concave,0.8251445451640635,2
+SG07,Tech,UHallTCalophyllum inophyllum 8,NA,NA,NA,leaf_work_to_punch_flat,1.044515843013408,2
+SG07,Tech,UHallTCalophyllum inophyllum 8,NA,NA,NA,leaf_work_to_shear,6111.187930457451,2
+SG07,Tech,UHallTCalophyllum inophyllum 9,NA,NA,NA,Thickness,0.371,6
+SG07,Tech,UHallTCalophyllum inophyllum 9,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.461439127946659,2
+SG07,Tech,UHallTCalophyllum inophyllum 9,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.3722803738331013,2
+SG07,Tech,UHallTCalophyllum inophyllum 9,NA,NA,NA,leaf_work_to_punch_concave,0.9117773389295488,2
+SG07,Tech,UHallTCalophyllum inophyllum 9,NA,NA,NA,leaf_work_to_punch_flat,1.177910656140945,2
+SG07,Tech,UHallTCalophyllum inophyllum 9,NA,NA,NA,leaf_work_to_shear,7113.91231669326,2
+SG07,Tech,UTownTAlstonia scholaris 5,NA,Alstonia scholaris,NA,Thickness,0.4111666666666667,6
+SG07,Tech,UTownTAlstonia scholaris 5,NA,Alstonia scholaris,NA,leaf_work_to_punch_adjusted_concave,1.6652990167973332,2
+SG07,Tech,UTownTAlstonia scholaris 5,NA,Alstonia scholaris,NA,leaf_work_to_punch_adjusted_flat,1.6030817060020932,2
+SG07,Tech,UTownTAlstonia scholaris 5,NA,Alstonia scholaris,NA,leaf_work_to_punch_concave,0.6581138935480333,2
+SG07,Tech,UTownTAlstonia scholaris 5,NA,Alstonia scholaris,NA,leaf_work_to_punch_flat,0.6196377758624152,2
+SG07,Tech,UTownTAlstonia scholaris 5,NA,Alstonia scholaris,NA,leaf_work_to_shear,5144.242053638711,2
+SG07,Tech,UTownTAlstonia scholaris 6,NA,Alstonia scholaris,NA,Thickness,0.31933333333333336,6
+SG07,Tech,UTownTAlstonia scholaris 6,NA,Alstonia scholaris,NA,leaf_work_to_punch_adjusted_concave,1.8403586019199691,2
+SG07,Tech,UTownTAlstonia scholaris 6,NA,Alstonia scholaris,NA,leaf_work_to_punch_adjusted_flat,2.09316317276025,2
+SG07,Tech,UTownTAlstonia scholaris 6,NA,Alstonia scholaris,NA,leaf_work_to_punch_concave,0.5893655212227712,2
+SG07,Tech,UTownTAlstonia scholaris 6,NA,Alstonia scholaris,NA,leaf_work_to_punch_flat,0.6548323483296437,2
+SG07,Tech,UTownTAlstonia scholaris 6,NA,Alstonia scholaris,NA,leaf_work_to_shear,4509.713707814665,2
+SG07,Tech,UTownTArtocarpus heterophyllus 1,NA,Artocarpus heterophyllus,NA,Thickness,0.36933333333333335,6
+SG07,Tech,UTownTArtocarpus heterophyllus 1,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_concave,2.3299926050775888,2
+SG07,Tech,UTownTArtocarpus heterophyllus 1,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_flat,3.141911345712253,2
+SG07,Tech,UTownTArtocarpus heterophyllus 1,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_concave,0.8818332388117438,2
+SG07,Tech,UTownTArtocarpus heterophyllus 1,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_flat,1.1114593654685558,2
+SG07,Tech,UTownTArtocarpus heterophyllus 1,NA,Artocarpus heterophyllus,NA,leaf_work_to_shear,6669.347545219638,2
+SG07,Tech,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,Thickness,0.3486666666666667,6
+SG07,Tech,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_concave,2.1290460839907857,2
+SG07,Tech,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_adjusted_flat,2.7484706312481366,2
+SG07,Tech,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_concave,0.7487665802060457,2
+SG07,Tech,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,leaf_work_to_punch_flat,0.997835862281816,2
+SG07,Tech,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,leaf_work_to_shear,8328.664886414641,2
+SG07,Tech,UTownTCalophyllum inophyllum 1,NA,Calophyllum inophyllum,NA,Thickness,0.33366666666666667,6
+SG07,Tech,UTownTCalophyllum inophyllum 1,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_concave,2.9485966814177003,2
+SG07,Tech,UTownTCalophyllum inophyllum 1,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_flat,3.074746754818948,2
+SG07,Tech,UTownTCalophyllum inophyllum 1,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_concave,0.9185865452577073,2
+SG07,Tech,UTownTCalophyllum inophyllum 1,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_flat,1.0607594918444363,2
+SG07,Tech,UTownTCalophyllum inophyllum 1,NA,Calophyllum inophyllum,NA,leaf_work_to_shear,6153.034722858782,2
+SG07,Tech,UTownTCalophyllum inophyllum 2,NA,Calophyllum inophyllum,NA,Thickness,0.31066666666666665,6
+SG07,Tech,UTownTCalophyllum inophyllum 2,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_concave,3.1451524763456833,2
+SG07,Tech,UTownTCalophyllum inophyllum 2,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_flat,5.587395953937727,2
+SG07,Tech,UTownTCalophyllum inophyllum 2,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_concave,0.9888936515617044,2
+SG07,Tech,UTownTCalophyllum inophyllum 2,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_flat,1.6806433835982308,2
+SG07,Tech,UTownTCalophyllum inophyllum 2,NA,Calophyllum inophyllum,NA,leaf_work_to_shear,7481.8308441406425,2
+SG07,Tech,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,Thickness,0.3171818181818182,22
+SG07,Tech,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_concave,3.2506760131323222,8
+SG07,Tech,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_flat,3.9565695472413553,8
+SG07,Tech,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_concave,1.0171969790703146,8
+SG07,Tech,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_flat,1.2400959380294279,8
+SG07,Tech,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,leaf_work_to_shear,8782.12154960057,6
+SG07,Tech,UTownTCalophyllum inophyllum 6,NA,Calophyllum inophyllum,NA,Thickness,0.32833333333333337,24
+SG07,Tech,UTownTCalophyllum inophyllum 6,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_concave,2.623844709834901,8
+SG07,Tech,UTownTCalophyllum inophyllum 6,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_adjusted_flat,3.4712478475742534,8
+SG07,Tech,UTownTCalophyllum inophyllum 6,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_concave,0.8564833019996841,8
+SG07,Tech,UTownTCalophyllum inophyllum 6,NA,Calophyllum inophyllum,NA,leaf_work_to_punch_flat,1.1569497860584814,8
+SG07,Tech,UTownTCalophyllum inophyllum 6,NA,Calophyllum inophyllum,NA,leaf_work_to_shear,8977.431533341962,8
+SG07,Tech,UTownTCinnamomum iners 1,NA,Cinnamomum iners,NA,Thickness,0.26983333333333337,6
+SG07,Tech,UTownTCinnamomum iners 1,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,3.6569311060723884,2
+SG07,Tech,UTownTCinnamomum iners 1,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,2.49184969760359,2
+SG07,Tech,UTownTCinnamomum iners 1,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.9296617603697721,2
+SG07,Tech,UTownTCinnamomum iners 1,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.7371991333112224,2
+SG07,Tech,UTownTCinnamomum iners 1,NA,Cinnamomum iners,NA,leaf_work_to_shear,16923.63025201782,2
+SG07,Tech,UTownTCinnamomum iners 2,NA,Cinnamomum iners,NA,Thickness,0.2628333333333333,6
+SG07,Tech,UTownTCinnamomum iners 2,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,2.432006939457857,2
+SG07,Tech,UTownTCinnamomum iners 2,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,2.9419219705692106,2
+SG07,Tech,UTownTCinnamomum iners 2,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.683381791729633,2
+SG07,Tech,UTownTCinnamomum iners 2,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.7171817074790459,2
+SG07,Tech,UTownTCinnamomum iners 2,NA,Cinnamomum iners,NA,leaf_work_to_shear,13011.280952380952,2
+SG07,Tech,UTownTCinnamomum iners 3,NA,Cinnamomum iners,NA,Thickness,0.268,6
+SG07,Tech,UTownTCinnamomum iners 3,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,3.201720647918569,2
+SG07,Tech,UTownTCinnamomum iners 3,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,3.4367036440443144,2
+SG07,Tech,UTownTCinnamomum iners 3,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.867558517111749,2
+SG07,Tech,UTownTCinnamomum iners 3,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.9066909438410451,2
+SG07,Tech,UTownTCinnamomum iners 3,NA,Cinnamomum iners,NA,leaf_work_to_shear,16148.636633923772,2
+SG07,Tech,UTownTCinnamomum iners 4,NA,Cinnamomum iners,NA,Thickness,0.269,6
+SG07,Tech,UTownTCinnamomum iners 4,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,4.916000085339976,2
+SG07,Tech,UTownTCinnamomum iners 4,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,3.285201296491115,2
+SG07,Tech,UTownTCinnamomum iners 4,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,1.2142537694346098,2
+SG07,Tech,UTownTCinnamomum iners 4,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.9389321256117227,2
+SG07,Tech,UTownTCinnamomum iners 4,NA,Cinnamomum iners,NA,leaf_work_to_shear,19968.578952393073,2
+SG07,Tech,UTownTCinnamomum iners 5,NA,Cinnamomum iners,NA,Thickness,0.25483333333333336,6
+SG07,Tech,UTownTCinnamomum iners 5,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,3.6709561513259468,2
+SG07,Tech,UTownTCinnamomum iners 5,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,3.370889518831418,2
+SG07,Tech,UTownTCinnamomum iners 5,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.9478743363318345,2
+SG07,Tech,UTownTCinnamomum iners 5,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.8428648893433675,2
+SG07,Tech,UTownTCinnamomum iners 5,NA,Cinnamomum iners,NA,leaf_work_to_shear,16957.573954547217,2
+SG07,Tech,UTownTCinnamomum iners 6,NA,Cinnamomum iners,NA,Thickness,0.23816666666666667,6
+SG07,Tech,UTownTCinnamomum iners 6,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,3.976580686258994,2
+SG07,Tech,UTownTCinnamomum iners 6,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,3.7218456843757766,2
+SG07,Tech,UTownTCinnamomum iners 6,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.9207195496496605,2
+SG07,Tech,UTownTCinnamomum iners 6,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.8691172510904841,2
+SG07,Tech,UTownTCinnamomum iners 6,NA,Cinnamomum iners,NA,leaf_work_to_shear,19216.604348428198,2
+SG07,Tech,UTownTCinnamomum iners 9,NA,Cinnamomum iners,NA,Thickness,0.255,6
+SG07,Tech,UTownTCinnamomum iners 9,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_concave,3.146660986791227,2
+SG07,Tech,UTownTCinnamomum iners 9,NA,Cinnamomum iners,NA,leaf_work_to_punch_adjusted_flat,3.567290410927865,2
+SG07,Tech,UTownTCinnamomum iners 9,NA,Cinnamomum iners,NA,leaf_work_to_punch_concave,0.7822383414336196,2
+SG07,Tech,UTownTCinnamomum iners 9,NA,Cinnamomum iners,NA,leaf_work_to_punch_flat,0.8617337743491076,2
+SG07,Tech,UTownTCinnamomum iners 9,NA,Cinnamomum iners,NA,leaf_work_to_shear,17136.827898018597,2
+SG07,Tech,UTownTClidemia hirta 7,NA,Clidemia hirta,NA,Thickness,0.173,5
+SG07,Tech,UTownTClidemia hirta 7,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.5516138410003459,2
+SG07,Tech,UTownTClidemia hirta 7,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.8726073016757878,2
+SG07,Tech,UTownTClidemia hirta 7,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.08919239903582918,2
+SG07,Tech,UTownTClidemia hirta 7,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.16266619647557223,2
+SG07,Tech,UTownTClidemia hirta 7,NA,Clidemia hirta,NA,leaf_work_to_shear,2183.5051546391755,1
+SG07,Tech,UTownTClidemia hirta 8,NA,Clidemia hirta,NA,Thickness,0.225,6
+SG07,Tech,UTownTClidemia hirta 8,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.4947878667843988,2
+SG07,Tech,UTownTClidemia hirta 8,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.8239665393296973,2
+SG07,Tech,UTownTClidemia hirta 8,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.11241753531898155,2
+SG07,Tech,UTownTClidemia hirta 8,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.17100952519332774,2
+SG07,Tech,UTownTClidemia hirta 8,NA,Clidemia hirta,NA,leaf_work_to_shear,1727.6322753630775,2
+SG07,Tech,UTownTClidemia hirta 9,NA,Clidemia hirta,NA,Thickness,0.23483333333333334,6
+SG07,Tech,UTownTClidemia hirta 9,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_concave,0.5739567966307597,2
+SG07,Tech,UTownTClidemia hirta 9,NA,Clidemia hirta,NA,leaf_work_to_punch_adjusted_flat,0.892676293473009,2
+SG07,Tech,UTownTClidemia hirta 9,NA,Clidemia hirta,NA,leaf_work_to_punch_concave,0.14528221068115332,2
+SG07,Tech,UTownTClidemia hirta 9,NA,Clidemia hirta,NA,leaf_work_to_punch_flat,0.17950052344591083,2
+SG07,Tech,UTownTClidemia hirta 9,NA,Clidemia hirta,NA,leaf_work_to_shear,1562.63958184842,2
+SG07,Tech,UTownTCratoxylum cochinchinense 1,NA,Craxtoxylum cochinchinense,NA,Thickness,0.16183333333333333,6
+SG07,Tech,UTownTCratoxylum cochinchinense 1,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_concave,2.701880179271452,2
+SG07,Tech,UTownTCratoxylum cochinchinense 1,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_flat,2.6795869217617003,2
+SG07,Tech,UTownTCratoxylum cochinchinense 1,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_concave,0.4439930680481121,2
+SG07,Tech,UTownTCratoxylum cochinchinense 1,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_flat,0.4349688186975408,2
+SG07,Tech,UTownTCratoxylum cochinchinense 1,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_shear,5093.592171058943,2
+SG07,Tech,UTownTCratoxylum cochinchinense 2,NA,Craxtoxylum cochinchinense,NA,Thickness,0.1795,6
+SG07,Tech,UTownTCratoxylum cochinchinense 2,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_concave,2.9905487217936333,2
+SG07,Tech,UTownTCratoxylum cochinchinense 2,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_flat,2.6673270355147602,2
+SG07,Tech,UTownTCratoxylum cochinchinense 2,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_concave,0.5534326010814051,2
+SG07,Tech,UTownTCratoxylum cochinchinense 2,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_flat,0.49723613921648335,2
+SG07,Tech,UTownTCratoxylum cochinchinense 2,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_shear,5712.382641114824,2
+SG07,Tech,UTownTCratoxylum cochinchinense 3,NA,Craxtoxylum cochinchinense,NA,Thickness,0.16666666666666666,6
+SG07,Tech,UTownTCratoxylum cochinchinense 3,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_concave,2.9119492903007895,2
+SG07,Tech,UTownTCratoxylum cochinchinense 3,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_flat,3.125790589892663,2
+SG07,Tech,UTownTCratoxylum cochinchinense 3,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_concave,0.48968858521418723,2
+SG07,Tech,UTownTCratoxylum cochinchinense 3,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_flat,0.5216836510934858,2
+SG07,Tech,UTownTCratoxylum cochinchinense 3,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_shear,7290.123456790125,2
+SG07,Tech,UTownTCratoxylum cochinchinense 4,NA,Craxtoxylum cochinchinense,NA,Thickness,0.18066666666666667,6
+SG07,Tech,UTownTCratoxylum cochinchinense 4,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_concave,3.6665794650056975,2
+SG07,Tech,UTownTCratoxylum cochinchinense 4,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_flat,3.0430977068732874,2
+SG07,Tech,UTownTCratoxylum cochinchinense 4,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_concave,0.6706658040083733,2
+SG07,Tech,UTownTCratoxylum cochinchinense 4,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_flat,0.5245550031595767,2
+SG07,Tech,UTownTCratoxylum cochinchinense 4,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_shear,7698.163887846789,2
+SG07,Tech,UTownTCratoxylum cochinchinense 5,NA,Craxtoxylum cochinchinense,NA,Thickness,0.18083333333333335,6
+SG07,Tech,UTownTCratoxylum cochinchinense 5,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_concave,3.047225428623296,2
+SG07,Tech,UTownTCratoxylum cochinchinense 5,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_flat,2.8197275854127533,2
+SG07,Tech,UTownTCratoxylum cochinchinense 5,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_concave,0.5281647028998053,2
+SG07,Tech,UTownTCratoxylum cochinchinense 5,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_flat,0.5013380707394703,2
+SG07,Tech,UTownTCratoxylum cochinchinense 5,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_shear,9029.458083444793,2
+SG07,Tech,UTownTCratoxylum cochinchinense 6,NA,Craxtoxylum cochinchinense,NA,Thickness,0.17466666666666666,6
+SG07,Tech,UTownTCratoxylum cochinchinense 6,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_concave,2.737342322703106,2
+SG07,Tech,UTownTCratoxylum cochinchinense 6,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_adjusted_flat,2.8196134823430743,2
+SG07,Tech,UTownTCratoxylum cochinchinense 6,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_concave,0.4791056018848808,2
+SG07,Tech,UTownTCratoxylum cochinchinense 6,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_punch_flat,0.4962516756509664,2
+SG07,Tech,UTownTCratoxylum cochinchinense 6,NA,Craxtoxylum cochinchinense,NA,leaf_work_to_shear,6763.602022621712,2
+SG07,Tech,UTownTElaeocarpus mastersii 1,NA,Elaeocarpus mastersii,NA,Thickness,0.18914285714285714,7
+SG07,Tech,UTownTElaeocarpus mastersii 1,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_concave,2.020416366607095,3
+SG07,Tech,UTownTElaeocarpus mastersii 1,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_flat,2.4061648808737184,2
+SG07,Tech,UTownTElaeocarpus mastersii 1,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_concave,0.3815343240580969,3
+SG07,Tech,UTownTElaeocarpus mastersii 1,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_flat,0.45498624452971725,2
+SG07,Tech,UTownTElaeocarpus mastersii 1,NA,Elaeocarpus mastersii,NA,leaf_work_to_shear,5796.175986842105,2
+SG07,Tech,UTownTElaeocarpus mastersii 2,NA,Elaeocarpus mastersii,NA,Thickness,0.21144444444444443,9
+SG07,Tech,UTownTElaeocarpus mastersii 2,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_concave,1.5941429489816843,3
+SG07,Tech,UTownTElaeocarpus mastersii 2,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_flat,1.7712442836195486,3
+SG07,Tech,UTownTElaeocarpus mastersii 2,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_concave,0.3350457667975776,3
+SG07,Tech,UTownTElaeocarpus mastersii 2,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_flat,0.3706505324171047,3
+SG07,Tech,UTownTElaeocarpus mastersii 2,NA,Elaeocarpus mastersii,NA,leaf_work_to_shear,7538.353746780436,3
+SG07,Tech,UTownTElaeocarpus mastersii 3,NA,Elaeocarpus mastersii,NA,Thickness,0.20866666666666667,9
+SG07,Tech,UTownTElaeocarpus mastersii 3,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_concave,1.6336961764208444,3
+SG07,Tech,UTownTElaeocarpus mastersii 3,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_flat,1.958932228110461,3
+SG07,Tech,UTownTElaeocarpus mastersii 3,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_concave,0.34784379314929703,3
+SG07,Tech,UTownTElaeocarpus mastersii 3,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_flat,0.41402162172015383,3
+SG07,Tech,UTownTElaeocarpus mastersii 3,NA,Elaeocarpus mastersii,NA,leaf_work_to_shear,6594.149022631995,3
+SG07,Tech,UTownTElaeocarpus mastersii 4,NA,Elaeocarpus mastersii,NA,Thickness,0.20444444444444446,9
+SG07,Tech,UTownTElaeocarpus mastersii 4,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_concave,1.8263612857106957,3
+SG07,Tech,UTownTElaeocarpus mastersii 4,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_flat,2.0030964021470172,3
+SG07,Tech,UTownTElaeocarpus mastersii 4,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_concave,0.35801658332630476,3
+SG07,Tech,UTownTElaeocarpus mastersii 4,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_flat,0.44404776046841865,3
+SG07,Tech,UTownTElaeocarpus mastersii 4,NA,Elaeocarpus mastersii,NA,leaf_work_to_shear,4840.353328738125,3
+SG07,Tech,UTownTElaeocarpus mastersii 5,NA,Elaeocarpus mastersii,NA,Thickness,0.21077777777777779,9
+SG07,Tech,UTownTElaeocarpus mastersii 5,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_concave,1.5455731300417186,3
+SG07,Tech,UTownTElaeocarpus mastersii 5,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_adjusted_flat,2.006820595676653,3
+SG07,Tech,UTownTElaeocarpus mastersii 5,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_concave,0.3217008162427933,3
+SG07,Tech,UTownTElaeocarpus mastersii 5,NA,Elaeocarpus mastersii,NA,leaf_work_to_punch_flat,0.4307028099136343,3
+SG07,Tech,UTownTElaeocarpus mastersii 5,NA,Elaeocarpus mastersii,NA,leaf_work_to_shear,6322.890320665019,3
+SG07,Tech,UTownTFagraea fragrans 1,NA,Fagraea fragrans,NA,Thickness,0.3398,5
+SG07,Tech,UTownTFagraea fragrans 1,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_concave,0.8148079408326359,2
+SG07,Tech,UTownTFagraea fragrans 1,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_flat,1.3779939035476447,2
+SG07,Tech,UTownTFagraea fragrans 1,NA,Fagraea fragrans,NA,leaf_work_to_punch_concave,0.2485770502930118,2
+SG07,Tech,UTownTFagraea fragrans 1,NA,Fagraea fragrans,NA,leaf_work_to_punch_flat,0.49657983017280544,2
+SG07,Tech,UTownTFagraea fragrans 1,NA,Fagraea fragrans,NA,leaf_work_to_shear,4751.914241960184,1
+SG07,Tech,UTownTFagraea fragrans 2,NA,Fagraea fragrans,NA,Thickness,0.3233333333333333,6
+SG07,Tech,UTownTFagraea fragrans 2,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_concave,0.8939586346744616,2
+SG07,Tech,UTownTFagraea fragrans 2,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_flat,1.7312701092768359,2
+SG07,Tech,UTownTFagraea fragrans 2,NA,Fagraea fragrans,NA,leaf_work_to_punch_concave,0.2826230819338038,2
+SG07,Tech,UTownTFagraea fragrans 2,NA,Fagraea fragrans,NA,leaf_work_to_punch_flat,0.5546631805383012,2
+SG07,Tech,UTownTFagraea fragrans 2,NA,Fagraea fragrans,NA,leaf_work_to_shear,5823.27314117571,2
+SG07,Tech,UTownTFagraea fragrans 3,NA,Fagraea fragrans,NA,Thickness,0.3308,5
+SG07,Tech,UTownTFagraea fragrans 3,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_concave,1.421577989085643,2
+SG07,Tech,UTownTFagraea fragrans 3,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_flat,1.0051588308930344,2
+SG07,Tech,UTownTFagraea fragrans 3,NA,Fagraea fragrans,NA,leaf_work_to_punch_concave,0.4514585834199485,2
+SG07,Tech,UTownTFagraea fragrans 3,NA,Fagraea fragrans,NA,leaf_work_to_punch_flat,0.35235591782458275,2
+SG07,Tech,UTownTFagraea fragrans 3,NA,Fagraea fragrans,NA,leaf_work_to_shear,4401.97461212976,1
+SG07,Tech,UTownTFagraea fragrans 4,NA,Fagraea fragrans,NA,Thickness,0.2773333333333333,6
+SG07,Tech,UTownTFagraea fragrans 4,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_concave,1.6686247991342025,2
+SG07,Tech,UTownTFagraea fragrans 4,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_flat,1.4661909176115628,2
+SG07,Tech,UTownTFagraea fragrans 4,NA,Fagraea fragrans,NA,leaf_work_to_punch_concave,0.45326343329006274,2
+SG07,Tech,UTownTFagraea fragrans 4,NA,Fagraea fragrans,NA,leaf_work_to_punch_flat,0.4568731330302913,2
+SG07,Tech,UTownTFagraea fragrans 4,NA,Fagraea fragrans,NA,leaf_work_to_shear,4418.173321314576,2
+SG07,Tech,UTownTFagraea fragrans 5,NA,Fagraea fragrans,NA,Thickness,0.348,6
+SG07,Tech,UTownTFagraea fragrans 5,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_concave,1.6981814443021186,2
+SG07,Tech,UTownTFagraea fragrans 5,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_flat,1.5234106165052572,2
+SG07,Tech,UTownTFagraea fragrans 5,NA,Fagraea fragrans,NA,leaf_work_to_punch_concave,0.5759111858273739,2
+SG07,Tech,UTownTFagraea fragrans 5,NA,Fagraea fragrans,NA,leaf_work_to_punch_flat,0.5457209698181895,2
+SG07,Tech,UTownTFagraea fragrans 5,NA,Fagraea fragrans,NA,leaf_work_to_shear,4930.370183832788,2
+SG07,Tech,UTownTFagraea fragrans 6,NA,Fagraea fragrans,NA,Thickness,0.29816666666666664,6
+SG07,Tech,UTownTFagraea fragrans 6,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_concave,1.4466734796080405,2
+SG07,Tech,UTownTFagraea fragrans 6,NA,Fagraea fragrans,NA,leaf_work_to_punch_adjusted_flat,1.3849205737107009,2
+SG07,Tech,UTownTFagraea fragrans 6,NA,Fagraea fragrans,NA,leaf_work_to_punch_concave,0.4315231962182317,2
+SG07,Tech,UTownTFagraea fragrans 6,NA,Fagraea fragrans,NA,leaf_work_to_punch_flat,0.4174125517791565,2
+SG07,Tech,UTownTFagraea fragrans 6,NA,Fagraea fragrans,NA,leaf_work_to_shear,4310.579877112135,2
+SG07,Tech,UTownTGnetum gnemon,NA,NA,NA,Thickness,0.202,3
+SG07,Tech,UTownTGnetum gnemon,NA,NA,NA,leaf_work_to_punch_adjusted_concave,4.21178329548763,3
+SG07,Tech,UTownTGnetum gnemon,NA,NA,NA,leaf_work_to_punch_concave,0.8515609841720998,3
+SG07,Tech,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,Thickness,0.18688888888888888,9
+SG07,Tech,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_concave,3.4732596247847076,3
+SG07,Tech,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_flat,5.119520392126239,3
+SG07,Tech,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,leaf_work_to_punch_concave,0.6810847100767603,3
+SG07,Tech,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,leaf_work_to_punch_flat,0.9155511159306969,3
+SG07,Tech,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,leaf_work_to_shear,8471.00034833027,3
+SG07,Tech,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,Thickness,0.19177777777777777,9
+SG07,Tech,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_concave,3.639342419660342,3
+SG07,Tech,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_flat,4.477098450277438,3
+SG07,Tech,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,leaf_work_to_punch_concave,0.6860070279043448,3
+SG07,Tech,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,leaf_work_to_punch_flat,0.8831185106889464,3
+SG07,Tech,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,leaf_work_to_shear,6342.7997754196695,3
+SG07,Tech,UTownTGnetum gnemon 3,NA,NA,NA,Thickness,0.22955555555555557,9
+SG07,Tech,UTownTGnetum gnemon 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.9818841495292356,3
+SG07,Tech,UTownTGnetum gnemon 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,5.989234561093867,3
+SG07,Tech,UTownTGnetum gnemon 3,NA,NA,NA,leaf_work_to_punch_concave,0.9159339628728423,3
+SG07,Tech,UTownTGnetum gnemon 3,NA,NA,NA,leaf_work_to_punch_flat,1.3560985614994998,3
+SG07,Tech,UTownTGnetum gnemon 3,NA,NA,NA,leaf_work_to_shear,3984.7450565606005,3
+SG07,Tech,UTownTGnetum gnemon 4,NA,NA,NA,Thickness,0.2245,6
+SG07,Tech,UTownTGnetum gnemon 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.261639179491925,2
+SG07,Tech,UTownTGnetum gnemon 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,4.4625770060951115,2
+SG07,Tech,UTownTGnetum gnemon 4,NA,NA,NA,leaf_work_to_punch_concave,0.7447466873135185,2
+SG07,Tech,UTownTGnetum gnemon 4,NA,NA,NA,leaf_work_to_punch_flat,0.975767470688146,2
+SG07,Tech,UTownTGnetum gnemon 4,NA,NA,NA,leaf_work_to_shear,5189.156967680423,2
+SG07,Tech,UTownTGnetum gnemon 5,NA,NA,NA,Thickness,0.2672,5
+SG07,Tech,UTownTGnetum gnemon 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.6483750945881455,1
+SG07,Tech,UTownTGnetum gnemon 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,4.197925401961445,2
+SG07,Tech,UTownTGnetum gnemon 5,NA,NA,NA,leaf_work_to_punch_concave,1.0215450264846808,1
+SG07,Tech,UTownTGnetum gnemon 5,NA,NA,NA,leaf_work_to_punch_flat,1.0954618325289065,2
+SG07,Tech,UTownTGnetum gnemon 5,NA,NA,NA,leaf_work_to_shear,6966.205837173579,2
+SG07,Tech,UTownTGnetum gnemon 6,NA,Gnetum gnemon,NA,Thickness,0.2808333333333333,6
+SG07,Tech,UTownTGnetum gnemon 6,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_concave,2.9326062063954845,2
+SG07,Tech,UTownTGnetum gnemon 6,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_flat,3.906997574387102,2
+SG07,Tech,UTownTGnetum gnemon 6,NA,Gnetum gnemon,NA,leaf_work_to_punch_concave,0.7951184064157988,2
+SG07,Tech,UTownTGnetum gnemon 6,NA,Gnetum gnemon,NA,leaf_work_to_punch_flat,1.1537092601553216,2
+SG07,Tech,UTownTGnetum gnemon 6,NA,Gnetum gnemon,NA,leaf_work_to_shear,6588.015548882424,2
+SG07,Tech,UTownTGnetum gnemon 7,NA,Gnetum gnemon,NA,Thickness,0.2935,6
+SG07,Tech,UTownTGnetum gnemon 7,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_concave,2.7441427872166,2
+SG07,Tech,UTownTGnetum gnemon 7,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_flat,3.634057403659227,2
+SG07,Tech,UTownTGnetum gnemon 7,NA,Gnetum gnemon,NA,leaf_work_to_punch_concave,0.7874888137830429,2
+SG07,Tech,UTownTGnetum gnemon 7,NA,Gnetum gnemon,NA,leaf_work_to_punch_flat,1.1054705454449947,2
+SG07,Tech,UTownTGnetum gnemon 7,NA,Gnetum gnemon,NA,leaf_work_to_shear,4595.905707840426,2
+SG07,Tech,UTownTGnetum gnemon 8,NA,Gnetum gnemon,NA,Thickness,0.22,6
+SG07,Tech,UTownTGnetum gnemon 8,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_concave,4.285700273976255,2
+SG07,Tech,UTownTGnetum gnemon 8,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_flat,4.28382409889781,2
+SG07,Tech,UTownTGnetum gnemon 8,NA,Gnetum gnemon,NA,leaf_work_to_punch_concave,0.9299078762611515,2
+SG07,Tech,UTownTGnetum gnemon 8,NA,Gnetum gnemon,NA,leaf_work_to_punch_flat,0.9524684996375798,2
+SG07,Tech,UTownTGnetum gnemon 8,NA,Gnetum gnemon,NA,leaf_work_to_shear,4775.3335747361025,2
+SG07,Tech,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,Thickness,0.2645,12
+SG07,Tech,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_concave,3.8680886033795887,4
+SG07,Tech,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,leaf_work_to_punch_adjusted_flat,3.969210524346238,4
+SG07,Tech,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,leaf_work_to_punch_concave,1.0290105418565172,4
+SG07,Tech,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,leaf_work_to_punch_flat,1.0341789755754807,4
+SG07,Tech,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,leaf_work_to_shear,5396.965464702895,4
+SG07,Tech,UTownTSyzygium grande 1,NA,Syzygium grande,NA,Thickness,0.3803333333333333,6
+SG07,Tech,UTownTSyzygium grande 1,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_concave,2.8277447923748165,2
+SG07,Tech,UTownTSyzygium grande 1,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_flat,2.7499249896983002,2
+SG07,Tech,UTownTSyzygium grande 1,NA,Syzygium grande,NA,leaf_work_to_punch_concave,1.066912389128917,2
+SG07,Tech,UTownTSyzygium grande 1,NA,Syzygium grande,NA,leaf_work_to_punch_flat,1.0162125155047979,2
+SG07,Tech,UTownTSyzygium grande 1,NA,Syzygium grande,NA,leaf_work_to_shear,10531.72527380554,2
+SG07,Tech,UTownTSyzygium grande 2,NA,Syzygium grande,NA,Thickness,0.3516666666666667,6
+SG07,Tech,UTownTSyzygium grande 2,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_concave,2.1702869048576003,2
+SG07,Tech,UTownTSyzygium grande 2,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_flat,3.1400790608714346,2
+SG07,Tech,UTownTSyzygium grande 2,NA,Syzygium grande,NA,leaf_work_to_punch_concave,0.7948722905244197,2
+SG07,Tech,UTownTSyzygium grande 2,NA,Syzygium grande,NA,leaf_work_to_punch_flat,1.0506687402978885,2
+SG07,Tech,UTownTSyzygium grande 2,NA,Syzygium grande,NA,leaf_work_to_shear,8890.722291407223,2
+SG07,Tech,UTownTSyzygium grande 3,NA,Syzygium grande,NA,Thickness,0.366,6
+SG07,Tech,UTownTSyzygium grande 3,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_concave,2.433041792178998,2
+SG07,Tech,UTownTSyzygium grande 3,NA,Syzygium grande,NA,leaf_work_to_punch_adjusted_flat,2.5042787350193443,2
+SG07,Tech,UTownTSyzygium grande 3,NA,Syzygium grande,NA,leaf_work_to_punch_concave,0.8803565434634685,2
+SG07,Tech,UTownTSyzygium grande 3,NA,Syzygium grande,NA,leaf_work_to_punch_flat,0.9100545276898943,2
+SG07,Tech,UTownTSyzygium grande 3,NA,Syzygium grande,NA,leaf_work_to_shear,9593.984324316169,2
+SG07,Tech,UTownTTerminalia catappa 1,NA,Terminalia catappa,NA,Thickness,0.2175,6
+SG07,Tech,UTownTTerminalia catappa 1,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_concave,1.9202127734905858,2
+SG07,Tech,UTownTTerminalia catappa 1,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_flat,1.9143460372838583,2
+SG07,Tech,UTownTTerminalia catappa 1,NA,Terminalia catappa,NA,leaf_work_to_punch_concave,0.4167562427354785,2
+SG07,Tech,UTownTTerminalia catappa 1,NA,Terminalia catappa,NA,leaf_work_to_punch_flat,0.42143244467168367,2
+SG07,Tech,UTownTTerminalia catappa 1,NA,Terminalia catappa,NA,leaf_work_to_shear,5047.914460424282,2
+SG07,Tech,UTownTTerminalia catappa 2,NA,Terminalia catappa,NA,Thickness,0.26166666666666666,6
+SG07,Tech,UTownTTerminalia catappa 2,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_concave,3.887825164349185,2
+SG07,Tech,UTownTTerminalia catappa 2,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_flat,2.8358344551544397,2
+SG07,Tech,UTownTTerminalia catappa 2,NA,Terminalia catappa,NA,leaf_work_to_punch_concave,1.0692094707817896,2
+SG07,Tech,UTownTTerminalia catappa 2,NA,Terminalia catappa,NA,leaf_work_to_punch_flat,0.7144744326738746,2
+SG07,Tech,UTownTTerminalia catappa 2,NA,Terminalia catappa,NA,leaf_work_to_shear,7788.895909424812,2
+SG07,Tech,UTownTTerminalia catappa 3,NA,Terminalia catappa,NA,Thickness,0.2365,6
+SG07,Tech,UTownTTerminalia catappa 3,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_concave,2.442594303519147,2
+SG07,Tech,UTownTTerminalia catappa 3,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_flat,2.7740057056280696,2
+SG07,Tech,UTownTTerminalia catappa 3,NA,Terminalia catappa,NA,leaf_work_to_punch_concave,0.5350559478584234,2
+SG07,Tech,UTownTTerminalia catappa 3,NA,Terminalia catappa,NA,leaf_work_to_punch_flat,0.6910934229928487,2
+SG07,Tech,UTownTTerminalia catappa 3,NA,Terminalia catappa,NA,leaf_work_to_shear,4238.109345542687,2
+SG07,Tech,UTownTTerminalia catappa 4,NA,Terminalia catappa,NA,Thickness,0.2665,6
+SG07,Tech,UTownTTerminalia catappa 4,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_concave,1.6794931383059897,2
+SG07,Tech,UTownTTerminalia catappa 4,NA,Terminalia catappa,NA,leaf_work_to_punch_adjusted_flat,2.47080607967783,2
+SG07,Tech,UTownTTerminalia catappa 4,NA,Terminalia catappa,NA,leaf_work_to_punch_concave,0.44473141572224983,2
+SG07,Tech,UTownTTerminalia catappa 4,NA,Terminalia catappa,NA,leaf_work_to_punch_flat,0.6152076898175892,2
+SG07,Tech,UTownTTerminalia catappa 4,NA,Terminalia catappa,NA,leaf_work_to_shear,5397.285972187776,2
+SG07,Tech,UtownTAlstonia scholaris 1,NA,NA,NA,Thickness,0.4046666666666667,6
+SG07,Tech,UtownTAlstonia scholaris 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.383216711372874,2
+SG07,Tech,UtownTAlstonia scholaris 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.516746593533354,2
+SG07,Tech,UtownTAlstonia scholaris 1,NA,NA,NA,leaf_work_to_punch_concave,0.5374350681417558,2
+SG07,Tech,UtownTAlstonia scholaris 1,NA,NA,NA,leaf_work_to_punch_flat,0.6008509294871347,2
+SG07,Tech,UtownTAlstonia scholaris 1,NA,NA,NA,leaf_work_to_shear,5356.271315420412,2
+SG07,Tech,UtownTAlstonia scholaris 2,NA,NA,NA,Thickness,0.3461666666666667,6
+SG07,Tech,UtownTAlstonia scholaris 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0548723081712532,2
+SG07,Tech,UtownTAlstonia scholaris 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1552013001833328,2
+SG07,Tech,UtownTAlstonia scholaris 2,NA,NA,NA,leaf_work_to_punch_concave,0.3547350381079152,2
+SG07,Tech,UtownTAlstonia scholaris 2,NA,NA,NA,leaf_work_to_punch_flat,0.4305387326527148,2
+SG07,Tech,UtownTAlstonia scholaris 2,NA,NA,NA,leaf_work_to_shear,4010.8200266134404,2
+SG07,Tech,UtownTAlstonia scholaris 3,NA,NA,NA,Thickness,0.36483333333333334,6
+SG07,Tech,UtownTAlstonia scholaris 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.848295492067947,2
+SG07,Tech,UtownTAlstonia scholaris 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7047417415713855,2
+SG07,Tech,UtownTAlstonia scholaris 3,NA,NA,NA,leaf_work_to_punch_concave,0.667630374681363,2
+SG07,Tech,UtownTAlstonia scholaris 3,NA,NA,NA,leaf_work_to_punch_flat,0.6158639988612671,2
+SG07,Tech,UtownTAlstonia scholaris 3,NA,NA,NA,leaf_work_to_shear,5977.517992269988,2
+SG07,Tech,UtownTAlstonia scholaris 4,NA,NA,NA,Thickness,0.2851666666666667,6
+SG07,Tech,UtownTAlstonia scholaris 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0633081265295186,2
+SG07,Tech,UtownTAlstonia scholaris 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4455450114092652,2
+SG07,Tech,UtownTAlstonia scholaris 4,NA,NA,NA,leaf_work_to_punch_concave,0.30403516448379597,2
+SG07,Tech,UtownTAlstonia scholaris 4,NA,NA,NA,leaf_work_to_punch_flat,0.4281596123693824,2
+SG07,Tech,UtownTAlstonia scholaris 4,NA,NA,NA,leaf_work_to_shear,4077.314478652338,2
+SG07,Tech,UtownTMelastoma malabathricum 1,NA,NA,NA,Thickness,0.23283333333333334,6
+SG07,Tech,UtownTMelastoma malabathricum 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3016879267121286,2
+SG07,Tech,UtownTMelastoma malabathricum 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.2697603589745912,2
+SG07,Tech,UtownTMelastoma malabathricum 1,NA,NA,NA,leaf_work_to_punch_concave,0.3076448642240245,2
+SG07,Tech,UtownTMelastoma malabathricum 1,NA,NA,NA,leaf_work_to_punch_flat,0.24398288698726633,2
+SG07,Tech,UtownTMelastoma malabathricum 1,NA,NA,NA,leaf_work_to_shear,4270.672363118505,2
+SG07,Tech,UtownTMelastoma malabathricum 2,NA,NA,NA,Thickness,0.2265,6
+SG07,Tech,UtownTMelastoma malabathricum 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3399345698743543,2
+SG07,Tech,UtownTMelastoma malabathricum 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4746528345965855,2
+SG07,Tech,UtownTMelastoma malabathricum 2,NA,NA,NA,leaf_work_to_punch_concave,0.34948456575849185,2
+SG07,Tech,UtownTMelastoma malabathricum 2,NA,NA,NA,leaf_work_to_punch_flat,0.31798173166195176,2
+SG07,Tech,UtownTMelastoma malabathricum 2,NA,NA,NA,leaf_work_to_shear,5229.824253271554,2
+SG07,Tech,UtownTMelastoma malabathricum 3,NA,NA,NA,Thickness,0.24666666666666667,6
+SG07,Tech,UtownTMelastoma malabathricum 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2942449762238264,2
+SG07,Tech,UtownTMelastoma malabathricum 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.2597260623331896,2
+SG07,Tech,UtownTMelastoma malabathricum 3,NA,NA,NA,leaf_work_to_punch_concave,0.30378904859241673,2
+SG07,Tech,UtownTMelastoma malabathricum 3,NA,NA,NA,leaf_work_to_punch_flat,0.3244627834682712,2
+SG07,Tech,UtownTMelastoma malabathricum 3,NA,NA,NA,leaf_work_to_shear,4585.79330143031,2
+SG07,Tech,UtownTMelastoma malabathricum 4,NA,NA,NA,Thickness,0.25133333333333335,6
+SG07,Tech,UtownTMelastoma malabathricum 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.1559920690055268,2
+SG07,Tech,UtownTMelastoma malabathricum 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1320814296770552,2
+SG07,Tech,UtownTMelastoma malabathricum 4,NA,NA,NA,leaf_work_to_punch_concave,0.2916473312843752,2
+SG07,Tech,UtownTMelastoma malabathricum 4,NA,NA,NA,leaf_work_to_punch_flat,0.2535814067510559,2
+SG07,Tech,UtownTMelastoma malabathricum 4,NA,NA,NA,leaf_work_to_shear,4074.6414483849276,2
+SG07,Tech,UtownTMelastoma malabathricum 5,NA,NA,NA,Thickness,0.23766666666666666,6
+SG07,Tech,UtownTMelastoma malabathricum 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.421123026460141,2
+SG07,Tech,UtownTMelastoma malabathricum 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.0885279870116142,2
+SG07,Tech,UtownTMelastoma malabathricum 5,NA,NA,NA,leaf_work_to_punch_concave,0.32872879225217766,2
+SG07,Tech,UtownTMelastoma malabathricum 5,NA,NA,NA,leaf_work_to_punch_flat,0.25407363853381437,2
+SG07,Tech,UtownTMelastoma malabathricum 5,NA,NA,NA,leaf_work_to_shear,3688.383073918051,2
+SG07,Tech,UtownTMelastoma malabathricum 6,NA,NA,NA,Thickness,0.23866666666666667,6
+SG07,Tech,UtownTMelastoma malabathricum 6,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2922116139315478,2
+SG07,Tech,UtownTMelastoma malabathricum 6,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.382748317930516,2
+SG07,Tech,UtownTMelastoma malabathricum 6,NA,NA,NA,leaf_work_to_punch_concave,0.29197548580621413,2
+SG07,Tech,UtownTMelastoma malabathricum 6,NA,NA,NA,leaf_work_to_punch_flat,0.32298608811999585,2
+SG07,Tech,UtownTMelastoma malabathricum 6,NA,NA,NA,leaf_work_to_shear,3971.229504666426,2
+SG07,YNC,KRTHeliconia psittacorum 2,NA,NA,NA,Thickness,0.21541666666666667,12
+SG07,YNC,KRTHeliconia psittacorum 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.1625370431886912,6
+SG07,YNC,KRTHeliconia psittacorum 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.9263813505844958,6
+SG07,YNC,KRTHeliconia psittacorum 2,NA,NA,NA,leaf_work_to_punch_concave,0.4689601579180263,6
+SG07,YNC,KRTHeliconia psittacorum 2,NA,NA,NA,leaf_work_to_punch_flat,0.625052325472758,6
+SG07,YNC,KRTHeliconia psittacorum 3,NA,NA,NA,Thickness,0.2520833333333333,12
+SG07,YNC,KRTHeliconia psittacorum 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.247167772654765,6
+SG07,YNC,KRTHeliconia psittacorum 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.6452416433538852,6
+SG07,YNC,KRTHeliconia psittacorum 3,NA,NA,NA,leaf_work_to_punch_concave,0.5651367790269947,6
+SG07,YNC,KRTHeliconia psittacorum 3,NA,NA,NA,leaf_work_to_punch_flat,0.6682046450945812,6
+SG07,YNC,KRTHeliconia psittacorum 4,NA,NA,NA,Thickness,0.23258333333333334,12
+SG07,YNC,KRTHeliconia psittacorum 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.145504996172281,6
+SG07,YNC,KRTHeliconia psittacorum 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.4836030276329915,6
+SG07,YNC,KRTHeliconia psittacorum 4,NA,NA,NA,leaf_work_to_punch_concave,0.4711752009404393,6
+SG07,YNC,KRTHeliconia psittacorum 4,NA,NA,NA,leaf_work_to_punch_flat,0.605636516263953,6
+SG07,YNC,KRTHeliconia psittacorum 5,NA,NA,NA,Thickness,0.22008333333333333,12
+SG07,YNC,KRTHeliconia psittacorum 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.2612350829225343,6
+SG07,YNC,KRTHeliconia psittacorum 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.4865531979306263,6
+SG07,YNC,KRTHeliconia psittacorum 5,NA,NA,NA,leaf_work_to_punch_concave,0.49425540230977943,6
+SG07,YNC,KRTHeliconia psittacorum 5,NA,NA,NA,leaf_work_to_punch_flat,0.5503424793340882,6
+SG07,YNC,UTownTAglaonema nitidum 1,NA,NA,NA,Thickness,0.29591666666666666,12
+SG07,YNC,UTownTAglaonema nitidum 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.4183771031901968,6
+SG07,YNC,UTownTAglaonema nitidum 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.9033607004489983,6
+SG07,YNC,UTownTAglaonema nitidum 1,NA,NA,NA,leaf_work_to_punch_concave,0.4240850270565486,6
+SG07,YNC,UTownTAglaonema nitidum 1,NA,NA,NA,leaf_work_to_punch_flat,0.5564680304084155,6
+SG07,YNC,UTownTAglaonema nitidum 2,NA,NA,NA,Thickness,0.31024999999999997,12
+SG07,YNC,UTownTAglaonema nitidum 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.4384868279776624,6
+SG07,YNC,UTownTAglaonema nitidum 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.769756570407816,6
+SG07,YNC,UTownTAglaonema nitidum 2,NA,NA,NA,leaf_work_to_punch_concave,0.4412857932429407,6
+SG07,YNC,UTownTAglaonema nitidum 2,NA,NA,NA,leaf_work_to_punch_flat,0.5535146397118649,6
+SG07,YNC,UTownTAglaonema nitidum 3,NA,NA,NA,Thickness,0.3269166666666667,12
+SG07,YNC,UTownTAglaonema nitidum 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2414842966304716,6
+SG07,YNC,UTownTAglaonema nitidum 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.1231336295547782,6
+SG07,YNC,UTownTAglaonema nitidum 3,NA,NA,NA,leaf_work_to_punch_concave,0.4050520647898889,6
+SG07,YNC,UTownTAglaonema nitidum 3,NA,NA,NA,leaf_work_to_punch_flat,0.6944023144213914,6
+SG07,YNC,UTownTAglaonema nitidum 4,NA,NA,NA,Thickness,0.31275,12
+SG07,YNC,UTownTAglaonema nitidum 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9919751485935656,6
+SG07,YNC,UTownTAglaonema nitidum 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.41815416533106,6
+SG07,YNC,UTownTAglaonema nitidum 4,NA,NA,NA,leaf_work_to_punch_concave,0.3102701003987362,6
+SG07,YNC,UTownTAglaonema nitidum 4,NA,NA,NA,leaf_work_to_punch_flat,0.4427898348013693,6
+SG07,YNC,UTownTAglaonema nitidum 5,NA,NA,NA,Thickness,0.29483333333333334,12
+SG07,YNC,UTownTAglaonema nitidum 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.431264542638555,6
+SG07,YNC,UTownTAglaonema nitidum 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.83304563395358,6
+SG07,YNC,UTownTAglaonema nitidum 5,NA,NA,NA,leaf_work_to_punch_concave,0.41582647159026814,6
+SG07,YNC,UTownTAglaonema nitidum 5,NA,NA,NA,leaf_work_to_punch_flat,0.545885047079109,6
+SG07,YNC,UTownTAglaonema nitidum 6,NA,NA,NA,Thickness,0.34508333333333335,12
+SG07,YNC,UTownTAglaonema nitidum 6,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.090966250335109,6
+SG07,YNC,UTownTAglaonema nitidum 6,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7757937507962853,6
+SG07,YNC,UTownTAglaonema nitidum 6,NA,NA,NA,leaf_work_to_punch_concave,0.3805772067027332,6
+SG07,YNC,UTownTAglaonema nitidum 6,NA,NA,NA,leaf_work_to_punch_flat,0.6017533544221919,6
+SG07,YNC,UTownTAlpinia zerumbet 1,NA,NA,NA,Thickness,0.352,12
+SG07,YNC,UTownTAlpinia zerumbet 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.015988527894394,6
+SG07,YNC,UTownTAlpinia zerumbet 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.8317680550022035,6
+SG07,YNC,UTownTAlpinia zerumbet 1,NA,NA,NA,leaf_work_to_punch_concave,1.048617774536395,6
+SG07,YNC,UTownTAlpinia zerumbet 1,NA,NA,NA,leaf_work_to_punch_flat,1.3734634049468115,6
+SG07,YNC,UTownTAlpinia zerumbet 2,NA,NA,NA,Thickness,0.32808333333333334,12
+SG07,YNC,UTownTAlpinia zerumbet 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.864279254511063,6
+SG07,YNC,UTownTAlpinia zerumbet 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.625900285490723,6
+SG07,YNC,UTownTAlpinia zerumbet 2,NA,NA,NA,leaf_work_to_punch_concave,0.878524347383201,6
+SG07,YNC,UTownTAlpinia zerumbet 2,NA,NA,NA,leaf_work_to_punch_flat,1.2653638362110275,6
+SG07,YNC,UTownTAlpinia zerumbet 3,NA,NA,NA,Thickness,0.35275,12
+SG07,YNC,UTownTAlpinia zerumbet 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.496353550677511,6
+SG07,YNC,UTownTAlpinia zerumbet 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.3041906970195183,6
+SG07,YNC,UTownTAlpinia zerumbet 3,NA,NA,NA,leaf_work_to_punch_concave,0.8621439675014062,6
+SG07,YNC,UTownTAlpinia zerumbet 3,NA,NA,NA,leaf_work_to_punch_flat,1.1859777881361528,6
+SG07,YNC,UTownTAsystasia gangetica 1,NA,NA,NA,Thickness,0.236,12
+SG07,YNC,UTownTAsystasia gangetica 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.6561897042832315,6
+SG07,YNC,UTownTAsystasia gangetica 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.6551536687186661,6
+SG07,YNC,UTownTAsystasia gangetica 1,NA,NA,NA,leaf_work_to_punch_concave,0.15131478464095954,6
+SG07,YNC,UTownTAsystasia gangetica 1,NA,NA,NA,leaf_work_to_punch_flat,0.15696451165862027,6
+SG07,YNC,UTownTAsystasia gangetica 2,NA,NA,NA,Thickness,0.22308333333333333,12
+SG07,YNC,UTownTAsystasia gangetica 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.591530147664205,6
+SG07,YNC,UTownTAsystasia gangetica 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.6175167082092777,6
+SG07,YNC,UTownTAsystasia gangetica 2,NA,NA,NA,leaf_work_to_punch_concave,0.13213415283947236,6
+SG07,YNC,UTownTAsystasia gangetica 2,NA,NA,NA,leaf_work_to_punch_flat,0.13664627751475802,6
+SG07,YNC,UTownTAsystasia intrusa 1,NA,NA,NA,Thickness,0.2117857142857143,14
+SG07,YNC,UTownTAsystasia intrusa 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9404142406709094,6
+SG07,YNC,UTownTAsystasia intrusa 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.9442884413948398,8
+SG07,YNC,UTownTAsystasia intrusa 1,NA,NA,NA,leaf_work_to_punch_concave,0.21114008859321715,6
+SG07,YNC,UTownTAsystasia intrusa 1,NA,NA,NA,leaf_work_to_punch_flat,0.18915236831949922,8
+SG07,YNC,UTownTAsystasia intrusa 2,NA,NA,NA,Thickness,0.207,12
+SG07,YNC,UTownTAsystasia intrusa 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8642176294981736,6
+SG07,YNC,UTownTAsystasia intrusa 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8790201257083923,6
+SG07,YNC,UTownTAsystasia intrusa 2,NA,NA,NA,leaf_work_to_punch_concave,0.18100729962535472,6
+SG07,YNC,UTownTAsystasia intrusa 2,NA,NA,NA,leaf_work_to_punch_flat,0.18030176740340095,6
+SG07,YNC,UTownTAsystasia intrusa 3,NA,NA,NA,Thickness,0.27541666666666664,12
+SG07,YNC,UTownTAsystasia intrusa 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.7367323543678351,6
+SG07,YNC,UTownTAsystasia intrusa 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.0012021556831276,6
+SG07,YNC,UTownTAsystasia intrusa 3,NA,NA,NA,leaf_work_to_punch_concave,0.2072295805413029,6
+SG07,YNC,UTownTAsystasia intrusa 3,NA,NA,NA,leaf_work_to_punch_flat,0.2708642115679078,6
+SG07,YNC,UTownTAsystasia intrusa 4,NA,NA,NA,Thickness,0.21125,12
+SG07,YNC,UTownTAsystasia intrusa 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8695151384256954,6
+SG07,YNC,UTownTAsystasia intrusa 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8184030883425855,6
+SG07,YNC,UTownTAsystasia intrusa 4,NA,NA,NA,leaf_work_to_punch_concave,0.18230624460763392,6
+SG07,YNC,UTownTAsystasia intrusa 4,NA,NA,NA,leaf_work_to_punch_flat,0.17336950312955293,6
+SG07,YNC,UTownTAsystasia intrusa 5,NA,NA,NA,Thickness,0.1725,12
+SG07,YNC,UTownTAsystasia intrusa 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9026110770340736,6
+SG07,YNC,UTownTAsystasia intrusa 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8569960861911947,6
+SG07,YNC,UTownTAsystasia intrusa 5,NA,NA,NA,leaf_work_to_punch_concave,0.15479869181448314,6
+SG07,YNC,UTownTAsystasia intrusa 5,NA,NA,NA,leaf_work_to_punch_flat,0.15012795912030863,6
+SG07,YNC,UTownTCheilocostus speciosus 1,NA,NA,NA,Thickness,0.39508333333333334,12
+SG07,YNC,UTownTCheilocostus speciosus 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8793968100811046,6
+SG07,YNC,UTownTCheilocostus speciosus 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.9794182452730423,6
+SG07,YNC,UTownTCheilocostus speciosus 1,NA,NA,NA,leaf_work_to_punch_concave,0.35071514521538794,6
+SG07,YNC,UTownTCheilocostus speciosus 1,NA,NA,NA,leaf_work_to_punch_flat,0.38388609813127605,6
+SG07,YNC,UTownTCheilocostus speciosus 2,NA,NA,NA,Thickness,0.38383333333333336,12
+SG07,YNC,UTownTCheilocostus speciosus 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.810333450403574,6
+SG07,YNC,UTownTCheilocostus speciosus 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.9473169801376091,6
+SG07,YNC,UTownTCheilocostus speciosus 2,NA,NA,NA,leaf_work_to_punch_concave,0.3130594138343673,6
+SG07,YNC,UTownTCheilocostus speciosus 2,NA,NA,NA,leaf_work_to_punch_flat,0.3596573559354995,6
+SG07,YNC,UTownTCheilocostus speciosus 3,NA,NA,NA,Thickness,0.392,12
+SG07,YNC,UTownTCheilocostus speciosus 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.7360204491598653,6
+SG07,YNC,UTownTCheilocostus speciosus 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.9512771094420456,6
+SG07,YNC,UTownTCheilocostus speciosus 3,NA,NA,NA,leaf_work_to_punch_concave,0.28708051418878305,6
+SG07,YNC,UTownTCheilocostus speciosus 3,NA,NA,NA,leaf_work_to_punch_flat,0.3740961548964138,6
+SG07,YNC,UTownTCheilocostus speciosus 4,NA,NA,NA,Thickness,0.383,12
+SG07,YNC,UTownTCheilocostus speciosus 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0432123362513148,6
+SG07,YNC,UTownTCheilocostus speciosus 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1435237473004312,6
+SG07,YNC,UTownTCheilocostus speciosus 4,NA,NA,NA,leaf_work_to_punch_concave,0.3988718212952552,6
+SG07,YNC,UTownTCheilocostus speciosus 4,NA,NA,NA,leaf_work_to_punch_flat,0.43920748127129394,6
+SG07,YNC,UTownTCheilocostus speciosus 5,NA,NA,NA,Thickness,0.37175,12
+SG07,YNC,UTownTCheilocostus speciosus 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2733110154750704,6
+SG07,YNC,UTownTCheilocostus speciosus 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.2810984400076733,6
+SG07,YNC,UTownTCheilocostus speciosus 5,NA,NA,NA,leaf_work_to_punch_concave,0.4731714742816263,6
+SG07,YNC,UTownTCheilocostus speciosus 5,NA,NA,NA,leaf_work_to_punch_flat,0.4769179050726211,6
+SG07,YNC,UTownTCostus woodsonii 1,NA,NA,NA,Thickness,0.5270833333333333,12
+SG07,YNC,UTownTCostus woodsonii 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3830343409955739,6
+SG07,YNC,UTownTCostus woodsonii 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.923524206523492,6
+SG07,YNC,UTownTCostus woodsonii 1,NA,NA,NA,leaf_work_to_punch_concave,0.7521848564752016,6
+SG07,YNC,UTownTCostus woodsonii 1,NA,NA,NA,leaf_work_to_punch_flat,0.9770527425653486,6
+SG07,YNC,UTownTCostus woodsonii 2,NA,NA,NA,Thickness,0.513,12
+SG07,YNC,UTownTCostus woodsonii 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3011416596196757,6
+SG07,YNC,UTownTCostus woodsonii 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.9985720137576712,6
+SG07,YNC,UTownTCostus woodsonii 2,NA,NA,NA,leaf_work_to_punch_concave,0.6619697091796409,6
+SG07,YNC,UTownTCostus woodsonii 2,NA,NA,NA,leaf_work_to_punch_flat,1.0208340250206964,6
+SG07,YNC,UTownTCostus woodsonii 3,NA,NA,NA,Thickness,0.507,12
+SG07,YNC,UTownTCostus woodsonii 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.641950181970526,6
+SG07,YNC,UTownTCostus woodsonii 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.119939516542535,6
+SG07,YNC,UTownTCostus woodsonii 3,NA,NA,NA,leaf_work_to_punch_concave,0.8188549168288168,6
+SG07,YNC,UTownTCostus woodsonii 3,NA,NA,NA,leaf_work_to_punch_flat,1.086109428656496,6
+SG07,YNC,UTownTCostus woodsonii 4,NA,NA,NA,Thickness,0.49733333333333335,12
+SG07,YNC,UTownTCostus woodsonii 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.344145475110696,6
+SG07,YNC,UTownTCostus woodsonii 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.8032130018639612,6
+SG07,YNC,UTownTCostus woodsonii 4,NA,NA,NA,leaf_work_to_punch_concave,0.6745763120602877,6
+SG07,YNC,UTownTCostus woodsonii 4,NA,NA,NA,leaf_work_to_punch_flat,0.8839388969935438,6
+SG07,YNC,UTownTCostus woodsonii 5,NA,NA,NA,Thickness,0.5530833333333334,12
+SG07,YNC,UTownTCostus woodsonii 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.339737227171307,6
+SG07,YNC,UTownTCostus woodsonii 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6616809032407414,6
+SG07,YNC,UTownTCostus woodsonii 5,NA,NA,NA,leaf_work_to_punch_concave,0.7502159293441678,6
+SG07,YNC,UTownTCostus woodsonii 5,NA,NA,NA,leaf_work_to_punch_flat,0.9068003286816579,6
+SG07,YNC,UTownTCymbopogon citratus 1,NA,NA,NA,Thickness,0.23908333333333334,12
+SG07,YNC,UTownTCymbopogon citratus 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.6881648189218916,6
+SG07,YNC,UTownTCymbopogon citratus 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,4.8812483301806795,6
+SG07,YNC,UTownTCymbopogon citratus 1,NA,NA,NA,leaf_work_to_punch_concave,0.7660493850228975,6
+SG07,YNC,UTownTCymbopogon citratus 1,NA,NA,NA,leaf_work_to_punch_flat,1.3275491180995105,6
+SG07,YNC,UTownTCymbopogon citratus 2,NA,NA,NA,Thickness,0.21958333333333332,12
+SG07,YNC,UTownTCymbopogon citratus 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.7018322376073396,6
+SG07,YNC,UTownTCymbopogon citratus 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.451035024900095,6
+SG07,YNC,UTownTCymbopogon citratus 2,NA,NA,NA,leaf_work_to_punch_concave,0.5872325168308179,6
+SG07,YNC,UTownTCymbopogon citratus 2,NA,NA,NA,leaf_work_to_punch_flat,0.7626037625435885,6
+SG07,YNC,UTownTCymbopogon citratus 3,NA,NA,NA,Thickness,0.23575000000000002,12
+SG07,YNC,UTownTCymbopogon citratus 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.108364767239019,6
+SG07,YNC,UTownTCymbopogon citratus 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.9195707158168935,6
+SG07,YNC,UTownTCymbopogon citratus 3,NA,NA,NA,leaf_work_to_punch_concave,0.7196702126029912,6
+SG07,YNC,UTownTCymbopogon citratus 3,NA,NA,NA,leaf_work_to_punch_flat,0.9391782415031019,6
+SG07,YNC,UTownTCymbopogon citratus 4,NA,NA,NA,Thickness,0.233,12
+SG07,YNC,UTownTCymbopogon citratus 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.779549064006602,6
+SG07,YNC,UTownTCymbopogon citratus 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.945742162366451,6
+SG07,YNC,UTownTCymbopogon citratus 4,NA,NA,NA,leaf_work_to_punch_concave,0.6956328938782875,6
+SG07,YNC,UTownTCymbopogon citratus 4,NA,NA,NA,leaf_work_to_punch_flat,0.8572763420941283,6
+SG07,YNC,UTownTCymbopogon citratus 5,NA,NA,NA,Thickness,0.23475,12
+SG07,YNC,UTownTCymbopogon citratus 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.585656593085565,6
+SG07,YNC,UTownTCymbopogon citratus 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.5976969676337696,6
+SG07,YNC,UTownTCymbopogon citratus 5,NA,NA,NA,leaf_work_to_punch_concave,0.5670236675275687,6
+SG07,YNC,UTownTCymbopogon citratus 5,NA,NA,NA,leaf_work_to_punch_flat,0.8942484182213177,6
+SG07,YNC,UTownTDianella ensifolia 1,NA,NA,NA,Thickness,0.42266666666666663,12
+SG07,YNC,UTownTDianella ensifolia 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.568150839694806,6
+SG07,YNC,UTownTDianella ensifolia 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,5.834872745008515,6
+SG07,YNC,UTownTDianella ensifolia 1,NA,NA,NA,leaf_work_to_punch_concave,1.5532100442841017,6
+SG07,YNC,UTownTDianella ensifolia 1,NA,NA,NA,leaf_work_to_punch_flat,2.383222214855443,6
+SG07,YNC,UTownTDianella ensifolia 2,NA,NA,NA,Thickness,0.40858333333333335,12
+SG07,YNC,UTownTDianella ensifolia 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.1637525611911523,6
+SG07,YNC,UTownTDianella ensifolia 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,4.8628292289369215,6
+SG07,YNC,UTownTDianella ensifolia 2,NA,NA,NA,leaf_work_to_punch_concave,1.3170481734006638,6
+SG07,YNC,UTownTDianella ensifolia 2,NA,NA,NA,leaf_work_to_punch_flat,1.9506051702310816,6
+SG07,YNC,UTownTDianella ensifolia 3,NA,NA,NA,Thickness,0.41675,12
+SG07,YNC,UTownTDianella ensifolia 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,5.129330045244008,6
+SG07,YNC,UTownTDianella ensifolia 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,6.874474708817564,6
+SG07,YNC,UTownTDianella ensifolia 3,NA,NA,NA,leaf_work_to_punch_concave,2.1636321473248725,6
+SG07,YNC,UTownTDianella ensifolia 3,NA,NA,NA,leaf_work_to_punch_flat,2.828965440353363,6
+SG07,YNC,UTownTDianella ensifolia 4,NA,NA,NA,Thickness,0.4010909090909091,11
+SG07,YNC,UTownTDianella ensifolia 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,4.011370893826317,6
+SG07,YNC,UTownTDianella ensifolia 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,6.284452797091983,5
+SG07,YNC,UTownTDianella ensifolia 4,NA,NA,NA,leaf_work_to_punch_concave,1.6730958295959348,6
+SG07,YNC,UTownTDianella ensifolia 4,NA,NA,NA,leaf_work_to_punch_flat,2.394215391337048,5
+SG07,YNC,UTownTDianella ensifolia 5,NA,NA,NA,Thickness,0.37966666666666665,12
+SG07,YNC,UTownTDianella ensifolia 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,4.6253767297882105,6
+SG07,YNC,UTownTDianella ensifolia 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,6.9847477468166765,6
+SG07,YNC,UTownTDianella ensifolia 5,NA,NA,NA,leaf_work_to_punch_concave,1.8309655008106276,6
+SG07,YNC,UTownTDianella ensifolia 5,NA,NA,NA,leaf_work_to_punch_flat,2.5360875296120917,6
+SG07,YNC,UTownTHeliconia psittacorum 1,NA,NA,NA,Thickness,0.20983333333333332,12
+SG07,YNC,UTownTHeliconia psittacorum 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.51673559403172,6
+SG07,YNC,UTownTHeliconia psittacorum 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.8528762564266383,6
+SG07,YNC,UTownTHeliconia psittacorum 1,NA,NA,NA,leaf_work_to_punch_concave,0.5349739092279636,6
+SG07,YNC,UTownTHeliconia psittacorum 1,NA,NA,NA,leaf_work_to_punch_flat,0.5896389833243036,6
+SG07,YNC,UTownTHemigraphis alternata 1,NA,NA,NA,Thickness,0.3135833333333333,12
+SG07,YNC,UTownTHemigraphis alternata 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.7818986864438084,6
+SG07,YNC,UTownTHemigraphis alternata 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8806077696665457,6
+SG07,YNC,UTownTHemigraphis alternata 1,NA,NA,NA,leaf_work_to_punch_concave,0.2533352908596767,6
+SG07,YNC,UTownTHemigraphis alternata 1,NA,NA,NA,leaf_work_to_punch_flat,0.26585985510986365,6
+SG07,YNC,UTownTHemigraphis alternata 2,NA,NA,NA,Thickness,0.34258333333333335,12
+SG07,YNC,UTownTHemigraphis alternata 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9383912764621964,6
+SG07,YNC,UTownTHemigraphis alternata 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8055926910979072,6
+SG07,YNC,UTownTHemigraphis alternata 2,NA,NA,NA,leaf_work_to_punch_concave,0.31136394880486606,6
+SG07,YNC,UTownTHemigraphis alternata 2,NA,NA,NA,leaf_work_to_punch_flat,0.27964234502709995,6
+SG07,YNC,UTownTHemigraphis alternata 3,NA,NA,NA,Thickness,0.3170909090909091,11
+SG07,YNC,UTownTHemigraphis alternata 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8268217104574322,5
+SG07,YNC,UTownTHemigraphis alternata 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8618054080847257,6
+SG07,YNC,UTownTHemigraphis alternata 3,NA,NA,NA,leaf_work_to_punch_concave,0.27732338640610465,5
+SG07,YNC,UTownTHemigraphis alternata 3,NA,NA,NA,leaf_work_to_punch_flat,0.2604726517096741,6
+SG07,YNC,UTownTHemigraphis alternata 4,NA,NA,NA,Thickness,0.3471666666666667,12
+SG07,YNC,UTownTHemigraphis alternata 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.6864867174481809,6
+SG07,YNC,UTownTHemigraphis alternata 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.9936746750717139,6
+SG07,YNC,UTownTHemigraphis alternata 4,NA,NA,NA,leaf_work_to_punch_concave,0.2520226727723209,6
+SG07,YNC,UTownTHemigraphis alternata 4,NA,NA,NA,leaf_work_to_punch_flat,0.3189935414376218,6
+SG07,YNC,UTownTHemigraphis alternata 5,NA,NA,NA,Thickness,0.3526666666666667,12
+SG07,YNC,UTownTHemigraphis alternata 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9897010269006912,6
+SG07,YNC,UTownTHemigraphis alternata 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.229672582863064,6
+SG07,YNC,UTownTHemigraphis alternata 5,NA,NA,NA,leaf_work_to_punch_concave,0.31346960698666604,6
+SG07,YNC,UTownTHemigraphis alternata 5,NA,NA,NA,leaf_work_to_punch_flat,0.47771094516706525,6
+SG07,YNC,UTownTHeterotis rotundifolia 1,NA,NA,NA,Thickness,0.22383333333333333,12
+SG07,YNC,UTownTHeterotis rotundifolia 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9651938856284555,6
+SG07,YNC,UTownTHeterotis rotundifolia 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8560062039439859,6
+SG07,YNC,UTownTHeterotis rotundifolia 1,NA,NA,NA,leaf_work_to_punch_concave,0.20247133997463798,6
+SG07,YNC,UTownTHeterotis rotundifolia 1,NA,NA,NA,leaf_work_to_punch_flat,0.20279949449647694,6
+SG07,YNC,UTownTHeterotis rotundifolia 2,NA,NA,NA,Thickness,0.23883333333333334,12
+SG07,YNC,UTownTHeterotis rotundifolia 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8277021432437939,6
+SG07,YNC,UTownTHeterotis rotundifolia 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8598722698680925,6
+SG07,YNC,UTownTHeterotis rotundifolia 2,NA,NA,NA,leaf_work_to_punch_concave,0.19079450823920166,6
+SG07,YNC,UTownTHeterotis rotundifolia 2,NA,NA,NA,leaf_work_to_punch_flat,0.20996420155662757,6
+SG07,YNC,UTownTHeterotis rotundifolia 3,NA,NA,NA,Thickness,0.24033333333333334,12
+SG07,YNC,UTownTHeterotis rotundifolia 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.7084342331660223,6
+SG07,YNC,UTownTHeterotis rotundifolia 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.7815453805441192,6
+SG07,YNC,UTownTHeterotis rotundifolia 3,NA,NA,NA,leaf_work_to_punch_concave,0.16714550569867398,6
+SG07,YNC,UTownTHeterotis rotundifolia 3,NA,NA,NA,leaf_work_to_punch_flat,0.1921344725367108,6
+SG07,YNC,UTownTHeterotis rotundifolia 4,NA,NA,NA,Thickness,0.24841666666666667,12
+SG07,YNC,UTownTHeterotis rotundifolia 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.7115581465761056,6
+SG07,YNC,UTownTHeterotis rotundifolia 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8521424344064313,6
+SG07,YNC,UTownTHeterotis rotundifolia 4,NA,NA,NA,leaf_work_to_punch_concave,0.1755626691838433,6
+SG07,YNC,UTownTHeterotis rotundifolia 4,NA,NA,NA,leaf_work_to_punch_flat,0.21376532476792884,6
+SG07,YNC,UTownTHeterotis rotundifolia 5,NA,NA,NA,Thickness,0.23841666666666667,12
+SG07,YNC,UTownTHeterotis rotundifolia 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8800284126875959,6
+SG07,YNC,UTownTHeterotis rotundifolia 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,0.8905253780261183,6
+SG07,YNC,UTownTHeterotis rotundifolia 5,NA,NA,NA,leaf_work_to_punch_concave,0.22027372278440155,6
+SG07,YNC,UTownTHeterotis rotundifolia 5,NA,NA,NA,leaf_work_to_punch_flat,0.1998461037999263,6
+SG07,YNC,UTownTHymenocallis speciosa 1,NA,NA,NA,Thickness,0.63725,12
+SG07,YNC,UTownTHymenocallis speciosa 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.135618735662998,6
+SG07,YNC,UTownTHymenocallis speciosa 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4743784649274667,6
+SG07,YNC,UTownTHymenocallis speciosa 1,NA,NA,NA,leaf_work_to_punch_concave,0.7200257133349836,6
+SG07,YNC,UTownTHymenocallis speciosa 1,NA,NA,NA,leaf_work_to_punch_flat,0.9398345505467799,6
+SG07,YNC,UTownTHymenocallis speciosa 2,NA,NA,NA,Thickness,0.7073333333333334,12
+SG07,YNC,UTownTHymenocallis speciosa 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0292797044387734,6
+SG07,YNC,UTownTHymenocallis speciosa 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.3844385446928515,6
+SG07,YNC,UTownTHymenocallis speciosa 2,NA,NA,NA,leaf_work_to_punch_concave,0.7045751045983992,6
+SG07,YNC,UTownTHymenocallis speciosa 2,NA,NA,NA,leaf_work_to_punch_flat,1.0076531517268315,6
+SG07,YNC,UTownTHymenocallis speciosa 3,NA,NA,NA,Thickness,0.7340833333333333,12
+SG07,YNC,UTownTHymenocallis speciosa 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2702237512532286,6
+SG07,YNC,UTownTHymenocallis speciosa 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.5398275564704214,6
+SG07,YNC,UTownTHymenocallis speciosa 3,NA,NA,NA,leaf_work_to_punch_concave,0.9333261525303072,6
+SG07,YNC,UTownTHymenocallis speciosa 3,NA,NA,NA,leaf_work_to_punch_flat,1.1233002744649114,6
+SG07,YNC,UTownTHymenocallis speciosa 4,NA,NA,NA,Thickness,0.6905,12
+SG07,YNC,UTownTHymenocallis speciosa 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.1363687723054778,6
+SG07,YNC,UTownTHymenocallis speciosa 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.572868292042819,6
+SG07,YNC,UTownTHymenocallis speciosa 4,NA,NA,NA,leaf_work_to_punch_concave,0.7765776759318975,6
+SG07,YNC,UTownTHymenocallis speciosa 4,NA,NA,NA,leaf_work_to_punch_flat,1.0885158951499818,6
+SG07,YNC,UTownTHymenocallis speciosa 5,NA,NA,NA,Thickness,0.79725,12
+SG07,YNC,UTownTHymenocallis speciosa 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.267919116854511,6
+SG07,YNC,UTownTHymenocallis speciosa 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6977550522158016,6
+SG07,YNC,UTownTHymenocallis speciosa 5,NA,NA,NA,leaf_work_to_punch_concave,0.8945492265330034,6
+SG07,YNC,UTownTHymenocallis speciosa 5,NA,NA,NA,leaf_work_to_punch_flat,1.5095654928795201,6
+SG07,YNC,UTownTLonicera japonica 1,NA,NA,NA,Thickness,0.48841666666666667,12
+SG07,YNC,UTownTLonicera japonica 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0170448309458917,6
+SG07,YNC,UTownTLonicera japonica 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.2391679007133811,6
+SG07,YNC,UTownTLonicera japonica 1,NA,NA,NA,leaf_work_to_punch_concave,0.301820121461383,6
+SG07,YNC,UTownTLonicera japonica 1,NA,NA,NA,leaf_work_to_punch_flat,0.3434683995247776,6
+SG07,YNC,UTownTLonicera japonica 2,NA,NA,NA,Thickness,0.29783333333333334,12
+SG07,YNC,UTownTLonicera japonica 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0792592677912667,6
+SG07,YNC,UTownTLonicera japonica 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.371639510496629,6
+SG07,YNC,UTownTLonicera japonica 2,NA,NA,NA,leaf_work_to_punch_concave,0.33080710422382437,6
+SG07,YNC,UTownTLonicera japonica 2,NA,NA,NA,leaf_work_to_punch_flat,0.3991179371866344,6
+SG07,YNC,UTownTLonicera japonica 3,NA,NA,NA,Thickness,0.2818333333333333,12
+SG07,YNC,UTownTLonicera japonica 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.380780936920114,6
+SG07,YNC,UTownTLonicera japonica 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.5365167492125202,6
+SG07,YNC,UTownTLonicera japonica 3,NA,NA,NA,leaf_work_to_punch_concave,0.3773503539046501,6
+SG07,YNC,UTownTLonicera japonica 3,NA,NA,NA,leaf_work_to_punch_flat,0.4446220308816368,6
+SG07,YNC,UTownTLonicera japonica 4,NA,NA,NA,Thickness,0.23554545454545456,11
+SG07,YNC,UTownTLonicera japonica 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3164734722580909,5
+SG07,YNC,UTownTLonicera japonica 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.403415630767167,6
+SG07,YNC,UTownTLonicera japonica 4,NA,NA,NA,leaf_work_to_punch_concave,0.2936326661415009,5
+SG07,YNC,UTownTLonicera japonica 4,NA,NA,NA,leaf_work_to_punch_flat,0.34491774866289965,6
+SG07,YNC,UTownTLonicera japonica 5,NA,NA,NA,Thickness,0.28983333333333333,12
+SG07,YNC,UTownTLonicera japonica 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3375807556563277,6
+SG07,YNC,UTownTLonicera japonica 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.284586170943041,6
+SG07,YNC,UTownTLonicera japonica 5,NA,NA,NA,leaf_work_to_punch_concave,0.3783621636803203,6
+SG07,YNC,UTownTLonicera japonica 5,NA,NA,NA,leaf_work_to_punch_flat,0.38134290058702414,6
+SG07,YNC,UTownTLonicera japonica 6,NA,NA,NA,Thickness,0.245,12
+SG07,YNC,UTownTLonicera japonica 6,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.6076294085529532,6
+SG07,YNC,UTownTLonicera japonica 6,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6912505601150332,6
+SG07,YNC,UTownTLonicera japonica 6,NA,NA,NA,leaf_work_to_punch_concave,0.3844603685444942,6
+SG07,YNC,UTownTLonicera japonica 6,NA,NA,NA,leaf_work_to_punch_flat,0.42310056349103176,6
+SG07,YNC,UTownTLonicera japonica 7,NA,NA,NA,Thickness,0.2585,12
+SG07,YNC,UTownTLonicera japonica 7,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.5033278138091992,6
+SG07,YNC,UTownTLonicera japonica 7,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.8291856514428035,6
+SG07,YNC,UTownTLonicera japonica 7,NA,NA,NA,leaf_work_to_punch_concave,0.3870582585090527,6
+SG07,YNC,UTownTLonicera japonica 7,NA,NA,NA,leaf_work_to_punch_flat,0.47404655300653015,6
+SG07,YNC,UTownTMelothria pendula 1,NA,NA,NA,Thickness,0.26366666666666666,12
+SG07,YNC,UTownTMelothria pendula 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.964881114485248,6
+SG07,YNC,UTownTMelothria pendula 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.3662875042993212,6
+SG07,YNC,UTownTMelothria pendula 1,NA,NA,NA,leaf_work_to_punch_concave,0.24882316618439101,6
+SG07,YNC,UTownTMelothria pendula 1,NA,NA,NA,leaf_work_to_punch_flat,0.36468905860369694,6
+SG07,YNC,UTownTMelothria pendula 2,NA,NA,NA,Thickness,0.28825,12
+SG07,YNC,UTownTMelothria pendula 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.075188736965614,6
+SG07,YNC,UTownTMelothria pendula 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1004099089431567,6
+SG07,YNC,UTownTMelothria pendula 2,NA,NA,NA,leaf_work_to_punch_concave,0.3083011732677024,6
+SG07,YNC,UTownTMelothria pendula 2,NA,NA,NA,leaf_work_to_punch_flat,0.3193216959594608,6
+SG07,YNC,UTownTMelothria pendula 3,NA,NA,NA,Thickness,0.265,11
+SG07,YNC,UTownTMelothria pendula 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8848513834000238,6
+SG07,YNC,UTownTMelothria pendula 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.0755296510244365,5
+SG07,YNC,UTownTMelothria pendula 3,NA,NA,NA,leaf_work_to_punch_concave,0.21893375848689245,6
+SG07,YNC,UTownTMelothria pendula 3,NA,NA,NA,leaf_work_to_punch_flat,0.2945843142548339,5
+SG07,YNC,UTownTMelothria pendula 4,NA,NA,NA,Thickness,0.09263636363636364,11
+SG07,YNC,UTownTMelothria pendula 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.1838862697662886,5
+SG07,YNC,UTownTMelothria pendula 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.111080677784095,6
+SG07,YNC,UTownTMelothria pendula 4,NA,NA,NA,leaf_work_to_punch_concave,0.19850395180560496,5
+SG07,YNC,UTownTMelothria pendula 4,NA,NA,NA,leaf_work_to_punch_flat,0.1984049585248502,6
+SG07,YNC,UTownTMelothria pendula 5,NA,NA,NA,Thickness,0.2530833333333333,12
+SG07,YNC,UTownTMelothria pendula 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.8938567367820651,6
+SG07,YNC,UTownTMelothria pendula 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1998955998086134,6
+SG07,YNC,UTownTMelothria pendula 5,NA,NA,NA,leaf_work_to_punch_concave,0.23471252174531576,6
+SG07,YNC,UTownTMelothria pendula 5,NA,NA,NA,leaf_work_to_punch_flat,0.28885801784874404,6
+SG07,YNC,UTownTMonstera delicosa 1,NA,NA,NA,Thickness,0.3398333333333333,6
+SG07,YNC,UTownTMonstera delicosa 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2276726053483404,3
+SG07,YNC,UTownTMonstera delicosa 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4582048238519845,3
+SG07,YNC,UTownTMonstera delicosa 1,NA,NA,NA,leaf_work_to_punch_concave,0.4184517077649798,3
+SG07,YNC,UTownTMonstera delicosa 1,NA,NA,NA,leaf_work_to_punch_flat,0.4932162463239561,3
+SG07,YNC,UTownTMonstera delicosa 2,NA,NA,NA,Thickness,0.354,6
+SG07,YNC,UTownTMonstera delicosa 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3016491428590482,3
+SG07,YNC,UTownTMonstera delicosa 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4956659278130096,3
+SG07,YNC,UTownTMonstera delicosa 2,NA,NA,NA,leaf_work_to_punch_concave,0.45679109439983157,3
+SG07,YNC,UTownTMonstera delicosa 2,NA,NA,NA,leaf_work_to_punch_flat,0.533579252510148,3
+SG07,YNC,UTownTMonstera delicosa 3,NA,NA,NA,Thickness,0.36233333333333334,6
+SG07,YNC,UTownTMonstera delicosa 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2411329460409504,3
+SG07,YNC,UTownTMonstera delicosa 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7834764782299197,3
+SG07,YNC,UTownTMonstera delicosa 3,NA,NA,NA,leaf_work_to_punch_concave,0.45854125184963934,3
+SG07,YNC,UTownTMonstera delicosa 3,NA,NA,NA,leaf_work_to_punch_flat,0.6332835347288852,3
+SG07,YNC,UTownTMonstera delicosa 4,NA,NA,NA,Thickness,0.3496666666666667,9
+SG07,YNC,UTownTMonstera delicosa 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.299156213671729,3
+SG07,YNC,UTownTMonstera delicosa 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.917846854362259,3
+SG07,YNC,UTownTMonstera delicosa 4,NA,NA,NA,leaf_work_to_punch_concave,0.4495716949193745,3
+SG07,YNC,UTownTMonstera delicosa 4,NA,NA,NA,leaf_work_to_punch_flat,0.6791704753660331,3
+SG07,YNC,UTownTMonstera delicosa 4,NA,NA,NA,leaf_work_to_shear,8032.68309033015,3
+SG07,YNC,UTownTMonstera delicosa 5,NA,NA,NA,Thickness,0.33225,8
+SG07,YNC,UTownTMonstera delicosa 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3648599337322316,3
+SG07,YNC,UTownTMonstera delicosa 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.1195689320824767,3
+SG07,YNC,UTownTMonstera delicosa 5,NA,NA,NA,leaf_work_to_punch_concave,0.45766617312473545,3
+SG07,YNC,UTownTMonstera delicosa 5,NA,NA,NA,leaf_work_to_punch_flat,0.6572935072434358,3
+SG07,YNC,UTownTMonstera delicosa 5,NA,NA,NA,leaf_work_to_shear,7684.769370100872,2
+SG07,YNC,UTownTPandanus amaryllifolius 1,NA,NA,NA,Thickness,0.466,12
+SG07,YNC,UTownTPandanus amaryllifolius 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.6977481698189794,6
+SG07,YNC,UTownTPandanus amaryllifolius 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.251516553925601,6
+SG07,YNC,UTownTPandanus amaryllifolius 1,NA,NA,NA,leaf_work_to_punch_concave,0.8137138293200065,6
+SG07,YNC,UTownTPandanus amaryllifolius 1,NA,NA,NA,leaf_work_to_punch_flat,1.0184549047373639,6
+SG07,YNC,UTownTPandanus amaryllifolius 2,NA,NA,NA,Thickness,0.44675,12
+SG07,YNC,UTownTPandanus amaryllifolius 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.7898751663556531,6
+SG07,YNC,UTownTPandanus amaryllifolius 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.383979524460333,6
+SG07,YNC,UTownTPandanus amaryllifolius 2,NA,NA,NA,leaf_work_to_punch_concave,0.8291097456362844,6
+SG07,YNC,UTownTPandanus amaryllifolius 2,NA,NA,NA,leaf_work_to_punch_flat,1.0278346548199275,6
+SG07,YNC,UTownTPandanus amaryllifolius 3,NA,NA,NA,Thickness,0.43083333333333335,12
+SG07,YNC,UTownTPandanus amaryllifolius 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.906547396011585,6
+SG07,YNC,UTownTPandanus amaryllifolius 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.502908038873419,6
+SG07,YNC,UTownTPandanus amaryllifolius 3,NA,NA,NA,leaf_work_to_punch_concave,0.8104869765219234,6
+SG07,YNC,UTownTPandanus amaryllifolius 3,NA,NA,NA,leaf_work_to_punch_flat,1.0859726976057298,6
+SG07,YNC,UTownTPandanus amaryllifolius 4,NA,NA,NA,Thickness,0.45591666666666664,12
+SG07,YNC,UTownTPandanus amaryllifolius 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.7614560870599958,6
+SG07,YNC,UTownTPandanus amaryllifolius 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.269131633286666,6
+SG07,YNC,UTownTPandanus amaryllifolius 4,NA,NA,NA,leaf_work_to_punch_concave,0.8049903882811208,6
+SG07,YNC,UTownTPandanus amaryllifolius 4,NA,NA,NA,leaf_work_to_punch_flat,1.034561822517626,6
+SG07,YNC,UTownTPandanus amaryllifolius 5,NA,NA,NA,Thickness,0.4870833333333333,12
+SG07,YNC,UTownTPandanus amaryllifolius 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.7006410204112214,6
+SG07,YNC,UTownTPandanus amaryllifolius 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.3368575582925177,6
+SG07,YNC,UTownTPandanus amaryllifolius 5,NA,NA,NA,leaf_work_to_punch_concave,0.8390637661320661,6
+SG07,YNC,UTownTPandanus amaryllifolius 5,NA,NA,NA,leaf_work_to_punch_flat,1.1184053028474803,6
+SG07,YNC,UTownTPandanus pygmaeus 1,NA,NA,NA,Thickness,0.46025,12
+SG07,YNC,UTownTPandanus pygmaeus 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.748208456809141,6
+SG07,YNC,UTownTPandanus pygmaeus 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.8665828326887155,6
+SG07,YNC,UTownTPandanus pygmaeus 1,NA,NA,NA,leaf_work_to_punch_concave,1.1957950775811683,6
+SG07,YNC,UTownTPandanus pygmaeus 1,NA,NA,NA,leaf_work_to_punch_flat,1.3673378538724843,6
+SG07,YNC,UTownTPandanus pygmaeus 2,NA,NA,NA,Thickness,0.49491666666666667,12
+SG07,YNC,UTownTPandanus pygmaeus 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.6018528327712267,6
+SG07,YNC,UTownTPandanus pygmaeus 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.7856448685322732,6
+SG07,YNC,UTownTPandanus pygmaeus 2,NA,NA,NA,leaf_work_to_punch_concave,1.2603868259631368,6
+SG07,YNC,UTownTPandanus pygmaeus 2,NA,NA,NA,leaf_work_to_punch_flat,1.3938910239312867,6
+SG07,YNC,UTownTPandanus pygmaeus 3,NA,NA,NA,Thickness,0.4295,12
+SG07,YNC,UTownTPandanus pygmaeus 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,2.9142153024651316,6
+SG07,YNC,UTownTPandanus pygmaeus 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.7994498000675323,6
+SG07,YNC,UTownTPandanus pygmaeus 3,NA,NA,NA,leaf_work_to_punch_concave,1.1706639104503345,6
+SG07,YNC,UTownTPandanus pygmaeus 3,NA,NA,NA,leaf_work_to_punch_flat,1.2777790156206017,6
+SG07,YNC,UTownTPandanus pygmaeus 4,NA,NA,NA,Thickness,0.40075,12
+SG07,YNC,UTownTPandanus pygmaeus 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.5798552356369633,6
+SG07,YNC,UTownTPandanus pygmaeus 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.1159696106585164,6
+SG07,YNC,UTownTPandanus pygmaeus 4,NA,NA,NA,leaf_work_to_punch_concave,0.5996203500302387,6
+SG07,YNC,UTownTPandanus pygmaeus 4,NA,NA,NA,leaf_work_to_punch_flat,0.8872204422119333,6
+SG07,YNC,UTownTPiper sarmentosum 1,NA,Piper sarmentosum,NA,Thickness,0.16211111111111112,18
+SG07,YNC,UTownTPiper sarmentosum 1,NA,Piper sarmentosum,NA,leaf_work_to_punch_adjusted_concave,1.4556241014104203,9
+SG07,YNC,UTownTPiper sarmentosum 1,NA,Piper sarmentosum,NA,leaf_work_to_punch_adjusted_flat,1.5513586744983674,9
+SG07,YNC,UTownTPiper sarmentosum 1,NA,Piper sarmentosum,NA,leaf_work_to_punch_concave,0.22947116479927682,9
+SG07,YNC,UTownTPiper sarmentosum 1,NA,Piper sarmentosum,NA,leaf_work_to_punch_flat,0.24956151385852868,9
+SG07,YNC,UTownTPiper sarmentosum 2,NA,NA,NA,Thickness,0.16083333333333333,12
+SG07,YNC,UTownTPiper sarmentosum 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.1199338965404904,6
+SG07,YNC,UTownTPiper sarmentosum 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.3411188395523597,6
+SG07,YNC,UTownTPiper sarmentosum 2,NA,NA,NA,leaf_work_to_punch_concave,0.19137698251546584,6
+SG07,YNC,UTownTPiper sarmentosum 2,NA,NA,NA,leaf_work_to_punch_flat,0.19699389408094267,6
+SG07,YNC,UTownTPiper sarmentosum 3,NA,NA,NA,Thickness,0.19091666666666665,12
+SG07,YNC,UTownTPiper sarmentosum 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2350800728865092,6
+SG07,YNC,UTownTPiper sarmentosum 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7826939990856867,6
+SG07,YNC,UTownTPiper sarmentosum 3,NA,NA,NA,leaf_work_to_punch_concave,0.2392519926307547,6
+SG07,YNC,UTownTPiper sarmentosum 3,NA,NA,NA,leaf_work_to_punch_flat,0.3310805663253569,6
+SG07,YNC,UTownTPiper sarmentosum 4,NA,NA,NA,Thickness,0.14558333333333334,12
+SG07,YNC,UTownTPiper sarmentosum 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.6585479018607816,6
+SG07,YNC,UTownTPiper sarmentosum 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6854560258325106,6
+SG07,YNC,UTownTPiper sarmentosum 4,NA,NA,NA,leaf_work_to_punch_concave,0.2457056982269209,6
+SG07,YNC,UTownTPiper sarmentosum 4,NA,NA,NA,leaf_work_to_punch_flat,0.23971687820335988,6
+SG07,YNC,UTownTPiper sarmentosum 5,NA,NA,NA,Thickness,0.16541666666666666,12
+SG07,YNC,UTownTPiper sarmentosum 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2214200589168043,6
+SG07,YNC,UTownTPiper sarmentosum 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7200752491601699,6
+SG07,YNC,UTownTPiper sarmentosum 5,NA,NA,NA,leaf_work_to_punch_concave,0.21980883721179634,6
+SG07,YNC,UTownTPiper sarmentosum 5,NA,NA,NA,leaf_work_to_punch_flat,0.26457458323266103,6
+SG07,YNC,UTownTSchefflera arboricola 1,NA,NA,NA,Thickness,0.4075,12
+SG07,YNC,UTownTSchefflera arboricola 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.387293125117663,6
+SG07,YNC,UTownTSchefflera arboricola 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.3384766028379875,6
+SG07,YNC,UTownTSchefflera arboricola 1,NA,NA,NA,leaf_work_to_punch_concave,0.5454475077166571,6
+SG07,YNC,UTownTSchefflera arboricola 1,NA,NA,NA,leaf_work_to_punch_flat,0.9910540021638109,6
+SG07,YNC,UTownTSphagneticola trilobata 1,NA,Sphagneticola trilobata,NA,Thickness,0.3398260869565217,23
+SG07,YNC,UTownTSphagneticola trilobata 1,NA,Sphagneticola trilobata,NA,leaf_work_to_punch_adjusted_concave,1.0676881612477525,11
+SG07,YNC,UTownTSphagneticola trilobata 1,NA,Sphagneticola trilobata,NA,leaf_work_to_punch_adjusted_flat,1.2364112386386132,12
+SG07,YNC,UTownTSphagneticola trilobata 1,NA,Sphagneticola trilobata,NA,leaf_work_to_punch_concave,0.35568966944417396,11
+SG07,YNC,UTownTSphagneticola trilobata 1,NA,Sphagneticola trilobata,NA,leaf_work_to_punch_flat,0.42333300627733433,12
+SG07,YNC,UTownTSphagneticola trilobata 2,NA,NA,NA,Thickness,0.15940000000000001,10
+SG07,YNC,UTownTSphagneticola trilobata 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.822730992229018,6
+SG07,YNC,UTownTSphagneticola trilobata 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.0739052833065657,4
+SG07,YNC,UTownTSphagneticola trilobata 2,NA,NA,NA,leaf_work_to_punch_concave,0.28768213081215444,6
+SG07,YNC,UTownTSphagneticola trilobata 2,NA,NA,NA,leaf_work_to_punch_flat,0.33525086337372695,4
+SG07,YNC,UTownTSphagneticola trilobata 3,NA,NA,NA,Thickness,0.3265,12
+SG07,YNC,UTownTSphagneticola trilobata 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,0.9459798772875334,6
+SG07,YNC,UTownTSphagneticola trilobata 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.188193322095512,6
+SG07,YNC,UTownTSphagneticola trilobata 3,NA,NA,NA,leaf_work_to_punch_concave,0.315794034849692,6
+SG07,YNC,UTownTSphagneticola trilobata 3,NA,NA,NA,leaf_work_to_punch_flat,0.37688546833204495,6
+SG07,YNC,UTownTSphagneticola trilobata 4,NA,NA,NA,Thickness,0.3000833333333333,12
+SG07,YNC,UTownTSphagneticola trilobata 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0795030146013402,6
+SG07,YNC,UTownTSphagneticola trilobata 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1911357401676907,6
+SG07,YNC,UTownTSphagneticola trilobata 4,NA,NA,NA,leaf_work_to_punch_concave,0.3154385341176998,6
+SG07,YNC,UTownTSphagneticola trilobata 4,NA,NA,NA,leaf_work_to_punch_flat,0.36550944490829435,6
+SG07,YNC,UTownTSphagneticola trilobata 5,NA,NA,NA,Thickness,0.31316666666666665,12
+SG07,YNC,UTownTSphagneticola trilobata 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.071791539195434,6
+SG07,YNC,UTownTSphagneticola trilobata 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.239566275131974,6
+SG07,YNC,UTownTSphagneticola trilobata 5,NA,NA,NA,leaf_work_to_punch_concave,0.32960387097708155,6
+SG07,YNC,UTownTSphagneticola trilobata 5,NA,NA,NA,leaf_work_to_punch_flat,0.39414092693874353,6
+SG07,YNC,UTownTThalia geniculata 1,NA,NA,NA,Thickness,0.19875,12
+SG07,YNC,UTownTThalia geniculata 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.5706610045529064,6
+SG07,YNC,UTownTThalia geniculata 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.0448868161868012,6
+SG07,YNC,UTownTThalia geniculata 1,NA,NA,NA,leaf_work_to_punch_concave,0.3303969110715257,6
+SG07,YNC,UTownTThalia geniculata 1,NA,NA,NA,leaf_work_to_punch_flat,0.38210859447131507,6
+SG07,YNC,UTownTThalia geniculata 2,NA,NA,NA,Thickness,0.19291666666666668,12
+SG07,YNC,UTownTThalia geniculata 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.6630812988651447,6
+SG07,YNC,UTownTThalia geniculata 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.8168570112561722,6
+SG07,YNC,UTownTThalia geniculata 2,NA,NA,NA,leaf_work_to_punch_concave,0.3210171609889621,6
+SG07,YNC,UTownTThalia geniculata 2,NA,NA,NA,leaf_work_to_punch_flat,0.3498127202803308,6
+SG07,YNC,UTownTThalia geniculata 3,NA,NA,NA,Thickness,0.19566666666666666,12
+SG07,YNC,UTownTThalia geniculata 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.5763274705793888,6
+SG07,YNC,UTownTThalia geniculata 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7391385701871798,6
+SG07,YNC,UTownTThalia geniculata 3,NA,NA,NA,leaf_work_to_punch_concave,0.31431733950141666,6
+SG07,YNC,UTownTThalia geniculata 3,NA,NA,NA,leaf_work_to_punch_flat,0.33220176094164,6
+SG07,YNC,UTownTThalia geniculata 4,NA,NA,NA,Thickness,0.19733333333333333,12
+SG07,YNC,UTownTThalia geniculata 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.456663764451984,6
+SG07,YNC,UTownTThalia geniculata 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.7935567535634602,6
+SG07,YNC,UTownTThalia geniculata 4,NA,NA,NA,leaf_work_to_punch_concave,0.29328810389357,6
+SG07,YNC,UTownTThalia geniculata 4,NA,NA,NA,leaf_work_to_punch_flat,0.3405697012485334,6
+SG07,YNC,UTownTThalia geniculata 5,NA,NA,NA,Thickness,0.19066666666666668,12
+SG07,YNC,UTownTThalia geniculata 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.5152710820366018,6
+SG07,YNC,UTownTThalia geniculata 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.60230972652946,6
+SG07,YNC,UTownTThalia geniculata 5,NA,NA,NA,leaf_work_to_punch_concave,0.2941905288286272,6
+SG07,YNC,UTownTThalia geniculata 5,NA,NA,NA,leaf_work_to_punch_flat,0.3006715806349466,6
+SG07,YNC,UTownTThaumatococcus daniellii 1,NA,NA,NA,Thickness,0.15183333333333332,12
+SG07,YNC,UTownTThaumatococcus daniellii 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,4.3116836060431485,6
+SG07,YNC,UTownTThaumatococcus daniellii 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.9816964843587255,6
+SG07,YNC,UTownTThaumatococcus daniellii 1,NA,NA,NA,leaf_work_to_punch_concave,0.62860733279268,6
+SG07,YNC,UTownTThaumatococcus daniellii 1,NA,NA,NA,leaf_work_to_punch_flat,0.6325178408445944,6
+SG07,YNC,UTownTThaumatococcus daniellii 2,NA,NA,NA,Thickness,0.14625,12
+SG07,YNC,UTownTThaumatococcus daniellii 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.729289947923889,6
+SG07,YNC,UTownTThaumatococcus daniellii 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,4.279934699695033,6
+SG07,YNC,UTownTThaumatococcus daniellii 2,NA,NA,NA,leaf_work_to_punch_concave,0.5530497541392596,6
+SG07,YNC,UTownTThaumatococcus daniellii 2,NA,NA,NA,leaf_work_to_punch_flat,0.6134848785779348,6
+SG07,YNC,UTownTThaumatococcus daniellii 3,NA,NA,NA,Thickness,0.15266666666666667,12
+SG07,YNC,UTownTThaumatococcus daniellii 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,4.03849412009295,6
+SG07,YNC,UTownTThaumatococcus daniellii 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,4.006664321456956,6
+SG07,YNC,UTownTThaumatococcus daniellii 3,NA,NA,NA,leaf_work_to_punch_concave,0.6106135265118438,6
+SG07,YNC,UTownTThaumatococcus daniellii 3,NA,NA,NA,leaf_work_to_punch_flat,0.6169305010572438,6
+SG07,YNC,UTownTThaumatococcus daniellii 4,NA,NA,NA,Thickness,0.14333333333333334,12
+SG07,YNC,UTownTThaumatococcus daniellii 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,4.102064290303101,6
+SG07,YNC,UTownTThaumatococcus daniellii 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.797651681637896,6
+SG07,YNC,UTownTThaumatococcus daniellii 4,NA,NA,NA,leaf_work_to_punch_concave,0.58025923324174,6
+SG07,YNC,UTownTThaumatococcus daniellii 4,NA,NA,NA,leaf_work_to_punch_flat,0.5516824436315974,6
+SG07,YNC,UTownTThaumatococcus daniellii 5,NA,NA,NA,Thickness,0.139,12
+SG07,YNC,UTownTThaumatococcus daniellii 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,3.761774732148471,6
+SG07,YNC,UTownTThaumatococcus daniellii 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,3.5520528619056044,6
+SG07,YNC,UTownTThaumatococcus daniellii 5,NA,NA,NA,leaf_work_to_punch_concave,0.5297234368785403,6
+SG07,YNC,UTownTThaumatococcus daniellii 5,NA,NA,NA,leaf_work_to_punch_flat,0.49119262677261577,6
+SG07,YNC,UTownTTristellateia australasiae 1,NA,NA,NA,Thickness,0.34055555555555556,18
+SG07,YNC,UTownTTristellateia australasiae 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.454171313047859,6
+SG07,YNC,UTownTTristellateia australasiae 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.5298993438807817,6
+SG07,YNC,UTownTTristellateia australasiae 1,NA,NA,NA,leaf_work_to_punch_concave,0.4856960385318132,6
+SG07,YNC,UTownTTristellateia australasiae 1,NA,NA,NA,leaf_work_to_punch_flat,0.5405798823093793,6
+SG07,YNC,UTownTTristellateia australasiae 1,NA,NA,NA,leaf_work_to_shear,8043.980100108985,6
+SG07,YNC,UTownTTristellateia australasiae 2,NA,NA,NA,Thickness,0.29705882352941176,17
+SG07,YNC,UTownTTristellateia australasiae 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0758217439100077,6
+SG07,YNC,UTownTTristellateia australasiae 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4049208233975674,5
+SG07,YNC,UTownTTristellateia australasiae 2,NA,NA,NA,leaf_work_to_punch_concave,0.2972533043657908,6
+SG07,YNC,UTownTTristellateia australasiae 2,NA,NA,NA,leaf_work_to_punch_flat,0.4645683565674149,5
+SG07,YNC,UTownTTristellateia australasiae 2,NA,NA,NA,leaf_work_to_shear,7012.218926913887,6
+SG07,YNC,UTownTTristellateia australasiae 3,NA,NA,NA,Thickness,0.40723529411764703,17
+SG07,YNC,UTownTTristellateia australasiae 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3165847777650275,6
+SG07,YNC,UTownTTristellateia australasiae 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6403583272061666,5
+SG07,YNC,UTownTTristellateia australasiae 3,NA,NA,NA,leaf_work_to_punch_concave,0.6048434761695087,6
+SG07,YNC,UTownTTristellateia australasiae 3,NA,NA,NA,leaf_work_to_punch_flat,0.7131454068604267,5
+SG07,YNC,UTownTTristellateia australasiae 3,NA,NA,NA,leaf_work_to_shear,8949.479258288597,6
+SG07,YNC,UTownTTristellateia australasiae 4,NA,NA,NA,Thickness,0.33416666666666667,18
+SG07,YNC,UTownTTristellateia australasiae 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.4430035237806798,6
+SG07,YNC,UTownTTristellateia australasiae 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.8611241885146703,6
+SG07,YNC,UTownTTristellateia australasiae 4,NA,NA,NA,leaf_work_to_punch_concave,0.5011466472683976,6
+SG07,YNC,UTownTTristellateia australasiae 4,NA,NA,NA,leaf_work_to_punch_flat,0.6045153216476699,6
+SG07,YNC,UTownTTristellateia australasiae 4,NA,NA,NA,leaf_work_to_shear,5814.849714026765,6
+SG07,YNC,UTownTTristellateia australasiae 5,NA,NA,NA,Thickness,0.3222777777777778,18
+SG07,YNC,UTownTTristellateia australasiae 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.7468664245521774,6
+SG07,YNC,UTownTTristellateia australasiae 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,2.0090055657432586,6
+SG07,YNC,UTownTTristellateia australasiae 5,NA,NA,NA,leaf_work_to_punch_concave,0.5747626450009375,6
+SG07,YNC,UTownTTristellateia australasiae 5,NA,NA,NA,leaf_work_to_punch_flat,0.6503749160746644,6
+SG07,YNC,UTownTTristellateia australasiae 5,NA,NA,NA,leaf_work_to_shear,9493.56661569385,6
+SG07,tech,KRTAdinandra dumosa 7,NA,NA,NA,Thickness,0.38027777777777777,18
+SG07,tech,KRTAdinandra dumosa 7,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.0679134827917447,6
+SG07,tech,KRTAdinandra dumosa 7,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.2442537645681009,6
+SG07,tech,KRTAdinandra dumosa 7,NA,NA,NA,leaf_work_to_punch_concave,0.4036027156517669,6
+SG07,tech,KRTAdinandra dumosa 7,NA,NA,NA,leaf_work_to_punch_flat,0.48246918573373015,6
+SG07,tech,KRTAdinandra dumosa 7,NA,NA,NA,leaf_work_to_shear,7220.835475873981,6
+SG07,tech,KRTSmilax setosa 1,NA,NA,NA,Thickness,0.3923888888888889,18
+SG07,tech,KRTSmilax setosa 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3943275294717892,6
+SG07,tech,KRTSmilax setosa 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4283771295737273,6
+SG07,tech,KRTSmilax setosa 1,NA,NA,NA,leaf_work_to_punch_concave,0.5435606192160831,6
+SG07,tech,KRTSmilax setosa 1,NA,NA,NA,leaf_work_to_punch_flat,0.5423026935490337,6
+SG07,tech,KRTSmilax setosa 1,NA,NA,NA,leaf_work_to_shear,12015.450881648976,6
+SG07,tech,KRTSmilax setosa 2,NA,NA,NA,Thickness,0.4042352941176471,17
+SG07,tech,KRTSmilax setosa 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.279595656875079,6
+SG07,tech,KRTSmilax setosa 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.2780618839023503,6
+SG07,tech,KRTSmilax setosa 2,NA,NA,NA,leaf_work_to_punch_concave,0.5155854462293118,6
+SG07,tech,KRTSmilax setosa 2,NA,NA,NA,leaf_work_to_punch_flat,0.5027327274572859,6
+SG07,tech,KRTSmilax setosa 2,NA,NA,NA,leaf_work_to_shear,12701.242129014496,5
+SG07,tech,KRTSmilax setosa 3,NA,NA,NA,Thickness,0.46744444444444444,18
+SG07,tech,KRTSmilax setosa 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.1053219529367653,6
+SG07,tech,KRTSmilax setosa 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1611639919604115,6
+SG07,tech,KRTSmilax setosa 3,NA,NA,NA,leaf_work_to_punch_concave,0.522148536666091,6
+SG07,tech,KRTSmilax setosa 3,NA,NA,NA,leaf_work_to_punch_flat,0.5447365062526727,6
+SG07,tech,KRTSmilax setosa 3,NA,NA,NA,leaf_work_to_shear,13340.765905054961,6
+SG07,tech,KRTSmilax setosa 4,NA,NA,NA,Thickness,0.4232222222222222,18
+SG07,tech,KRTSmilax setosa 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.451864225909652,6
+SG07,tech,KRTSmilax setosa 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.1284429998447933,6
+SG07,tech,KRTSmilax setosa 4,NA,NA,NA,leaf_work_to_punch_concave,0.5732039110222025,6
+SG07,tech,KRTSmilax setosa 4,NA,NA,NA,leaf_work_to_punch_flat,0.4999160678115015,6
+SG07,tech,KRTSmilax setosa 4,NA,NA,NA,leaf_work_to_shear,11410.124129720467,6
+SG07,tech,KRTSmilax setosa 5,NA,NA,NA,Thickness,0.37758823529411767,17
+SG07,tech,KRTSmilax setosa 5,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.3314806945658053,6
+SG07,tech,KRTSmilax setosa 5,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4410862454666908,6
+SG07,tech,KRTSmilax setosa 5,NA,NA,NA,leaf_work_to_punch_concave,0.5087488936910002,6
+SG07,tech,KRTSmilax setosa 5,NA,NA,NA,leaf_work_to_punch_flat,0.5523660988854285,6
+SG07,tech,KRTSmilax setosa 5,NA,NA,NA,leaf_work_to_shear,9621.372574935527,5
+SG07,tech,UTownTSyzygium zeylanicum 1,NA,NA,NA,Thickness,0.3337777777777778,18
+SG07,tech,UTownTSyzygium zeylanicum 1,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.2794296698938317,6
+SG07,tech,UTownTSyzygium zeylanicum 1,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.4884836237201524,6
+SG07,tech,UTownTSyzygium zeylanicum 1,NA,NA,NA,leaf_work_to_punch_concave,0.4419147560764654,6
+SG07,tech,UTownTSyzygium zeylanicum 1,NA,NA,NA,leaf_work_to_punch_flat,0.5299148603496131,6
+SG07,tech,UTownTSyzygium zeylanicum 1,NA,NA,NA,leaf_work_to_shear,13277.259454214789,6
+SG07,tech,UTownTSyzygium zeylanicum 2,NA,NA,NA,Thickness,0.3058235294117647,17
+SG07,tech,UTownTSyzygium zeylanicum 2,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.4441066954305486,6
+SG07,tech,UTownTSyzygium zeylanicum 2,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6384340427667747,6
+SG07,tech,UTownTSyzygium zeylanicum 2,NA,NA,NA,leaf_work_to_punch_concave,0.4521148924636264,6
+SG07,tech,UTownTSyzygium zeylanicum 2,NA,NA,NA,leaf_work_to_punch_flat,0.5041000379649482,6
+SG07,tech,UTownTSyzygium zeylanicum 2,NA,NA,NA,leaf_work_to_shear,14109.187920503224,5
+SG07,tech,UTownTSyzygium zeylanicum 3,NA,NA,NA,Thickness,0.2663333333333333,18
+SG07,tech,UTownTSyzygium zeylanicum 3,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.4983346503295936,6
+SG07,tech,UTownTSyzygium zeylanicum 3,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.6228544512734024,6
+SG07,tech,UTownTSyzygium zeylanicum 3,NA,NA,NA,leaf_work_to_punch_concave,0.40696629950061625,6
+SG07,tech,UTownTSyzygium zeylanicum 3,NA,NA,NA,leaf_work_to_punch_flat,0.38574564042169684,6
+SG07,tech,UTownTSyzygium zeylanicum 3,NA,NA,NA,leaf_work_to_shear,14627.407468810146,6
+SG07,tech,UTownTSyzygium zeylanicum 4,NA,NA,NA,Thickness,0.2868235294117647,17
+SG07,tech,UTownTSyzygium zeylanicum 4,NA,NA,NA,leaf_work_to_punch_adjusted_concave,1.890017616221658,6
+SG07,tech,UTownTSyzygium zeylanicum 4,NA,NA,NA,leaf_work_to_punch_adjusted_flat,1.5316507810133932,6
+SG07,tech,UTownTSyzygium zeylanicum 4,NA,NA,NA,leaf_work_to_punch_concave,0.523926040326052,6
+SG07,tech,UTownTSyzygium zeylanicum 4,NA,NA,NA,leaf_work_to_punch_flat,0.45832248216841337,6
+SG07,tech,UTownTSyzygium zeylanicum 4,NA,NA,NA,leaf_work_to_shear,15576.922827903747,5

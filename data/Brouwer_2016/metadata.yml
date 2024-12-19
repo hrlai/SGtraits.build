@@ -1,0 +1,123 @@
+source:
+  primary:
+    key: Brouwer_2016
+    bibtype: Thesis
+    year: 2016
+    author: Rens Gerard Brouwer
+    title: Variation in leaf toughness traits of 27 tropical secondary forest tree
+      species in Singapore
+    type: BSc thesis
+    institution: VanHall-Larenstein University of Applied Sciences and Yale-NUS College
+contributors:
+  data_collectors:
+  - last_name: Brouwer
+    given_name: Rens Gerard
+    ORCID: 0000-0003-1370-5811
+    affiliation: Wageningen University
+  assistants: Ester J.Y. Suen and Jung Min Eun and Hao Ran Lai
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: yes
+  custom_R_code: .na
+  collection_date: '2016'
+  taxon_name: OrgName
+  trait_name: Trait
+  value: OrgVal
+  location_name: unknown
+  individual_id: IID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Thickness
+  unit_in: mm
+  trait_name: leaf_thickness
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: usually 3
+  methods: unknown
+- var_in: leaf_work_to_punch_adjusted_concave
+  unit_in: N/mm2
+  trait_name: leaf_work_to_punch_adjusted
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: unknown
+  methods: leaf_work_to_punch_concave divided by lamina thickness
+- var_in: leaf_work_to_punch_adjusted_flat
+  unit_in: N/mm2
+  trait_name: leaf_work_to_punch_adjusted
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: unknown
+  methods: leaf_work_to_punch_flat divided by lamina thickness
+- var_in: leaf_work_to_punch_concave
+  unit_in: N/mm2
+  trait_name: leaf_work_to_punch
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: unknown
+  methods: These tests were done using a concave
+    punching rod. The tests were conducted with the FLS-1 mechanical tester. First leaf
+    thickness at the punch position was measured with a micro meter. Next the leaf was
+    mounted in the FLS-1 and primary and secondary veins were avoided when
+    positioning the sample. Then the leaf was punched in a first pass, with the sample still
+    in place a second pass was done to take friction into account in the calculations. The
+    maximum force to punch the leaf was registered by a 50N load cell and divided by the
+    punch-rod circumference (6.09469 mm circumference, with a diameter of 1.94 mm)
+    to normalize per fracture length and to determine Fp in N mm-1. We used the
+    circumference as normalization, following the method of Onoda et al. (2011), which
+    explains that circumference is used rather than the punch area because data
+    calculations that use the area tend to be very sensitive to the size of the diameter.
+- var_in: leaf_work_to_punch_flat
+  unit_in: N/mm2
+  trait_name: leaf_work_to_punch
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: unknown
+  methods: These tests were done using a flar
+    punching rod. The tests were conducted with the FLS-1 mechanical tester. First leaf
+    thickness at the punch position was measured with a micro meter. Next the leaf was
+    mounted in the FLS-1 and primary and secondary veins were avoided when
+    positioning the sample. Then the leaf was punched in a first pass, with the sample still
+    in place a second pass was done to take friction into account in the calculations. The
+    maximum force to punch the leaf was registered by a 50N load cell and divided by the
+    punch-rod circumference (6.09469 mm circumference, with a diameter of 1.94 mm)
+    to normalize per fracture length and to determine Fp in N mm-1. We used the
+    circumference as normalization, following the method of Onoda et al. (2011), which
+    explains that circumference is used rather than the punch area because data
+    calculations that use the area tend to be very sensitive to the size of the diameter.
+- var_in: leaf_work_to_shear
+  unit_in: N/m
+  trait_name: leaf_work_to_shear
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: unknown
+  methods: Total work to fracture lamina was measured with the shearing method
+    developed by Lucas and Pereira (Lucas & Pereira, 1990). The outer edge of the leaf,
+    the leaf margin, was cut off so the ‘least-tough path’ could be measured. First an
+    empty pass with no leaf in position was done, to obtain the amount of force caused by
+    friction of the scissor, and this was later subtracted from the second pass. Next the
+    scissors of the FLS-1 were placed in an angle of 60-90° at the midrib, parallel to
+    secondary veins. In general this least-tough path, avoiding the secondary veins, was
+    followed when the leaf was cut in a single continuous movement. The shearing force
+    was recorded during this second pass with a 50N load cell and plotted against cut
+    distance, which was recorded simultaneously, to obtain a force-displacement curve
+    for each lamina piece. Total work to fracture (J) was calculated for the lamina, and is
+    further noted as fracture toughness. Leaf work to shear is then fracture toughness 
+    divided by cut length. Although we avoided secondary veins when
+    measuring fracture toughness, fine veins were unavoidable.
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
