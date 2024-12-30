@@ -1,15 +1,10 @@
 source:
   primary:
     key: Chong_2010
-    bibtype: Article
-    year: unknown
-    author: unknown
-    title: unknown
-    journal: unknown
-    volume: unknown
-    number: unknown
-    pages: unknown
-    doi: unknown
+    bibtype: Unpublished
+    year: 2011
+    author: Kwek Yan Chong
+    title: 'Unpublished data: Seed dry mass data from various species in Singapore'
 contributors:
   data_collectors:
   - last_name: Chong
