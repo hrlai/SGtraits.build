@@ -21,6 +21,10 @@ Chong_2010_config <- dataset_configure("data/Chong_2010/metadata.yml", definitio
 Chong_2010_raw <- dataset_process("data/Chong_2010/data.csv", Chong_2010_config, schema, resource_metadata, unit_conversions)
 Chong_2010 <- dataset_update_taxonomy(Chong_2010_raw, taxon_list)
 
+Chong_2011_config <- dataset_configure("data/Chong_2011/metadata.yml", definitions)
+Chong_2011_raw <- dataset_process("data/Chong_2011/data.csv", Chong_2011_config, schema, resource_metadata, unit_conversions)
+Chong_2011 <- dataset_update_taxonomy(Chong_2011_raw, taxon_list)
+
 Lai_2020_config <- dataset_configure("data/Lai_2020/metadata.yml", definitions)
 Lai_2020_raw <- dataset_process("data/Lai_2020/data.csv", Lai_2020_config, schema, resource_metadata, unit_conversions)
 Lai_2020 <- dataset_update_taxonomy(Lai_2020_raw, taxon_list)
@@ -45,16 +49,22 @@ Ng_2017_config <- dataset_configure("data/Ng_2017/metadata.yml", definitions)
 Ng_2017_raw <- dataset_process("data/Ng_2017/data.csv", Ng_2017_config, schema, resource_metadata, unit_conversions)
 Ng_2017 <- dataset_update_taxonomy(Ng_2017_raw, taxon_list)
 
+Yee_2014_config <- dataset_configure("data/Yee_2014/metadata.yml", definitions)
+Yee_2014_raw <- dataset_process("data/Yee_2014/data.csv", Yee_2014_config, schema, resource_metadata, unit_conversions)
+Yee_2014 <- dataset_update_taxonomy(Yee_2014_raw, taxon_list)
+
 
 SGtraits_raw <- austraits::bind_databases(
   Brouwer_2016,
   Chong_2010,
+  Chong_2011,
   Lai_2020,
   Lai_2020_2,
   Lai_2020_3,
   Lai_2021,
   Metcalfe_1995,
   Ng_2017,
+  Yee_2014,
   NULL)
 
 # Version information
