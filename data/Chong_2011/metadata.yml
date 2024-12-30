@@ -1,0 +1,55 @@
+source:
+  primary:
+    key: Chong_2011
+    bibtype: Article
+    year: unknown
+    author: unknown
+    title: unknown
+    journal: unknown
+    volume: unknown
+    number: unknown
+    pages: unknown
+    doi: unknown
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: Collection Date
+  taxon_name: Species Name
+  location_name: Collection Locality
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Fresh Area /cm2
+  unit_in: cm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: 1 (with exceptions, see remarks in raw data)
+  methods: unknown
+- var_in: SLA
+  unit_in: cm2/g
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: 1 (with exceptions, see remarks in raw data)
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
