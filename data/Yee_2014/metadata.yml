@@ -1,0 +1,52 @@
+source:
+  primary:
+    key: Yee_2014
+    bibtype: Unpublished
+    year: 2014
+    author: Alex Thiam Koon Yee
+    title: 'Unpublished data: Specific leaf area data from various species in Mandai,
+      Singapore'
+contributors:
+  data_collectors:
+  - last_name: Yee
+    given_name: Alex Thiam Koon
+    ORCID: 0000-0002-6465-0075
+    affiliation: Centre for Urban Greenery and Ecology, National Parks Board Singapore
+  assistants: unknown
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: Date.Dried
+  taxon_name: Species1
+  location_name: Plot
+  individual_id: Tree_ID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Area_cm2
+  unit_in: cm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies (mostly 3)
+  methods: unknown
+- var_in: SLA
+  unit_in: cm2/g
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies (mostly 3)
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

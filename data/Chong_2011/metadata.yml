@@ -1,0 +1,81 @@
+source:
+  primary:
+    key: Chong_2011
+    bibtype: Unpublished
+    year: 2011
+    author: Kwek Yan Chong
+    title: 'Unpublished data: Specific leaf area data from various species in Singapore'
+  secondary:
+    key: Lai_2020
+    bibtype: Article
+    year: '2020'
+    author: Hao Ran Lai and Kwek Yan Chong and Alex Thiam Koon Yee and Hugh Tiang
+      Wah Tan and Michiel Van Breugel
+    journal: Journal of Ecology
+    title: Functional traits that moderate tropical tree recruitment during post-windstorm
+      secondary succession
+    volume: '108'
+    number: '4'
+    pages: 1322–1333
+    doi: 10.1111/1365-2745.13347
+    issn: 1365-2745
+    editor: Cynthia Chang
+  secondary2:
+    key: Yee_2019
+    bibtype: Article
+    year: '2019'
+    author: Alex T. K. Yee and Hao Ran Lai and Kwek Yan Chong and Louise Neo and Choon
+      Yen Koh and Siu Yueh Tan and Wei Wei Seah and Jolyn W. Loh and Reuben C. J.
+      Lim and Michiel Van Breugel and Hugh T. W. Tan
+    journal: Journal of Vegetation Science
+    title: Short-term responses in a secondary tropical forest after a severe windstorm
+      event
+    volume: '30'
+    number: '4'
+    pages: 720–731
+    doi: 10.1111/jvs.12753
+    issn: 1654-1103
+    editor: Alicia Teresa Rosario Acosta
+contributors:
+  data_collectors:
+  - last_name: Chong
+    given_name: Kwek Yan
+    ORCID: 0000-0003-4754-8957
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: Collection Date
+  taxon_name: Species Name
+  location_name: Collection Locality
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Fresh Area /cm2
+  unit_in: cm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: 1 (with exceptions, see remarks in raw data)
+  methods: unknown
+- var_in: SLA
+  unit_in: cm2/g
+  trait_name: leaf_mass_per_area
+  entity_type: individual
+  value_type: raw
+  basis_of_value: measurement
+  replicates: 1 (with exceptions, see remarks in raw data)
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
