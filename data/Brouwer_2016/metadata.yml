@@ -98,7 +98,7 @@ traits:
     calculations that use the area tend to be very sensitive to the size of the diameter.
 - var_in: leaf_work_to_shear
   unit_in: N/m
-  trait_name: leaf_work_to_shear
+  trait_name: leaf_work_to_shear_adjusted
   entity_type: individual
   value_type: mean
   basis_of_value: measurement
