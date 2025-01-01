@@ -49,6 +49,10 @@ Ng_2017_config <- dataset_configure("data/Ng_2017/metadata.yml", definitions)
 Ng_2017_raw <- dataset_process("data/Ng_2017/data.csv", Ng_2017_config, schema, resource_metadata, unit_conversions)
 Ng_2017 <- dataset_update_taxonomy(Ng_2017_raw, taxon_list)
 
+Soo_2010_config <- dataset_configure("data/Soo_2010/metadata.yml", definitions)
+Soo_2010_raw <- dataset_process("data/Soo_2010/data.csv", Soo_2010_config, schema, resource_metadata, unit_conversions)
+Soo_2010 <- dataset_update_taxonomy(Soo_2010_raw, taxon_list)
+
 Yee_2014_config <- dataset_configure("data/Yee_2014/metadata.yml", definitions)
 Yee_2014_raw <- dataset_process("data/Yee_2014/data.csv", Yee_2014_config, schema, resource_metadata, unit_conversions)
 Yee_2014 <- dataset_update_taxonomy(Yee_2014_raw, taxon_list)
@@ -64,6 +68,7 @@ SGtraits_raw <- austraits::bind_databases(
   Lai_2021,
   Metcalfe_1995,
   Ng_2017,
+  Soo_2010,
   Yee_2014,
   NULL)
 

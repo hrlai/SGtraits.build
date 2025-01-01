@@ -1,0 +1,274 @@
+source:
+  primary:
+    key: Soo_2010
+    bibtype: Thesis
+    year: 2010
+    author: Wai Kit Soo
+    title: Endangerment of Plant Species in Singapore after Loss of Avian Seed Dispersers
+    type: BSc (Hons)
+    institution: National University of Singpore
+  original_01:
+    key: FM_2007
+    bibtype: Book
+    year: 1991--2007
+    author: FM
+    title: Flora Malesiana Series I
+  original_02:
+    key: TFSS_2007
+    bibtype: Book
+    year: 1991--2007
+    author: TFSS
+    title: The Tree Flora of Sabah and Sarawak
+  original_03:
+    key: Ridley_1922
+    bibtype: Book
+    year: 1922
+    author: Ridley, H.N.
+    title: The flora of the Malay Peninsula
+    publisher: L. Reeve & co., ltd.
+  original_04:
+    key: Whitmore_1972
+    bibtype: Book
+    year: 1972
+    author: Whitmore, T.C.
+    title: Tree Flora of Malaya
+    publisher: Longman
+  original_05:
+    key: Ng_1978
+    bibtype: Book
+    year: 1978
+    author: Ng, F.S.P.
+    title: Tree Flora of Malaya
+    publisher: Longman
+  original_06:
+    key: Ng_1989
+    bibtype: Book
+    year: 1989
+    author: Ng, F.S.P.
+    title: Tree Flora of Malaya
+    publisher: Longman
+  original_07:
+    key: Sodhi_2007
+    bibtype: Article
+    year: '2007'
+    author: Navjot S. Sodhi and Lian Pin Koh and Kelvin S.-H. Peh and Hugh T. W. Tan
+      and Robin L. Chazdon and Richard T. Corlett and Tien Ming Lee and Robert K.
+      Colwell and Barry W. Brook and Cagan H. Sekercioglu and Corey J. A. Bradshaw
+    journal: Diversity and Distributions
+    title: Correlates of extinction proneness in tropical angiosperms
+    volume: '14'
+    number: '1'
+    pages: 1–10
+    doi: 10.1111/j.1472-4642.2007.00398.x
+    issn: 1472-4642
+contributors:
+  data_collectors:
+  - last_name: Soo
+    given_name: Wai Kit
+    ORCID: unknown
+    affiliation: National University of Singpore
+  assistants: unknown
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: 2009/2010
+  taxon_name: Name.auth
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Dispersal
+  unit_in: .na
+  trait_name: dispersal_syndrome
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Pollination
+  unit_in: .na
+  trait_name: pollination_syndrome
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit type by Corlett
+  unit_in: .na
+  trait_name: fruit_type
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Colour
+  unit_in: .na
+  trait_name: fruit_colour
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit type
+  unit_in: .na
+  trait_name: fruit_type
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Dehiscence
+  unit_in: .na
+  trait_name: fruit_dehiscence
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Aril
+  unit_in: .na
+  trait_name: diaspore_fleshiness
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed Shape
+  unit_in: .na
+  trait_name: seed_shape
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Length (cm) min
+  unit_in: cm
+  trait_name: fruit_length
+  entity_type: species
+  value_type: minimum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Width (cm) min
+  unit_in: cm
+  trait_name: fruit_width
+  entity_type: species
+  value_type: minimum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: No. Seed min
+  unit_in: '{count}'
+  trait_name: seed_count
+  entity_type: species
+  value_type: minimum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed Length (mm) min
+  unit_in: mm
+  trait_name: seed_length
+  entity_type: species
+  value_type: minimum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed width (mm) min
+  unit_in: mm
+  trait_name: seed_width
+  entity_type: species
+  value_type: minimum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Length (cm) max
+  unit_in: cm
+  trait_name: fruit_length
+  entity_type: species
+  value_type: maximum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Width (cm) max
+  unit_in: cm
+  trait_name: fruit_width
+  entity_type: species
+  value_type: maximum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: No. Seed max
+  unit_in: '{count}'
+  trait_name: seed_count
+  entity_type: species
+  value_type: maximum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed Length (mm) max
+  unit_in: mm
+  trait_name: seed_length
+  entity_type: species
+  value_type: maximum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed width (mm) max
+  unit_in: mm
+  trait_name: seed_width
+  entity_type: species
+  value_type: maximum
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Length (cm) mean
+  unit_in: cm
+  trait_name: fruit_length
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Fruit Width (cm) mean
+  unit_in: cm
+  trait_name: fruit_width
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: No. Seed mean
+  unit_in: '{count}'
+  trait_name: seed_count
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed Length (mm) mean
+  unit_in: mm
+  trait_name: seed_length
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seed width (mm) mean
+  unit_in: mm
+  trait_name: seed_width
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
