@@ -59,7 +59,7 @@ traits:
   replicates: unknown
   methods: leaf_work_to_punch_flat divided by lamina thickness
 - var_in: leaf_work_to_punch_concave
-  unit_in: N/mm2
+  unit_in: N/mm
   trait_name: leaf_work_to_punch
   entity_type: individual
   value_type: mean
@@ -78,7 +78,7 @@ traits:
     explains that circumference is used rather than the punch area because data
     calculations that use the area tend to be very sensitive to the size of the diameter.
 - var_in: leaf_work_to_punch_flat
-  unit_in: N/mm2
+  unit_in: N/mm
   trait_name: leaf_work_to_punch
   entity_type: individual
   value_type: mean
