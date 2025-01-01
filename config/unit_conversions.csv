@@ -150,6 +150,8 @@ mJ/m,N,x*1/1000
 J/m,N,x*1
 kJ/m2,N/m,x*1000
 J/m2,N/m,x*1
+N/mm,N/m,x*1000
+N/mm2,N/m2,x*1000000
 100xJ/m2,N/m,x*100
 kN/m,N/m,x*1000
 10^1.kN/m,N/m,x*100
