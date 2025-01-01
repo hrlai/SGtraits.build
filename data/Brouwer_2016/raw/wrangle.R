@@ -85,6 +85,12 @@ out <-
         bind_rows(flat, concave, scissor)
     ) %>% 
     filter(!is.na(OrgVal)) %>% 
+    # fill in missing species name matches
+    mutate(OrgName = ifelse(
+        is.na(OrgName),
+        trimws(str_remove_all(IID, "UHallT|UTownT|UtownT|KRT|[[:digit:]]+")),
+        OrgName
+    )) %>% 
     # assign Dataset name
     mutate(Dataset1 = "SG07",
            SID = NA,
