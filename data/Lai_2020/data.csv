@@ -2006,26 +2006,26 @@ SG01,SG01_HR,KRTMorella esculenta1,NA,Morella esculenta,NA,LDMC,0.49074382501520
 SG01,SG01_HR,KRTMorella esculenta1,NA,Morella esculenta,NA,PL,2.669380079056917,6
 SG01,SG01_HR,KRTMorella esculenta1,NA,Morella esculenta,NA,SLA,13.623897292880148,6
 SG01,SG01_HR,KRTMorella esculenta1,NA,Morella esculenta,NA,Th,0.20983333333333332,6
-SG01,SG01_HR,KRTSandoricum koetjapy,NA,NA,NA,Area_mm2,66293.91067016392,3
-SG01,SG01_HR,KRTSandoricum koetjapy,NA,NA,NA,LDMC,0.3158995753694098,3
-SG01,SG01_HR,KRTSandoricum koetjapy,NA,NA,NA,PL,197.05128125671794,3
-SG01,SG01_HR,KRTSandoricum koetjapy,NA,NA,NA,SLA,13.214405166984326,3
-SG01,SG01_HR,KRTSandoricum koetjapy,NA,NA,NA,Th,0.255,2
-SG01,SG01_HR,KRTSmilax setosa 1,NA,NA,NA,Area_mm2,20859.61427254256,3
-SG01,SG01_HR,KRTSmilax setosa 1,NA,NA,NA,LDMC,0.31977135354780656,3
-SG01,SG01_HR,KRTSmilax setosa 1,NA,NA,NA,SLA,8.190816628904152,3
-SG01,SG01_HR,KRTSmilax setosa 2,NA,NA,NA,Area_mm2,14090.528621789825,3
-SG01,SG01_HR,KRTSmilax setosa 2,NA,NA,NA,LDMC,0.3550584169571853,3
-SG01,SG01_HR,KRTSmilax setosa 2,NA,NA,NA,SLA,5.246654888288673,3
-SG01,SG01_HR,KRTSmilax setosa 3,NA,NA,NA,Area_mm2,13715.709776242353,3
-SG01,SG01_HR,KRTSmilax setosa 3,NA,NA,NA,LDMC,0.3533814120298788,3
-SG01,SG01_HR,KRTSmilax setosa 3,NA,NA,NA,SLA,3.4676741226183943,3
-SG01,SG01_HR,KRTSmilax setosa 4,NA,NA,NA,Area_mm2,21933.597791663207,3
-SG01,SG01_HR,KRTSmilax setosa 4,NA,NA,NA,LDMC,0.34461159651046924,3
-SG01,SG01_HR,KRTSmilax setosa 4,NA,NA,NA,SLA,8.426377494315084,3
-SG01,SG01_HR,KRTSmilax setosa 5,NA,NA,NA,Area_mm2,20307.952291371912,3
-SG01,SG01_HR,KRTSmilax setosa 5,NA,NA,NA,LDMC,0.3810745071871776,3
-SG01,SG01_HR,KRTSmilax setosa 5,NA,NA,NA,SLA,7.001689101641382,3
+SG01,SG01_HR,KRTSandoricum koetjapy,NA,Sandoricum koetjapy,NA,Area_mm2,66293.91067016392,3
+SG01,SG01_HR,KRTSandoricum koetjapy,NA,Sandoricum koetjapy,NA,LDMC,0.3158995753694098,3
+SG01,SG01_HR,KRTSandoricum koetjapy,NA,Sandoricum koetjapy,NA,PL,197.05128125671794,3
+SG01,SG01_HR,KRTSandoricum koetjapy,NA,Sandoricum koetjapy,NA,SLA,13.214405166984326,3
+SG01,SG01_HR,KRTSandoricum koetjapy,NA,Sandoricum koetjapy,NA,Th,0.255,2
+SG01,SG01_HR,KRTSmilax setosa 1,NA,Smilax setosa,NA,Area_mm2,20859.61427254256,3
+SG01,SG01_HR,KRTSmilax setosa 1,NA,Smilax setosa,NA,LDMC,0.31977135354780656,3
+SG01,SG01_HR,KRTSmilax setosa 1,NA,Smilax setosa,NA,SLA,8.190816628904152,3
+SG01,SG01_HR,KRTSmilax setosa 2,NA,Smilax setosa,NA,Area_mm2,14090.528621789825,3
+SG01,SG01_HR,KRTSmilax setosa 2,NA,Smilax setosa,NA,LDMC,0.3550584169571853,3
+SG01,SG01_HR,KRTSmilax setosa 2,NA,Smilax setosa,NA,SLA,5.246654888288673,3
+SG01,SG01_HR,KRTSmilax setosa 3,NA,Smilax setosa,NA,Area_mm2,13715.709776242353,3
+SG01,SG01_HR,KRTSmilax setosa 3,NA,Smilax setosa,NA,LDMC,0.3533814120298788,3
+SG01,SG01_HR,KRTSmilax setosa 3,NA,Smilax setosa,NA,SLA,3.4676741226183943,3
+SG01,SG01_HR,KRTSmilax setosa 4,NA,Smilax setosa,NA,Area_mm2,21933.597791663207,3
+SG01,SG01_HR,KRTSmilax setosa 4,NA,Smilax setosa,NA,LDMC,0.34461159651046924,3
+SG01,SG01_HR,KRTSmilax setosa 4,NA,Smilax setosa,NA,SLA,8.426377494315084,3
+SG01,SG01_HR,KRTSmilax setosa 5,NA,Smilax setosa,NA,Area_mm2,20307.952291371912,3
+SG01,SG01_HR,KRTSmilax setosa 5,NA,Smilax setosa,NA,LDMC,0.3810745071871776,3
+SG01,SG01_HR,KRTSmilax setosa 5,NA,Smilax setosa,NA,SLA,7.001689101641382,3
 SG01,SG01_HR,KRTSyzygium grande 4,NA,Syzygium grande,NA,Area_mm2,16196.249627280813,3
 SG01,SG01_HR,KRTSyzygium grande 4,NA,Syzygium grande,NA,LDMC,0.40322250956142697,3
 SG01,SG01_HR,KRTSyzygium grande 4,NA,Syzygium grande,NA,PL,14.170961063489498,3
@@ -2237,11 +2237,11 @@ SG01,SG01_HR,Nee Soon PipelineTZiziphus,NA,Ziziphus calophylla,NA,LDMC,0.3975613
 SG01,SG01_HR,Nee Soon PipelineTZiziphus,NA,Ziziphus calophylla,NA,PL,6.367582456330598,3
 SG01,SG01_HR,Nee Soon PipelineTZiziphus,NA,Ziziphus calophylla,NA,SLA,17.243916790033676,3
 SG01,SG01_HR,Nee Soon PipelineTZiziphus,NA,Ziziphus calophylla,NA,Th,0.17200000000000001,3
-SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,NA,NA,Area_mm2,19187.192282595148,3
-SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,NA,NA,LDMC,0.43598518395141145,3
-SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,NA,NA,PL,13.8991904703896,3
-SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,NA,NA,SLA,11.540453353888442,3
-SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,NA,NA,Th,0.372,3
+SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,Cryptocarya GRIFFITHI,NA,Area_mm2,19187.192282595148,3
+SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,Cryptocarya GRIFFITHI,NA,LDMC,0.43598518395141145,3
+SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,Cryptocarya GRIFFITHI,NA,PL,13.8991904703896,3
+SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,Cryptocarya GRIFFITHI,NA,SLA,11.540453353888442,3
+SG01,SG01_HR,Outside D23TCryptocarya GRIFFITHI,NA,Cryptocarya GRIFFITHI,NA,Th,0.372,3
 SG01,SG01_HR,Outside D23TMadhuca/Palaquium,NA,Palaquium obovatum,NA,Area_mm2,42907.57264833642,3
 SG01,SG01_HR,Outside D23TMadhuca/Palaquium,NA,Palaquium obovatum,NA,LDMC,0.3854511051328762,3
 SG01,SG01_HR,Outside D23TMadhuca/Palaquium,NA,Palaquium obovatum,NA,PL,42.25031304183022,3
@@ -2393,21 +2393,21 @@ SG01,SG01_HR,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostan
 SG01,SG01_HR,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,PL,25.47234301051134,3
 SG01,SG01_HR,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,SLA,5.1806661364618245,3
 SG01,SG01_HR,Serangoon Central DriveTGarcinia mangostana 6,NA,Garcinia mangostana,NA,Th,0.5516666666666666,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,NA,NA,Area_mm2,6698.6317890082255,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,NA,NA,LDMC,0.453207046129749,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,NA,NA,PL,19.98129574100212,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,NA,NA,SLA,6.399461657045329,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,NA,NA,Th,0.33233333333333337,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,NA,NA,Area_mm2,8005.393815960878,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,NA,NA,LDMC,0.4256831206573233,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,NA,NA,PL,18.75065633129752,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,NA,NA,SLA,7.101628316050016,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,NA,NA,Th,0.3184,5
-SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,NA,NA,Area_mm2,8087.675611082877,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,NA,NA,LDMC,0.42297506647729544,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,NA,NA,PL,22.375245745470828,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,NA,NA,SLA,7.0213613316850925,3
-SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,NA,NA,Th,0.33566666666666667,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,Calophyllum inophyllum,NA,Area_mm2,6698.6317890082255,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,Calophyllum inophyllum,NA,LDMC,0.453207046129749,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,Calophyllum inophyllum,NA,PL,19.98129574100212,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,Calophyllum inophyllum,NA,SLA,6.399461657045329,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 10,NA,Calophyllum inophyllum,NA,Th,0.33233333333333337,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,Calophyllum inophyllum,NA,Area_mm2,8005.393815960878,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,Calophyllum inophyllum,NA,LDMC,0.4256831206573233,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,Calophyllum inophyllum,NA,PL,18.75065633129752,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,Calophyllum inophyllum,NA,SLA,7.101628316050016,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 11,NA,Calophyllum inophyllum,NA,Th,0.3184,5
+SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,Calophyllum inophyllum,NA,Area_mm2,8087.675611082877,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,Calophyllum inophyllum,NA,LDMC,0.42297506647729544,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,Calophyllum inophyllum,NA,PL,22.375245745470828,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,Calophyllum inophyllum,NA,SLA,7.0213613316850925,3
+SG01,SG01_HR,UHallTCalophyllum inophyllum 7,NA,Calophyllum inophyllum,NA,Th,0.33566666666666667,3
 SG01,SG01_HR,UHallTJelutongUhall,NA,Dyera costulata,NA,Area_mm2,10626.198619967437,3
 SG01,SG01_HR,UHallTJelutongUhall,NA,Dyera costulata,NA,LDMC,0.448495608018146,3
 SG01,SG01_HR,UHallTJelutongUhall,NA,Dyera costulata,NA,PL,29.30448805470171,3
@@ -2448,9 +2448,9 @@ SG01,SG01_HR,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,LDM
 SG01,SG01_HR,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,PL,62.735413080069065,3
 SG01,SG01_HR,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,SLA,7.640161209688886,3
 SG01,SG01_HR,UTownTArtocarpus heterophyllus 2,NA,Artocarpus heterophyllus,NA,Th,0.36133333333333334,3
-SG01,SG01_HR,UTownTAsystasia intrusa 6,NA,NA,NA,Area_mm2,2372.623698487425,3
-SG01,SG01_HR,UTownTAsystasia intrusa 6,NA,NA,NA,LDMC,0.15922708222340895,3
-SG01,SG01_HR,UTownTAsystasia intrusa 6,NA,NA,NA,SLA,31.928147744486115,3
+SG01,SG01_HR,UTownTAsystasia intrusa 6,NA,Asystasia intrusa,NA,Area_mm2,2372.623698487425,3
+SG01,SG01_HR,UTownTAsystasia intrusa 6,NA,Asystasia intrusa,NA,LDMC,0.15922708222340895,3
+SG01,SG01_HR,UTownTAsystasia intrusa 6,NA,Asystasia intrusa,NA,SLA,31.928147744486115,3
 SG01,SG01_HR,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,Area_mm2,9284.074656438323,6
 SG01,SG01_HR,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,LDMC,0.3488375838736219,6
 SG01,SG01_HR,UTownTCalophyllum inophyllum 5,NA,Calophyllum inophyllum,NA,PL,21.507384188295266,6
@@ -2494,7 +2494,7 @@ SG01,SG01_HR,UTownTCratoxylum cochinchinense 11,NA,Craxtoxylum cochinchinense,NA
 SG01,SG01_HR,UTownTCratoxylum cochinchinense 11,NA,Craxtoxylum cochinchinense,NA,Th,0.17300000000000001,3
 SG01,SG01_HR,UTownTCratoxylum cochinchinense 9,NA,Craxtoxylum cochinchinense,NA,LDMC,0.4198280288101378,3
 SG01,SG01_HR,UTownTCratoxylum cochinchinense 9,NA,Craxtoxylum cochinchinense,NA,Th,0.17966666666666667,3
-SG01,SG01_HR,UTownTCymbopogon citratus 2,NA,NA,NA,LDMC,0.1770002572678158,1
+SG01,SG01_HR,UTownTCymbopogon citratus 2,NA,Cymbopogon citratus,NA,LDMC,0.1770002572678158,1
 SG01,SG01_HR,UTownTDillenia suffructicosa 10,NA,Dillenia suffruticosa,NA,LDMC,0.23463926574878602,3
 SG01,SG01_HR,UTownTDillenia suffructicosa 10,NA,Dillenia suffruticosa,NA,Th,0.3273333333333333,3
 SG01,SG01_HR,UTownTDillenia suffructicosa 11,NA,Dillenia suffruticosa,NA,LDMC,0.25496470949079975,3
@@ -2532,8 +2532,8 @@ SG01,SG01_HR,UTownTFagraea fragrans 8,NA,Fagraea fragrans,NA,LDMC,0.368015226069
 SG01,SG01_HR,UTownTFagraea fragrans 8,NA,Fagraea fragrans,NA,PL,14.05323676697345,3
 SG01,SG01_HR,UTownTFagraea fragrans 8,NA,Fagraea fragrans,NA,SLA,12.694032964659277,3
 SG01,SG01_HR,UTownTFagraea fragrans 8,NA,Fagraea fragrans,NA,Th,0.20666666666666667,3
-SG01,SG01_HR,UTownTGnetum gnemon,NA,NA,NA,LDMC,0.4136543202697792,3
-SG01,SG01_HR,UTownTGnetum gnemon,NA,NA,NA,PL,16.93928825384223,3
+SG01,SG01_HR,UTownTGnetum gnemon,NA,Gnetum gnemon,NA,LDMC,0.4136543202697792,3
+SG01,SG01_HR,UTownTGnetum gnemon,NA,Gnetum gnemon,NA,PL,16.93928825384223,3
 SG01,SG01_HR,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,LDMC,0.3662035871924314,3
 SG01,SG01_HR,UTownTGnetum gnemon 1,NA,Gnetum gnemon,NA,PL,11.581572169767082,3
 SG01,SG01_HR,UTownTGnetum gnemon 10,NA,Gnetum gnemon,NA,Area_mm2,10684.050356331565,3
@@ -2543,8 +2543,8 @@ SG01,SG01_HR,UTownTGnetum gnemon 10,NA,Gnetum gnemon,NA,SLA,13.440570466804532,3
 SG01,SG01_HR,UTownTGnetum gnemon 10,NA,Gnetum gnemon,NA,Th,0.19833333333333333,3
 SG01,SG01_HR,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,LDMC,0.3654021975624739,3
 SG01,SG01_HR,UTownTGnetum gnemon 2,NA,Gnetum gnemon,NA,PL,10.901172020348856,3
-SG01,SG01_HR,UTownTGnetum gnemon 3,NA,NA,NA,LDMC,0.3952608676124518,12
-SG01,SG01_HR,UTownTGnetum gnemon 3,NA,NA,NA,PL,19.340585443509834,12
+SG01,SG01_HR,UTownTGnetum gnemon 3,NA,Gnetum gnemon,NA,LDMC,0.3952608676124518,12
+SG01,SG01_HR,UTownTGnetum gnemon 3,NA,Gnetum gnemon,NA,PL,19.340585443509834,12
 SG01,SG01_HR,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,Area_mm2,8334.544891263782,12
 SG01,SG01_HR,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,LDMC,0.4056819952940405,12
 SG01,SG01_HR,UTownTGnetum gnemon 9,NA,Gnetum gnemon,NA,PL,10.958279687122122,12
@@ -2560,24 +2560,24 @@ SG01,SG01_HR,UTownTMelastoma malabathricum 8,NA,Melastoma malabathricum,NA,LDMC,
 SG01,SG01_HR,UTownTMelastoma malabathricum 8,NA,Melastoma malabathricum,NA,PL,11.632118169861435,3
 SG01,SG01_HR,UTownTMelastoma malabathricum 8,NA,Melastoma malabathricum,NA,SLA,19.855243792300794,3
 SG01,SG01_HR,UTownTMelastoma malabathricum 8,NA,Melastoma malabathricum,NA,Th,0.244,3
-SG01,SG01_HR,UTownTMonstera delicosa 4,NA,NA,NA,Area_mm2,27758.346020520046,1
-SG01,SG01_HR,UTownTMonstera delicosa 4,NA,NA,NA,LDMC,0.20159400158767246,1
-SG01,SG01_HR,UTownTMonstera delicosa 4,NA,NA,NA,SLA,0.9271138861786353,1
-SG01,SG01_HR,UTownTMonstera delicosa 5,NA,NA,NA,Area_mm2,26942.068080139274,1
-SG01,SG01_HR,UTownTMonstera delicosa 5,NA,NA,NA,LDMC,0.21052996551300351,1
-SG01,SG01_HR,UTownTMonstera delicosa 5,NA,NA,NA,SLA,0.8786364270268976,1
-SG01,SG01_HR,UTownTSyzygium zeylanicum 1,NA,NA,NA,Area_mm2,1064.705162493418,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 1,NA,NA,NA,LDMC,0.4257139929441727,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 1,NA,NA,NA,SLA,9.87994869365742,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 2,NA,NA,NA,Area_mm2,702.6676534381074,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 2,NA,NA,NA,LDMC,0.4420365346069249,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 2,NA,NA,NA,SLA,10.275178453037837,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 3,NA,NA,NA,Area_mm2,597.7001210462286,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 3,NA,NA,NA,LDMC,0.43427930468135856,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 3,NA,NA,NA,SLA,9.275857702900208,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 4,NA,NA,NA,Area_mm2,654.6558018514557,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 4,NA,NA,NA,LDMC,0.4340947302280705,3
-SG01,SG01_HR,UTownTSyzygium zeylanicum 4,NA,NA,NA,SLA,9.802603607765896,3
+SG01,SG01_HR,UTownTMonstera delicosa 4,NA,Monstera delicosa,NA,Area_mm2,27758.346020520046,1
+SG01,SG01_HR,UTownTMonstera delicosa 4,NA,Monstera delicosa,NA,LDMC,0.20159400158767246,1
+SG01,SG01_HR,UTownTMonstera delicosa 4,NA,Monstera delicosa,NA,SLA,0.9271138861786353,1
+SG01,SG01_HR,UTownTMonstera delicosa 5,NA,Monstera delicosa,NA,Area_mm2,26942.068080139274,1
+SG01,SG01_HR,UTownTMonstera delicosa 5,NA,Monstera delicosa,NA,LDMC,0.21052996551300351,1
+SG01,SG01_HR,UTownTMonstera delicosa 5,NA,Monstera delicosa,NA,SLA,0.8786364270268976,1
+SG01,SG01_HR,UTownTSyzygium zeylanicum 1,NA,Syzygium zeylanicum,NA,Area_mm2,1064.705162493418,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 1,NA,Syzygium zeylanicum,NA,LDMC,0.4257139929441727,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 1,NA,Syzygium zeylanicum,NA,SLA,9.87994869365742,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 2,NA,Syzygium zeylanicum,NA,Area_mm2,702.6676534381074,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 2,NA,Syzygium zeylanicum,NA,LDMC,0.4420365346069249,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 2,NA,Syzygium zeylanicum,NA,SLA,10.275178453037837,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 3,NA,Syzygium zeylanicum,NA,Area_mm2,597.7001210462286,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 3,NA,Syzygium zeylanicum,NA,LDMC,0.43427930468135856,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 3,NA,Syzygium zeylanicum,NA,SLA,9.275857702900208,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 4,NA,Syzygium zeylanicum,NA,Area_mm2,654.6558018514557,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 4,NA,Syzygium zeylanicum,NA,LDMC,0.4340947302280705,3
+SG01,SG01_HR,UTownTSyzygium zeylanicum 4,NA,Syzygium zeylanicum,NA,SLA,9.802603607765896,3
 SG01,SG01_HR,UTownTTerminalia catappa 7,NA,Terminalia catappa,NA,Area_mm2,32940.1731911248,3
 SG01,SG01_HR,UTownTTerminalia catappa 7,NA,Terminalia catappa,NA,LDMC,0.28847088847678665,3
 SG01,SG01_HR,UTownTTerminalia catappa 7,NA,Terminalia catappa,NA,PL,24.76591256474822,3
@@ -2594,21 +2594,21 @@ SG01,SG01_HR,UTownTTerminalia cattapa 8,NA,Terminalia catappa,NA,LDMC,0.28397262
 SG01,SG01_HR,UTownTTerminalia cattapa 8,NA,Terminalia catappa,NA,Th,0.21266666666666667,3
 SG01,SG01_HR,UTownTTerminalia cattapa 9,NA,Terminalia catappa,NA,LDMC,0.2976048808547957,3
 SG01,SG01_HR,UTownTTerminalia cattapa 9,NA,Terminalia catappa,NA,Th,0.21866666666666668,3
-SG01,SG01_HR,UTownTTristellateia australasiae 1,NA,NA,NA,Area_mm2,2768.93712478181,2
-SG01,SG01_HR,UTownTTristellateia australasiae 1,NA,NA,NA,LDMC,0.2264792885748238,2
-SG01,SG01_HR,UTownTTristellateia australasiae 1,NA,NA,NA,SLA,15.5220799592499,2
-SG01,SG01_HR,UTownTTristellateia australasiae 2,NA,NA,NA,Area_mm2,2523.2351063089664,2
-SG01,SG01_HR,UTownTTristellateia australasiae 2,NA,NA,NA,LDMC,0.1681400397030325,2
-SG01,SG01_HR,UTownTTristellateia australasiae 2,NA,NA,NA,SLA,26.660385518036506,2
-SG01,SG01_HR,UTownTTristellateia australasiae 3,NA,NA,NA,Area_mm2,2326.511484685643,2
-SG01,SG01_HR,UTownTTristellateia australasiae 3,NA,NA,NA,LDMC,0.2550927308084642,2
-SG01,SG01_HR,UTownTTristellateia australasiae 3,NA,NA,NA,SLA,12.130417924141529,2
-SG01,SG01_HR,UTownTTristellateia australasiae 4,NA,NA,NA,Area_mm2,4380.134625241391,2
-SG01,SG01_HR,UTownTTristellateia australasiae 4,NA,NA,NA,LDMC,0.2066111606023614,2
-SG01,SG01_HR,UTownTTristellateia australasiae 4,NA,NA,NA,SLA,16.41943513229237,2
-SG01,SG01_HR,UTownTTristellateia australasiae 5,NA,NA,NA,Area_mm2,2646.4570825467736,2
-SG01,SG01_HR,UTownTTristellateia australasiae 5,NA,NA,NA,LDMC,0.2626507951194496,2
-SG01,SG01_HR,UTownTTristellateia australasiae 5,NA,NA,NA,SLA,12.598496079981347,2
+SG01,SG01_HR,UTownTTristellateia australasiae 1,NA,Tristellateia australasiae,NA,Area_mm2,2768.93712478181,2
+SG01,SG01_HR,UTownTTristellateia australasiae 1,NA,Tristellateia australasiae,NA,LDMC,0.2264792885748238,2
+SG01,SG01_HR,UTownTTristellateia australasiae 1,NA,Tristellateia australasiae,NA,SLA,15.5220799592499,2
+SG01,SG01_HR,UTownTTristellateia australasiae 2,NA,Tristellateia australasiae,NA,Area_mm2,2523.2351063089664,2
+SG01,SG01_HR,UTownTTristellateia australasiae 2,NA,Tristellateia australasiae,NA,LDMC,0.1681400397030325,2
+SG01,SG01_HR,UTownTTristellateia australasiae 2,NA,Tristellateia australasiae,NA,SLA,26.660385518036506,2
+SG01,SG01_HR,UTownTTristellateia australasiae 3,NA,Tristellateia australasiae,NA,Area_mm2,2326.511484685643,2
+SG01,SG01_HR,UTownTTristellateia australasiae 3,NA,Tristellateia australasiae,NA,LDMC,0.2550927308084642,2
+SG01,SG01_HR,UTownTTristellateia australasiae 3,NA,Tristellateia australasiae,NA,SLA,12.130417924141529,2
+SG01,SG01_HR,UTownTTristellateia australasiae 4,NA,Tristellateia australasiae,NA,Area_mm2,4380.134625241391,2
+SG01,SG01_HR,UTownTTristellateia australasiae 4,NA,Tristellateia australasiae,NA,LDMC,0.2066111606023614,2
+SG01,SG01_HR,UTownTTristellateia australasiae 4,NA,Tristellateia australasiae,NA,SLA,16.41943513229237,2
+SG01,SG01_HR,UTownTTristellateia australasiae 5,NA,Tristellateia australasiae,NA,Area_mm2,2646.4570825467736,2
+SG01,SG01_HR,UTownTTristellateia australasiae 5,NA,Tristellateia australasiae,NA,LDMC,0.2626507951194496,2
+SG01,SG01_HR,UTownTTristellateia australasiae 5,NA,Tristellateia australasiae,NA,SLA,12.598496079981347,2
 SG01,SG01_HR,WengNgaiTTrema,NA,Trema tomentosa,NA,Area_mm2,5243.6908463912605,3
 SG01,SG01_HR,WengNgaiTTrema,NA,Trema tomentosa,NA,LDMC,0.32548964664809715,3
 SG01,SG01_HR,WengNgaiTTrema,NA,Trema tomentosa,NA,SLA,17.469633476157835,3

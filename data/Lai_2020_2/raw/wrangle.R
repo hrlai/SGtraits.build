@@ -51,6 +51,12 @@ wd_hr <-
 # Consolidate -------------------------------------------------------------
 out.twig <- 
     bind_rows(wd_zy, wd_hr) %>% 
+    # fill in missing species name matches
+    mutate(OrgName = ifelse(
+        is.na(OrgName),
+        trimws(str_remove_all(IID, "NSSF_")),
+        OrgName
+    )) %>% 
     # other columns
     mutate(Dataset2 = NA,
            SID = NA,

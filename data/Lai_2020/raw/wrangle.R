@@ -182,6 +182,12 @@ out.PJ <-
 # Combine HR and PJ data --------------------------------------------------
 out <- 
     bind_rows(out.FER, out.PJ) %>% 
+    # fill in missing species name matches
+    mutate(OrgName = ifelse(
+        is.na(OrgName),
+        trimws(str_remove_all(IID, "UHallT|UTownT|UtownT|KRT|Outside D23T|[[:digit:]]+")),
+        OrgName
+    )) %>% 
     # other columns
     mutate(Dataset1 = "SG01",
            SID = NA,
