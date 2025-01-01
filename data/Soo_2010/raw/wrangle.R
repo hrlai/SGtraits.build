@@ -10,6 +10,7 @@ fruit <-
                sheet = "Forest Species (emp+gen sub)") %>% 
     # remove comment row
     slice(-1) %>% 
+    filter(!is.na(Name.auth)) %>% 
     select(
         Name.auth,
         Dispersal,  # dispersal_syndrome
