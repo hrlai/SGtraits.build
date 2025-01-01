@@ -132,14 +132,6 @@ traits:
   basis_of_value: expert_score
   replicates: .na
   methods: unknown
-- var_in: Aril
-  unit_in: .na
-  trait_name: diaspore_fleshiness
-  entity_type: species
-  value_type: mode
-  basis_of_value: expert_score
-  replicates: .na
-  methods: unknown
 - var_in: Seed Shape
   unit_in: .na
   trait_name: seed_shape
@@ -268,7 +260,1450 @@ traits:
   basis_of_value: expert_score
   replicates: .na
   methods: unknown
-substitutions: .na
+substitutions:
+- trait_name: dispersal_syndrome
+  find: ingestion (berries, drupes or aggregate fruits)
+  replace: endozoochory
+- trait_name: dispersal_syndrome
+  find: others
+  replace: undefined
+- trait_name: dispersal_syndrome
+  find: water (fibrous endocarp or viviparous)
+  replace: hydrochory
+- trait_name: dispersal_syndrome
+  find: wind (wing-like structures)
+  replace: anemochory
+- trait_name: fruit_colour
+  find: (green-)yellow, orange(-yellow), or red
+  replace: yellow
+- trait_name: fruit_colour
+  find: (yellow-)brown or rusty brown
+  replace: brown
+- trait_name: fruit_colour
+  find: apricot-coloured
+  replace: orange
+- trait_name: fruit_colour
+  find: ashy
+  replace: grey
+- trait_name: fruit_colour
+  find: berry
+  replace: ''
+- trait_name: fruit_colour
+  find: black or purple
+  replace: black
+- trait_name: fruit_colour
+  find: black or red
+  replace: black
+- trait_name: fruit_colour
+  find: blackish
+  replace: black
+- trait_name: fruit_colour
+  find: blackish (dry)
+  replace: black
+- trait_name: fruit_colour
+  find: blue or black-purple
+  replace: blue
+- trait_name: fruit_colour
+  find: blue to black
+  replace: black
+- trait_name: fruit_colour
+  find: blue, purple
+  replace: blue
+- trait_name: fruit_colour
+  find: blue-black
+  replace: black
+- trait_name: fruit_colour
+  find: blue-green
+  replace: blue
+- trait_name: fruit_colour
+  find: bluish
+  replace: blue
+- trait_name: fruit_colour
+  find: bluish-green
+  replace: green
+- trait_name: fruit_colour
+  find: brick-red
+  replace: red
+- trait_name: fruit_colour
+  find: bright orange
+  replace: orange
+- trait_name: fruit_colour
+  find: bright pale green to orange
+  replace: green
+- trait_name: fruit_colour
+  find: bright red
+  replace: red
+- trait_name: fruit_colour
+  find: bright yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: bright yellow to orange
+  replace: orange
+- trait_name: fruit_colour
+  find: brown or orange
+  replace: brown
+- trait_name: fruit_colour
+  find: brown or red
+  replace: brown
+- trait_name: fruit_colour
+  find: brown or yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: brown, bright red or yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: brown, orange, yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: brown, orange, yellow, white or green
+  replace: brown
+- trait_name: fruit_colour
+  find: brown, red or yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: brown, red, orange or pale yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: brown-tomentose
+  replace: brown
+- trait_name: fruit_colour
+  find: brownish orange
+  replace: orange
+- trait_name: fruit_colour
+  find: brownish yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: cherry-pink
+  replace: pink
+- trait_name: fruit_colour
+  find: chestnut brown
+  replace: brown
+- trait_name: fruit_colour
+  find: chestnut red
+  replace: red
+- trait_name: fruit_colour
+  find: chestnut, edges silvery
+  replace: brown
+- trait_name: fruit_colour
+  find: claret pink
+  replace: pink
+- trait_name: fruit_colour
+  find: claret-coloured
+  replace: purple
+- trait_name: fruit_colour
+  find: cream colour turn black
+  replace: black
+- trait_name: fruit_colour
+  find: cream, brown
+  replace: cream
+- trait_name: fruit_colour
+  find: crimson
+  replace: red
+- trait_name: fruit_colour
+  find: crimson scarlet
+  replace: red
+- trait_name: fruit_colour
+  find: dark (dry)
+  replace: black
+- trait_name: fruit_colour
+  find: dark blue
+  replace: blue
+- trait_name: fruit_colour
+  find: dark blue to purple
+  replace: purple
+- trait_name: fruit_colour
+  find: dark brown
+  replace: brown
+- trait_name: fruit_colour
+  find: dark brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: dark brown or blackish (dry); green turn yellow (fresh)
+  replace: yellow
+- trait_name: fruit_colour
+  find: dark green
+  replace: green
+- trait_name: fruit_colour
+  find: dark green to red
+  replace: green
+- trait_name: fruit_colour
+  find: dark green with white spots
+  replace: green
+- trait_name: fruit_colour
+  find: dark grey to black (dry)
+  replace: black
+- trait_name: fruit_colour
+  find: dark purple
+  replace: purple
+- trait_name: fruit_colour
+  find: dark purple/ black
+  replace: purple
+- trait_name: fruit_colour
+  find: dark purplish red
+  replace: red
+- trait_name: fruit_colour
+  find: dark red
+  replace: red
+- trait_name: fruit_colour
+  find: dark red then black
+  replace: black
+- trait_name: fruit_colour
+  find: dark red to black
+  replace: red
+- trait_name: fruit_colour
+  find: dark red to purple black
+  replace: red
+- trait_name: fruit_colour
+  find: dark red turn black
+  replace: red
+- trait_name: fruit_colour
+  find: dark red turn shining black
+  replace: red
+- trait_name: fruit_colour
+  find: dark reddish
+  replace: red
+- trait_name: fruit_colour
+  find: dark reddish brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: deep blue
+  replace: blue
+- trait_name: fruit_colour
+  find: deep blue, purple or black
+  replace: purple
+- trait_name: fruit_colour
+  find: deep brown
+  replace: brown
+- trait_name: fruit_colour
+  find: deep claret-colour
+  replace: purple
+- trait_name: fruit_colour
+  find: deep pink or dull scarlet to purple black
+  replace: purple
+- trait_name: fruit_colour
+  find: deep purple
+  replace: purple
+- trait_name: fruit_colour
+  find: deep yellow, cream-brown
+  replace: brown
+- trait_name: fruit_colour
+  find: deep-orange/red
+  replace: orange
+- trait_name: fruit_colour
+  find: drupe
+  replace: ''
+- trait_name: fruit_colour
+  find: dull dark blue
+  replace: blue
+- trait_name: fruit_colour
+  find: dull green
+  replace: green
+- trait_name: fruit_colour
+  find: dull grey-green
+  replace: green
+- trait_name: fruit_colour
+  find: dull orange
+  replace: orange
+- trait_name: fruit_colour
+  find: dull orange-yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: dull pale reddish brown to greyish brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: dull purplish brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: dull red
+  replace: red
+- trait_name: fruit_colour
+  find: dull red turn black
+  replace: red
+- trait_name: fruit_colour
+  find: fleshy pink
+  replace: pink
+- trait_name: fruit_colour
+  find: glabrous red
+  replace: red
+- trait_name: fruit_colour
+  find: glaucous-white, coffe-brown or black
+  replace: grey
+- trait_name: fruit_colour
+  find: green becoming red
+  replace: red
+- trait_name: fruit_colour
+  find: green flushed rose purple
+  replace: purple
+- trait_name: fruit_colour
+  find: green mottled with dark red
+  replace: green
+- trait_name: fruit_colour
+  find: green or white dots
+  replace: green
+- trait_name: fruit_colour
+  find: green or yellow turn black
+  replace: black
+- trait_name: fruit_colour
+  find: green or yellowish turn glossy red, blue-black or purple
+  replace: red
+- trait_name: fruit_colour
+  find: green speckled white or dark green
+  replace: green
+- trait_name: fruit_colour
+  find: green spotted white
+  replace: white
+- trait_name: fruit_colour
+  find: green to black, tinged purple
+  replace: purple
+- trait_name: fruit_colour
+  find: green to dark red
+  replace: red
+- trait_name: fruit_colour
+  find: green to dull red
+  replace: green
+- trait_name: fruit_colour
+  find: green to orange
+  replace: orange
+- trait_name: fruit_colour
+  find: green to pink
+  replace: green
+- trait_name: fruit_colour
+  find: green to purple or bluish balck
+  replace: green
+- trait_name: fruit_colour
+  find: green to red
+  replace: red
+- trait_name: fruit_colour
+  find: green to red/ shiny black
+  replace: green
+- trait_name: fruit_colour
+  find: green to yellow
+  replace: green
+- trait_name: fruit_colour
+  find: green to yellow/orange
+  replace: green
+- trait_name: fruit_colour
+  find: green turn black
+  replace: black
+- trait_name: fruit_colour
+  find: green turn blue then black
+  replace: black
+- trait_name: fruit_colour
+  find: green turn brown to blackish
+  replace: brown
+- trait_name: fruit_colour
+  find: green turn brownish yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: green turn dark blue
+  replace: blue
+- trait_name: fruit_colour
+  find: green turn light yellow, purplish
+  replace: yellow
+- trait_name: fruit_colour
+  find: green turn pale pale yellowish tinged with pink
+  replace: yellow
+- trait_name: fruit_colour
+  find: green turn pale yellow then purplish
+  replace: purple
+- trait_name: fruit_colour
+  find: green turn pink
+  replace: pink
+- trait_name: fruit_colour
+  find: green turn purple then black
+  replace: black
+- trait_name: fruit_colour
+  find: green turn red
+  replace: red
+- trait_name: fruit_colour
+  find: green turn red then black
+  replace: black
+- trait_name: fruit_colour
+  find: green turn red, purple then black
+  replace: black
+- trait_name: fruit_colour
+  find: green turn yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: green turn yellow then purple
+  replace: purple
+- trait_name: fruit_colour
+  find: green turn yellow to orange or red
+  replace: yellow
+- trait_name: fruit_colour
+  find: green turn yellow to pinkish
+  replace: yellow
+- trait_name: fruit_colour
+  find: green turn yellowish to grey green
+  replace: green
+- trait_name: fruit_colour
+  find: green turning golden yellow to orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: green turning white, red turning purple or black
+  replace: purple
+- trait_name: fruit_colour
+  find: green with brown gloss
+  replace: green
+- trait_name: fruit_colour
+  find: green with pale dots
+  replace: green
+- trait_name: fruit_colour
+  find: green with white spots to yellow/orange
+  replace: green
+- trait_name: fruit_colour
+  find: green, tip purple
+  replace: green
+- trait_name: fruit_colour
+  find: green- or pale yellow
+  replace: green
+- trait_name: fruit_colour
+  find: green?
+  replace: green
+- trait_name: fruit_colour
+  find: green? with brownish puberulous
+  replace: green
+- trait_name: fruit_colour
+  find: greenish
+  replace: green
+- trait_name: fruit_colour
+  find: greenish pink to pink and dark red to purplish red
+  replace: red
+- trait_name: fruit_colour
+  find: greenish to whitish (with yellowish spots)
+  replace: green
+- trait_name: fruit_colour
+  find: greenish turn almost black
+  replace: black
+- trait_name: fruit_colour
+  find: greenish white to red
+  replace: green
+- trait_name: fruit_colour
+  find: greenish yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: greenish yellow or orange
+  replace: green
+- trait_name: fruit_colour
+  find: greenish-yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: greenish-yellow turning bright orange or apricot
+  replace: orange
+- trait_name: fruit_colour
+  find: grey-greeen turn black
+  replace: black
+- trait_name: fruit_colour
+  find: grey-green
+  replace: green
+- trait_name: fruit_colour
+  find: grey-green to purplish
+  replace: purple
+- trait_name: fruit_colour
+  find: greyish
+  replace: grey
+- trait_name: fruit_colour
+  find: greyish black
+  replace: grey
+- trait_name: fruit_colour
+  find: greyish blue
+  replace: blue
+- trait_name: fruit_colour
+  find: greyish green to dark green turn red to purplish
+  replace: red
+- trait_name: fruit_colour
+  find: greyish, rusty hair
+  replace: red
+- trait_name: fruit_colour
+  find: greyish-brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: greyish-brown to red
+  replace: brown
+- trait_name: fruit_colour
+  find: greyish-white
+  replace: grey
+- trait_name: fruit_colour
+  find: lemon-yellow to reddish-ornage turn purplish-black
+  replace: purple
+- trait_name: fruit_colour
+  find: light blue
+  replace: blue
+- trait_name: fruit_colour
+  find: light brown
+  replace: brown
+- trait_name: fruit_colour
+  find: light brown, dark reddish brown
+  replace: brown
+- trait_name: fruit_colour
+  find: light green
+  replace: green
+- trait_name: fruit_colour
+  find: light or dark brown or yellow
+  replace: brown
+- trait_name: fruit_colour
+  find: light-green to pink or purplish-green to dark-red
+  replace: red
+- trait_name: fruit_colour
+  find: off white to green turn purple
+  replace: purple
+- trait_name: fruit_colour
+  find: oorange red to dark crimson
+  replace: red
+- trait_name: fruit_colour
+  find: opaque white
+  replace: white
+- trait_name: fruit_colour
+  find: orange or dark red
+  replace: orange
+- trait_name: fruit_colour
+  find: orange or red
+  replace: orange
+- trait_name: fruit_colour
+  find: orange or yellow
+  replace: orange
+- trait_name: fruit_colour
+  find: orange to dark red
+  replace: red
+- trait_name: fruit_colour
+  find: orange to orange-red
+  replace: orange
+- trait_name: fruit_colour
+  find: orange to pinkish
+  replace: pink
+- trait_name: fruit_colour
+  find: orange to purplish red
+  replace: red
+- trait_name: fruit_colour
+  find: orange to red
+  replace: red
+- trait_name: fruit_colour
+  find: orange to red to blackish
+  replace: red
+- trait_name: fruit_colour
+  find: orange to red turning black
+  replace: black
+- trait_name: fruit_colour
+  find: orange turn black
+  replace: black
+- trait_name: fruit_colour
+  find: orange-brown
+  replace: brown
+- trait_name: fruit_colour
+  find: orange-brown to orange
+  replace: brown
+- trait_name: fruit_colour
+  find: orange-ochre to red
+  replace: red
+- trait_name: fruit_colour
+  find: orange-red
+  replace: red
+- trait_name: fruit_colour
+  find: orange-red or pinkish yellow
+  replace: red
+- trait_name: fruit_colour
+  find: orange-yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: orange/ reddish-brown/ scarlet to purple/ black
+  replace: purple
+- trait_name: fruit_colour
+  find: orange/ yellow
+  replace: orange
+- trait_name: fruit_colour
+  find: orange/red
+  replace: orange
+- trait_name: fruit_colour
+  find: ornage-yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: pale brown
+  replace: brown
+- trait_name: fruit_colour
+  find: pale brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: pale brown/ brownish yellow or green-white
+  replace: brown
+- trait_name: fruit_colour
+  find: pale dull green or greyish turning brownish
+  replace: brown
+- trait_name: fruit_colour
+  find: pale green
+  replace: green
+- trait_name: fruit_colour
+  find: pale green to white
+  replace: white
+- trait_name: fruit_colour
+  find: pale green to white turn blue
+  replace: blue
+- trait_name: fruit_colour
+  find: pale green turn blue
+  replace: blue
+- trait_name: fruit_colour
+  find: pale green turn straw yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: pale green, green, or white to brwon when ripe
+  replace: brown
+- trait_name: fruit_colour
+  find: pale green, yellow, orange or reddish
+  replace: green
+- trait_name: fruit_colour
+  find: pale red
+  replace: red
+- trait_name: fruit_colour
+  find: pale reddish brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: pale to darker green turn pale orange
+  replace: orange
+- trait_name: fruit_colour
+  find: pale yellow or orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: pale yellow with reddish brown scurf
+  replace: yellow
+- trait_name: fruit_colour
+  find: pink (dry)
+  replace: pink
+- trait_name: fruit_colour
+  find: pink or pale brown below, pale green upper
+  replace: green
+- trait_name: fruit_colour
+  find: pink to almost black
+  replace: black
+- trait_name: fruit_colour
+  find: pink to blue
+  replace: blue
+- trait_name: fruit_colour
+  find: pink to dark purple
+  replace: purple
+- trait_name: fruit_colour
+  find: pink to dark red turn deep purple to blackish with purple juice
+  replace: purple
+- trait_name: fruit_colour
+  find: pink to purple
+  replace: purple
+- trait_name: fruit_colour
+  find: pink to red (sometimes green)
+  replace: red
+- trait_name: fruit_colour
+  find: pink, green, yellow or deep bluish-purple, drying warm-brown
+  replace: purple
+- trait_name: fruit_colour
+  find: pinkish
+  replace: pink
+- trait_name: fruit_colour
+  find: pinkish brown, dark spots
+  replace: brown
+- trait_name: fruit_colour
+  find: pinkish to dark red or orange or yellow
+  replace: red
+- trait_name: fruit_colour
+  find: pinkish to orange to red-brown to scarlet or to wine-red
+  replace: red
+- trait_name: fruit_colour
+  find: pinkish to purple
+  replace: purple
+- trait_name: fruit_colour
+  find: pitted light brown
+  replace: brown
+- trait_name: fruit_colour
+  find: plum-coloured
+  replace: black
+- trait_name: fruit_colour
+  find: purple or green
+  replace: purple
+- trait_name: fruit_colour
+  find: purple-black
+  replace: black
+- trait_name: fruit_colour
+  find: purplish
+  replace: purple
+- trait_name: fruit_colour
+  find: purplish to black
+  replace: black
+- trait_name: fruit_colour
+  find: red or orange-red
+  replace: red
+- trait_name: fruit_colour
+  find: red or yellow
+  replace: red
+- trait_name: fruit_colour
+  find: red to black
+  replace: black
+- trait_name: fruit_colour
+  find: red to crimson
+  replace: red
+- trait_name: fruit_colour
+  find: red turning white
+  replace: white
+- trait_name: fruit_colour
+  find: red(-brown) or apricot
+  replace: red
+- trait_name: fruit_colour
+  find: red, orange, brown or grey
+  replace: red
+- trait_name: fruit_colour
+  find: red-brown
+  replace: brown
+- trait_name: fruit_colour
+  find: red-brown to dark brown (dry)
+  replace: red
+- trait_name: fruit_colour
+  find: red/ dark brown
+  replace: red
+- trait_name: fruit_colour
+  find: reddish
+  replace: red
+- trait_name: fruit_colour
+  find: reddish brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: reddish green
+  replace: green
+- trait_name: fruit_colour
+  find: reddish orange
+  replace: orange
+- trait_name: fruit_colour
+  find: reddish-brown
+  replace: brown
+- trait_name: fruit_colour
+  find: rich vevety-red
+  replace: red
+- trait_name: fruit_colour
+  find: rose pink
+  replace: pink
+- trait_name: fruit_colour
+  find: rose-pink
+  replace: pink
+- trait_name: fruit_colour
+  find: royal blue
+  replace: blue
+- trait_name: fruit_colour
+  find: rugose
+  replace: red
+- trait_name: fruit_colour
+  find: rusty brown scurf
+  replace: brown
+- trait_name: fruit_colour
+  find: rusty or orange
+  replace: red
+- trait_name: fruit_colour
+  find: rusty tomentose
+  replace: red
+- trait_name: fruit_colour
+  find: scarlet
+  replace: red
+- trait_name: fruit_colour
+  find: semi-transparent pink
+  replace: pink
+- trait_name: fruit_colour
+  find: shining balck
+  replace: black
+- trait_name: fruit_colour
+  find: shining reddish
+  replace: red
+- trait_name: fruit_colour
+  find: shiny green turn yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: silky grey-green hairy
+  replace: green
+- trait_name: fruit_colour
+  find: sky-blue or red?
+  replace: ''
+- trait_name: fruit_colour
+  find: thinly velvety brown to dark dull red
+  replace: brown
+- trait_name: fruit_colour
+  find: translucent pink to red
+  replace: red
+- trait_name: fruit_colour
+  find: velvety brown
+  replace: brown
+- trait_name: fruit_colour
+  find: velvety dark yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: velvety pale
+  replace: purple
+- trait_name: fruit_colour
+  find: velvety-red with silvery tinge
+  replace: red
+- trait_name: fruit_colour
+  find: vivid yellow
+  replace: yellow
+- trait_name: fruit_colour
+  find: waxy white tinged red
+  replace: white
+- trait_name: fruit_colour
+  find: white to green
+  replace: green
+- trait_name: fruit_colour
+  find: white to pink to purple to blackish
+  replace: purple
+- trait_name: fruit_colour
+  find: white to pink, yellow, orange or to dark red
+  replace: red
+- trait_name: fruit_colour
+  find: white to pink/purplish
+  replace: pink
+- trait_name: fruit_colour
+  find: white turn pale blue, drying pale brown
+  replace: blue
+- trait_name: fruit_colour
+  find: white turning red and finally black
+  replace: black
+- trait_name: fruit_colour
+  find: white with black spots
+  replace: white
+- trait_name: fruit_colour
+  find: white, cream, rarely tinged purple/pink, dark violet purple tip
+  replace: cream
+- trait_name: fruit_colour
+  find: white, pale green, pink, orange or yellow
+  replace: white
+- trait_name: fruit_colour
+  find: whitish
+  replace: white
+- trait_name: fruit_colour
+  find: whitish above, dark green-purplish below
+  replace: green
+- trait_name: fruit_colour
+  find: whitish and red turning purple and black
+  replace: black
+- trait_name: fruit_colour
+  find: whitish to green
+  replace: green
+- trait_name: fruit_colour
+  find: whitish to pinkish
+  replace: pink
+- trait_name: fruit_colour
+  find: yellow (scales)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow flushed pink turn brilliant orange-red
+  replace: orange
+- trait_name: fruit_colour
+  find: yellow or brown
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow or orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow or orange to red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow or orange-brown
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow or purple-black
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow or red
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow tinge
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow to blood-red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to dark red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to orange
+  replace: orange
+- trait_name: fruit_colour
+  find: yellow to orange or red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to orange or red or dark purple
+  replace: orange
+- trait_name: fruit_colour
+  find: yellow to orange to brownish to red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to orange to crimson
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to orange to purplish red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to orange to red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to ornage
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow to pink to red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to pnk or red
+  replace: pink
+- trait_name: fruit_colour
+  find: yellow to red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to red (seed figs)
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to red then black
+  replace: black
+- trait_name: fruit_colour
+  find: yellow to red to crimson or to purple
+  replace: red
+- trait_name: fruit_colour
+  find: yellow to red, apricot, orange(-brown) flushed pink, blackish brown (dry)
+  replace: brown
+- trait_name: fruit_colour
+  find: yellow to rose-red turn blackish
+  replace: red
+- trait_name: fruit_colour
+  find: yellow turning dark purple
+  replace: purple
+- trait_name: fruit_colour
+  find: yellow turning red
+  replace: red
+- trait_name: fruit_colour
+  find: yellow turning reddish
+  replace: red
+- trait_name: fruit_colour
+  find: yellow with brown margin
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow(-brown) or orange
+  replace: orange
+- trait_name: fruit_colour
+  find: yellow(-green) or yellow-orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow(scales)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, black (dry)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, brown (dry)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, cream-brown (dry)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, golden-brown or red-brown
+  replace: brown
+- trait_name: fruit_colour
+  find: yellow, orange or orange-red
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, orange or red
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, red
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, red, orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow, reddish-brown or orange-brown
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellow-brown or dark rusty
+  replace: brown
+- trait_name: fruit_colour
+  find: yellow-brown to apricot
+  replace: orange
+- trait_name: fruit_colour
+  find: yellow-green turn pinkish to purple to blackish
+  replace: black
+- trait_name: fruit_colour
+  find: yellow-green turn purple
+  replace: purple
+- trait_name: fruit_colour
+  find: yellow-orange
+  replace: orange
+- trait_name: fruit_colour
+  find: yellow/orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish (dry)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish (scales)
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish brown
+  replace: brown
+- trait_name: fruit_colour
+  find: yellowish green
+  replace: green
+- trait_name: fruit_colour
+  find: yellowish or greyish-green
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish or orange
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish or orange; dark brown or reddish-brown (dry)
+  replace: orange
+- trait_name: fruit_colour
+  find: yellowish or pinkish
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish or red
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish or red, dark brown to blackish (dry)
+  replace: red
+- trait_name: fruit_colour
+  find: yellowish orange or red and sometimes finally black
+  replace: black
+- trait_name: fruit_colour
+  find: yellowish to brownish
+  replace: brown
+- trait_name: fruit_colour
+  find: yellowish to orange to pinkish to scarlet to black
+  replace: black
+- trait_name: fruit_colour
+  find: yellowish-green
+  replace: green
+- trait_name: fruit_colour
+  find: yellowish-green (out); whitish (in)
+  replace: green
+- trait_name: fruit_colour
+  find: yellowish-green turning red when dry
+  replace: green
+- trait_name: fruit_colour
+  find: yellowish-green, yellow or red
+  replace: yellow
+- trait_name: fruit_colour
+  find: yellowish-white
+  replace: cream
+- trait_name: fruit_colour
+  find: yellowish?
+  replace: yellow
+- trait_name: fruit_colour
+  find: yelow, brownish
+  replace: yellow
+- trait_name: fruit_dehiscence
+  find: '?'
+  replace: ''
+- trait_name: fruit_dehiscence
+  find: glabrous, woody
+  replace: ''
+- trait_name: fruit_dehiscence
+  find: irregular
+  replace: ''
+- trait_name: fruit_dehiscence
+  find: loculicidally
+  replace: dehiscent
+- trait_name: fruit_dehiscence
+  find: 'n'
+  replace: indehiscent
+- trait_name: fruit_dehiscence
+  find: n or irregular
+  replace: ''
+- trait_name: fruit_dehiscence
+  find: 'y'
+  replace: dehiscent
+- trait_name: fruit_dehiscence
+  find: y?
+  replace: ''
+- trait_name: fruit_type
+  find: ants
+  replace: ''
+- trait_name: fruit_type
+  find: baccate drupe
+  replace: ''
+- trait_name: fruit_type
+  find: bats
+  replace: ''
+- trait_name: fruit_type
+  find: berried carpels
+  replace: ''
+- trait_name: fruit_type
+  find: berry (5 pyrenes)
+  replace: berry
+- trait_name: fruit_type
+  find: berry (capsular)
+  replace: berry
+- trait_name: fruit_type
+  find: berry-like
+  replace: ''
+- trait_name: fruit_type
+  find: berry-like carpel
+  replace: ''
+- trait_name: fruit_type
+  find: berry?
+  replace: berry
+- trait_name: fruit_type
+  find: capsular
+  replace: ''
+- trait_name: fruit_type
+  find: capsule (2-lobed)
+  replace: capsule
+- trait_name: fruit_type
+  find: capsule (loculicid)
+  replace: capsule
+- trait_name: fruit_type
+  find: carpel
+  replace: ''
+- trait_name: fruit_type
+  find: carpel?
+  replace: ''
+- trait_name: fruit_type
+  find: carpels
+  replace: ''
+- trait_name: fruit_type
+  find: compound
+  replace: ''
+- trait_name: fruit_type
+  find: dehiscent
+  replace: ''
+- trait_name: fruit_type
+  find: depressed-globose or slightly oblong
+  replace: ''
+- trait_name: fruit_type
+  find: drupaceous
+  replace: ''
+- trait_name: fruit_type
+  find: drupaceous carpel?
+  replace: ''
+- trait_name: fruit_type
+  find: drupe (berry-like)
+  replace: drupe
+- trait_name: fruit_type
+  find: drupe (nut)
+  replace: drupe
+- trait_name: fruit_type
+  find: drupe (plum-like)
+  replace: drupe
+- trait_name: fruit_type
+  find: drupe-like
+  replace: drupe
+- trait_name: fruit_type
+  find: drupe/ berry
+  replace: ''
+- trait_name: fruit_type
+  find: drupelet
+  replace: ''
+- trait_name: fruit_type
+  find: fake fruit (receptacle)
+  replace: ''
+- trait_name: fruit_type
+  find: frostgrass
+  replace: ''
+- trait_name: fruit_type
+  find: fruiting heads
+  replace: ''
+- trait_name: fruit_type
+  find: fused as syncarps
+  replace: ''
+- trait_name: fruit_type
+  find: fused fruiting heads
+  replace: ''
+- trait_name: fruit_type
+  find: globose
+  replace: ''
+- trait_name: fruit_type
+  find: green
+  replace: ''
+- trait_name: fruit_type
+  find: infructescence
+  replace: multiple_fruit
+- trait_name: fruit_type
+  find: leathery berry or capsule
+  replace: ''
+- trait_name: fruit_type
+  find: lobed
+  replace: ''
+- trait_name: fruit_type
+  find: lobular capsule
+  replace: ''
+- trait_name: fruit_type
+  find: loculicidal capsule
+  replace: capsule
+- trait_name: fruit_type
+  find: loculicidal capsules
+  replace: ''
+- trait_name: fruit_type
+  find: not lobed
+  replace: ''
+- trait_name: fruit_type
+  find: oblong/ ellipsoid
+  replace: ''
+- trait_name: fruit_type
+  find: obovoid
+  replace: ''
+- trait_name: fruit_type
+  find: paired follicles
+  replace: ''
+- trait_name: fruit_type
+  find: pod
+  replace: legume
+- trait_name: fruit_type
+  find: pod-like
+  replace: ''
+- trait_name: fruit_type
+  find: pods
+  replace: legume
+- trait_name: fruit_type
+  find: protected
+  replace: ''
+- trait_name: fruit_type
+  find: pseudocarp
+  replace: ''
+- trait_name: fruit_type
+  find: round
+  replace: ''
+- trait_name: fruit_type
+  find: simple
+  replace: ''
+- trait_name: fruit_type
+  find: simple (bat)
+  replace: ''
+- trait_name: fruit_type
+  find: simple (mammal)
+  replace: ''
+- trait_name: fruit_type
+  find: simple/compound
+  replace: ''
+- trait_name: fruit_type
+  find: spikes?
+  replace: ''
+- trait_name: fruit_type
+  find: subglobose
+  replace: ''
+- trait_name: seed_shape
+  find: almost globose
+  replace: globoid
+- trait_name: seed_shape
+  find: broad ellipsoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: broadly ellipsoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: compressed ovoid
+  replace: ovoid_flattened
+- trait_name: seed_shape
+  find: curved into ring
+  replace: hemispheric_flattened
+- trait_name: seed_shape
+  find: cylindric
+  replace: cylindrical
+- trait_name: seed_shape
+  find: ellippsoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: ellipsoid to globose
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: ellipsoid, flattened
+  replace: ellipsoid_flattened
+- trait_name: seed_shape
+  find: ellipsoid-oblong
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: ellipsoidal
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: elliptic
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: elliptic flattened
+  replace: ellipsoid_flattened
+- trait_name: seed_shape
+  find: elliptic or orbicular
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: elliptic to suboblong
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: elliptic-oblong
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: elongate ovoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: elongated, compressed
+  replace: ellipsoid_flattened
+- trait_name: seed_shape
+  find: flat
+  replace: discoid
+- trait_name: seed_shape
+  find: flat curved
+  replace: discoid
+- trait_name: seed_shape
+  find: flattened
+  replace: discoid
+- trait_name: seed_shape
+  find: flattened elliptic
+  replace: ellipsoid_flattened
+- trait_name: seed_shape
+  find: globose
+  replace: globoid
+- trait_name: seed_shape
+  find: globose or depressed globose
+  replace: globoid
+- trait_name: seed_shape
+  find: globose or flattened
+  replace: globoid_flattened
+- trait_name: seed_shape
+  find: globose to ellipsoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: globose to obovoid
+  replace: globoid
+- trait_name: seed_shape
+  find: globular
+  replace: globoid
+- trait_name: seed_shape
+  find: horseshoe-shaped
+  replace: comma-shaped
+- trait_name: seed_shape
+  find: horseshoe-shaped, narrow
+  replace: comma-shaped
+- trait_name: seed_shape
+  find: kidney-shaped
+  replace: reniform
+- trait_name: seed_shape
+  find: linear
+  replace: cylindrical
+- trait_name: seed_shape
+  find: long flattened
+  replace: discoid
+- trait_name: seed_shape
+  find: long ovoid
+  replace: ovoid_elongated
+- trait_name: seed_shape
+  find: oblique ovoid
+  replace: ovoid
+- trait_name: seed_shape
+  find: obliquely ellipsoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: obliquely triquetrous
+  replace: ''
+- trait_name: seed_shape
+  find: oblong
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: oblong compressed
+  replace: ellipsoid_flattened
+- trait_name: seed_shape
+  find: oblong globose
+  replace: globoid
+- trait_name: seed_shape
+  find: oblong-ellipsoid
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: obovate
+  replace: ovoid
+- trait_name: seed_shape
+  find: obovoid
+  replace: ovoid
+- trait_name: seed_shape
+  find: obovoid to cylindrical
+  replace: ovoid
+- trait_name: seed_shape
+  find: orange-segment-shaped
+  replace: sectoroid
+- trait_name: seed_shape
+  find: oval
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: oval flat
+  replace: ovoid_flattened
+- trait_name: seed_shape
+  find: ovoid convex-concave
+  replace: ovoid_flattened
+- trait_name: seed_shape
+  find: ovoid to ellipsoid
+  replace: ovoid_elongated
+- trait_name: seed_shape
+  find: ovoid to globose
+  replace: ovoid
+- trait_name: seed_shape
+  find: ovoid to round
+  replace: ovoid
+- trait_name: seed_shape
+  find: ovoid, flattened
+  replace: ovoid_flattened
+- trait_name: seed_shape
+  find: ovoid, oblong
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: ovoid, plano-convex, flattened
+  replace: ovoid_flattened
+- trait_name: seed_shape
+  find: pear-shaped
+  replace: ovoid
+- trait_name: seed_shape
+  find: plano-convex
+  replace: hemispheric_flattened
+- trait_name: seed_shape
+  find: planoconvex to subglobular
+  replace: hemispheric_flattened
+- trait_name: seed_shape
+  find: quadrangular-rhombic
+  replace: polyhedral
+- trait_name: seed_shape
+  find: round to broadly ellipsoid
+  replace: globoid
+- trait_name: seed_shape
+  find: rounded
+  replace: ovoid
+- trait_name: seed_shape
+  find: roundish to reniform
+  replace: reniform
+- trait_name: seed_shape
+  find: same as fruit shape
+  replace: ''
+- trait_name: seed_shape
+  find: scutiform
+  replace: discoid
+- trait_name: seed_shape
+  find: semi-ovate, pyriform
+  replace: ovoid
+- trait_name: seed_shape
+  find: semiglobose
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: squarish to reniform
+  replace: reniform
+- trait_name: seed_shape
+  find: straight
+  replace: cylindrical
+- trait_name: seed_shape
+  find: strongly flattened
+  replace: discoid
+- trait_name: seed_shape
+  find: subglobose
+  replace: globoid_flattened
+- trait_name: seed_shape
+  find: subglobular
+  replace: globoid
+- trait_name: seed_shape
+  find: suborbicular
+  replace: globoid
+- trait_name: seed_shape
+  find: subreniform
+  replace: reniform
+- trait_name: seed_shape
+  find: transversely elliptic
+  replace: ellipsoid
+- trait_name: seed_shape
+  find: u-shaped
+  replace: comma-shaped
+- trait_name: seed_shape
+  find: wedge-shaped
+  replace: sectoroid
 taxonomic_updates: .na
 exclude_observations: .na
 questions: .na
