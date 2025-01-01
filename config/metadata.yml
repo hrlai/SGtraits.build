@@ -1,15 +1,16 @@
 metadata:
-  title: 'Trait database for the Singapore flora'
+  title: 'SGtraits: a living trait database for the Singapore flora'
   description: "Work in progress"
+  version: "0.0.1"
   doi: unknown
-  structure_URI: https://github.com/traitecoevo/traits.build
+  structure_URI: https://github.com/hrlai/SGtraits
   geo_location:
-    geo_location_place: unknown
+    geo_location_place: Singapore
     geodetic_datum: EPSG:4326
   language: en
   related_identifiers:
   - related_identifier_type: url 
-    identifier: https://github.com/traitecoevo/traits.build
+    identifier: https://github.com/hrlai/SGtraits
     relation_type: isCompiledBy
     resource_type: dataset
   - related_identifier_type: doi
@@ -20,13 +21,13 @@ metadata:
     identifier: .na
     relation_type: isVersionOf
     resource_type: dataset
-  references: "**publication associated with dataset"
+  references: unknown
   publisher: unknown
-  publication_year: unknown
+  publication_year: 2025
   publication_date: unknown
   license:
     rights: CC-BY-4.0    
-    rights_holder: unknown
+    rights_holder: SGtraits
     rights_URI: https://creativecommons.org/licenses/by/4.0/
     description: Under this license, the material can be copied and redistributed in any medium or format. It can be remixed, transformed, and built upon for any purpose, even commercially. Re-users must give appropriate credit, provide a link to the license, and indicate if changes were made. Re-users may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
   subject:
@@ -36,10 +37,10 @@ metadata:
     - https://linked.data.gov.au/def/anzsrc-for/2020/3103
     - https://linked.data.gov.au/def/anzsrc-for/2020/3104
   funding_reference:
-  - funder_name: Australian Research Data Commons (ARDC)
-    award_IRI: doi.org/10.47486/DP720
-    award_number: DP720
-    award_title: AusTraits, A national database on the traits of Australia's complete flora.
+  - funder_name: unknown
+    award_IRI: unknown
+    award_number: unknown
+    award_title: unknown
   creators: 
   - last_name: Lai
     given_name: Hao Ran
