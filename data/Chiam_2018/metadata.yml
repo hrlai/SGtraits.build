@@ -1,0 +1,56 @@
+source:
+  primary:
+    key: Chiam_2018
+    bibtype: Article
+    year: '2019'
+    author: Zhongyu Chiam and Xiao Ping Song and Hao Ran Lai and Hugh Tiang Wah Tan
+    journal: Science of The Total Environment
+    title: 'Particulate matter mitigation via plants: Understanding complex relationships
+      with leaf traits'
+    volume: '688'
+    pages: 398–408
+    doi: 10.1016/j.scitotenv.2019.06.263
+    issn: 0048-9697
+contributors:
+  data_collectors:
+  - last_name: Chiam
+    given_name: Zhongyu
+    ORCID: unknown
+    affiliation: National University of Singapore
+    additional_role: contact
+  assistants: Xiao Ping Song and Hao Ran Lai
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: 2017/2018
+  taxon_name: Species
+  location_name: unknown
+  individual_id: Plant ID
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Leaf Area_1side
+  unit_in: mm2
+  trait_name: leaf_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: varies
+  methods: For each species, three mature plants were sampled 
+    (60 individuals in total). From each individual, 400--500 cm2 of 
+    mature leaves were collected for the wind-tunnel experiment. 
+    To preserve moisture and integrity, leaves were sealed in resealable 
+    plastic bags upon collection and immediately stored in the 
+    refrigerator upon returning to the laboratory. 
+    All leaves were processed in the laboratory within 24 h of collection.
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
