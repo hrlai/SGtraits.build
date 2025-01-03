@@ -1,3 +1,12 @@
+# This script is intended to be run periodically to update the 
+# config/taxon_list.csv file 
+# The idea is to match SGtraits$taxonomic_updates$original_name to
+# the curated names in floraSG (https://github.com/kwekings/floraSG)
+# This also means that the files in the config/floraSG folder needs to be
+# checked against floraSG to ensure that they are the latest version
+
+# We should implement some automation in the future
+
 library(bdc)
 library(fuzzyjoin)
 
@@ -5,6 +14,7 @@ library(fuzzyjoin)
 # the required gnparser.exe is gitignored
 # https://brunobrr.github.io/bdc/articles/help/installing_gnparser.html
 
+# clean up synonym list of floraSG
 synrefs_tab <- read_delim("config/floraSG/syn_refs.txt", delim = "\t")
 synrefs_clean <-
     synrefs_tab %>%
@@ -21,6 +31,7 @@ synrefs_clean <-
     filter(!is.na(names_clean)) %>% 
     distinct(main_ID, names_clean)
 
+# clean up SGtraits$taxonomic_updates 
 taxon_main_ID <- 
     SGtraits$taxonomic_updates %>% 
     distinct(original_name) %>% 
@@ -34,6 +45,7 @@ taxon_main_ID <-
     distinct(main_ID, scientificName) %>% 
     rename(aligned_name = scientificName)
 
+# clean up main table of floraSG
 main_tab <- 
     read_delim("config/floraSG/main.txt", delim = "\t") %>% 
     select(main_ID,
@@ -57,8 +69,10 @@ main_tab <-
         "yes" ~ "subspecies"),
         .keep = "unused")
 
+# match taxonomy
 taxon_list <- 
     taxon_main_ID %>% 
     left_join(main_tab)
 
+# save output as taxon_list.csv
 write_csv(taxon_list, "config/taxon_list.csv")
