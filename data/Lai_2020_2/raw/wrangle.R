@@ -31,6 +31,10 @@ terminal_area <-
     mutate(`TT_Wood_TA` = as.numeric(`TT_Wood_TA`)) %>% 
     select(`TTwig ID`, `Plant ID`, `TT_Wood_TA`) %>% 
     left_join(ind %>% select(`Plant ID`, Species)) %>% 
+    rename(MID = `TTwig ID`,
+           IID = `Plant ID`,
+           OrgName = Species,
+           TT_Wood_TA = TT_Wood_TA) %>% 
     pivot_longer(cols = TT_Wood_TA,
                  names_to = "Trait",
                  values_to = "OrgVal",
