@@ -73,7 +73,10 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: 5
-  methods: unknown
+  methods: For each species, stomatal conductance of five healthy, 
+    fully developed leaves of from five different adult individual 
+    plants grown under shade were measured and collectedand recorded 
+    (SC-1, Decagon Devices Inc, Pullman, Washington, USA).
 substitutions: .na
 taxonomic_updates: .na
 exclude_observations: .na
