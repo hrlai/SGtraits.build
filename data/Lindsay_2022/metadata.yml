@@ -1,0 +1,66 @@
+source:
+  primary:
+    key: Lindsay_2022
+    bibtype: Article
+    year: '2022'
+    author: Stuart Lindsay and David Middleton and B-C Ho and Kwek Yan Chong and I.
+      Turner and Ali Ibrahim and Marta Alonso García and Wee Foong Ang and P. Ashton
+      and P. Athen and S. Atkins and Bazilah Ibrahim and H. Beentje and C. Boo and
+      Peter Boyce and G. Bramley and Sven Buerki and Martin Callmander and Sahut Chantanaorrapint
+      and K. Er
+    journal: "Gardens' Bulletin Singapore"
+    title: 'Flora of Singapore: Checklist and bibliography'
+    volume: '74'
+    pages: 3--860
+  secondary:
+    key: Chong_2009
+    bibtype: Book
+    year: '2009'
+    author: Kwek Yan Chong and Hugh T. W. Tan and Richard T. Corlett
+    title: 'A Checklist of the Total Vascular Plant Flora of Singapore: Native, Naturalised
+      and Cultivated Species'
+    publisher: Raffles Museum of Biodiversity Research
+contributors:
+  data_collectors:
+  - last_name: Chong
+    given_name: Kwek Yan
+    ORCID: 0000-0003-4754-8957
+    affiliation: National Parks Board Singapore
+    additional_role: contact
+  assistants: unknown
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: 2009/2022
+  taxon_name: Full Names with Authors
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: plant_growth_form
+  unit_in: .na
+  trait_name: plant_growth_form
+  entity_type: species
+  value_type: mode
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Wherever available, the life forms provided in the checklists of 
+    Turner (1995b) were used. Life forms and growth habits in the 
+    LegumeWeb database, the Kew World Checklists, the PIER database 
+    (US Forest Service, Pacific Island Ecosystems at Risk, 2008) and 
+    the e-PROSEA (e-PROSEA, undated) were also referred to. 
+    Life forms of Raunkjaer (1936) used in the Kew World Checklists are 
+    adapted thus hydrophytes, geophytes and hemicryptophytes were treated 
+    as herbs, nanophanerophytes were considered shrubs and 
+    phanerophytes, as trees.
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
