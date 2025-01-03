@@ -1,7 +1,9 @@
 library(bdc)
 library(fuzzyjoin)
 
-# install gnparser somehow here
+# install gnparser here (read the following link)
+# the required gnparser.exe is gitignored
+# https://brunobrr.github.io/bdc/articles/help/installing_gnparser.html
 
 synrefs_tab <- read_delim("config/floraSG/syn_refs.txt", delim = "\t")
 synrefs_clean <-

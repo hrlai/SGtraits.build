@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# gnparser for taxon list curation and cleaning
+gnparser.exe
