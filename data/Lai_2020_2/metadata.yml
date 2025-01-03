@@ -69,6 +69,14 @@ traits:
   basis_of_value: measurement
   replicates: usually 1 and some had more
   methods: unknown
+- var_in: TT_Wood_TA
+  unit_in: cm2
+  trait_name: branch_terminal_twig_cross_sectional_area
+  entity_type: individual
+  value_type: mean
+  basis_of_value: measurement
+  replicates: 3
+  methods: unknown
 substitutions: .na
 taxonomic_updates: .na
 exclude_observations: .na

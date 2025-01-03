@@ -8,6 +8,7 @@ library(readxl)
 # Zhongyu Chiam's twig data
 ind <- read_xlsx("data/Lai_2020_2/raw/WD_Zhongyu.xlsx", sheet = "Individual")
 twig <- read_xlsx("data/Lai_2020_2/raw/WD_Zhongyu.xlsx", sheet = "Main Twig")
+twig_terminal <- read_xlsx("data/Lai_2020_2/raw/WD_Zhongyu.xlsx", sheet = "Terminal Twig")
 
 wd_zy <- 
     twig %>% 
@@ -19,6 +20,18 @@ wd_zy <-
            OrgName = Species,
            WD_twig = MT_WD_twig) %>% 
     pivot_longer(cols = WD_twig,
+                 names_to = "Trait",
+                 values_to = "OrgVal",
+                 values_drop_na = TRUE) %>% 
+    # assign Dataset1 name
+    mutate(Dataset1 = "SG05")
+
+terminal_area <- 
+    twig_terminal %>% 
+    mutate(`TT_Wood_TA` = as.numeric(`TT_Wood_TA`)) %>% 
+    select(`TTwig ID`, `Plant ID`, `TT_Wood_TA`) %>% 
+    left_join(ind %>% select(`Plant ID`, Species)) %>% 
+    pivot_longer(cols = TT_Wood_TA,
                  names_to = "Trait",
                  values_to = "OrgVal",
                  values_drop_na = TRUE) %>% 
@@ -50,7 +63,7 @@ wd_hr <-
 
 # Consolidate -------------------------------------------------------------
 out.twig <- 
-    bind_rows(wd_zy, wd_hr) %>% 
+    bind_rows(wd_zy, wd_hr, terminal_area) %>% 
     # fill in missing species name matches
     mutate(OrgName = ifelse(
         is.na(OrgName),
