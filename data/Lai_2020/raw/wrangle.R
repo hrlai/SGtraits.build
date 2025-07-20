@@ -27,13 +27,12 @@ index <-
 ## aggregate multiple scans to the LeafPart level
 area.agg <- 
     area %>% 
+    filter(!is.na(`Area (Pixels)`),
+           LeafPart != "") %>% 
     mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>% 
     group_by(LeafID, LeafPart) %>% 
-    summarise(Pixels = sum(`Area (Pixels)`, na.rm = TRUE)) %>% 
-    # summarise() returns NAs as zeroes, must correct back to "NA"
-    ungroup() %>% 
-    mutate(Pixels = ifelse(Pixels == 0, NA, Pixels)) %>% 
-    filter(LeafPart != "")
+    summarise(Pixels = sum(`Area (Pixels)`)) %>% 
+    ungroup()
 
 ## aggregate leaf thickness into mean thickness
 thickness.agg <- 
@@ -51,13 +50,32 @@ weight.agg <-
     summarise_at(vars(WW, DW), sum)
 
 ## aggregate multiple petiole measurements into mean per petiole
+# petiole dataset only had scan filenames (I do not remember why)
+# so we need to match the filenames to the leaf ID (in the area dataset)
+# however, it turns out that some leaf ID share the same scan filenames
+# (I also don't remember why)
+# I will remove these cases to minimise matching error (only 17 duplicates)
+duplicated_filenames <- 
+    area %>% 
+    filter(!is.na(`Area (Pixels)`),
+           LeafPart != "") %>% 
+    distinct(LeafID, ScanNrFull) %>% 
+    mutate(LeafID = str_remove(LeafID, fixed(".0"))) %>% 
+    group_by(ScanNrFull) %>% 
+    count() %>% 
+    filter(n > 1)
+
 petiole.agg <- 
     petiole %>% 
     mutate(Label = gsub(".jpg", "", Label)) %>% 
-    left_join(area %>% 
-                  select(LeafID, ScanNrFull) %>% 
-                  mutate(LeafID = str_remove(LeafID, fixed(".0"))), 
-              by = c("Label" = "ScanNrFull")) %>%
+    left_join(
+        area %>% 
+            filter(!ScanNrFull %in% duplicated_filenames$ScanNrFull,
+                   !is.na(`Area (Pixels)`),
+                   LeafPart != "") %>% 
+            distinct(LeafID, ScanNrFull) %>% 
+            mutate(LeafID = str_remove(LeafID, fixed(".0"))), 
+        by = c("Label" = "ScanNrFull")) %>%
     group_by(LeafID) %>% 
     summarise(Length = mean(Length, na.rm = TRUE)) %>% 
     mutate(Length_mm = Length / 118.110236 * 10) %>% 
@@ -79,10 +97,13 @@ out.FER <-
     left_join(thickness.agg) %>% 
     left_join(petiole.agg) %>% 
     # incorporate species names
-    left_join(index %>% select(LeafID, FullTag, CrownPos)) %>% 
+    left_join(index %>% 
+                  # remove a leaf ID that is duplicated for two different trees
+                  filter(LeafID != "2792") %>% 
+                  select(LeafID, FullTag, CrownPos)) %>% 
     # remove trailing ".0" from Leaf and Tree IDs
     # mutate_at(vars(LeafID, FullTag), list(~str_replace(., ".0", ""))) %>% 
-    left_join(species %>% select(FullTag, Species)) %>% 
+    left_join(species %>% distinct(FullTag, Species)) %>% 
     # select LAMINA only
     filter(LeafPart == "L") %>% 
     # change area pixel to mm^2
