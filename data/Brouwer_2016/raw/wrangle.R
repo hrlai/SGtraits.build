@@ -76,7 +76,7 @@ scissor <-
 # Consolidate -------------------------------------------------------------
 out <- 
     index %>%
-    left_join(species %>% select(FullTag, Species)) %>% 
+    left_join(species %>% distinct(FullTag, Species)) %>% 
     select(Dataset2 = Project,
            MID = LeafID,
            IID = FullTag,
