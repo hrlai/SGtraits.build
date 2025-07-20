@@ -1,6 +1,6 @@
 source:
   primary:
-    key: Chiam_2018
+    key: Chiam_2019
     bibtype: Article
     year: '2019'
     author: Zhongyu Chiam and Xiao Ping Song and Hao Ran Lai and Hugh Tiang Wah Tan
@@ -11,6 +11,15 @@ source:
     pages: 398–408
     doi: 10.1016/j.scitotenv.2019.06.263
     issn: 0048-9697
+  secondary:
+    key: Chiam_2018
+    bibtype: Thesis
+    year: 2018
+    author: Zhongyu Chiam
+    title: Leaf-level particulate matter deposition on tropical tree species of 
+      varying leaf traits
+    type: BSc thesis
+    institution: National University of Singapore
 contributors:
   data_collectors:
   - last_name: Chiam

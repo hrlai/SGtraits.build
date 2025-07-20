@@ -13,6 +13,15 @@ source:
     doi: 10.1111/avsc.12548
     issn: 1654-109X
     editor: Guillaume Decocq
+  secondary:
+    key: Tan_2016
+    bibtype: Thesis
+    year: 2016
+    author: Germain Su Yin Tan
+    title: Functional trait differences between exotic and native plant species
+      in novel forests of Singapore
+    type: BSc thesis
+    institution: National University of Singapore
 contributors:
   data_collectors:
   - last_name: Tan
