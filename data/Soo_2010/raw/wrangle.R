@@ -89,6 +89,7 @@ write_csv(out, "data/Soo_2010/data.csv")
 
 # Adding trait value substitutions
 # https://traitecoevo.github.io/traits.build-book/tutorial_dataset_2.html#categorical_substitutions
+# dictionary at https://github.com/traitecoevo/austraits.build/blob/develop/config/traits.yml
 
 dispersal_syndrome_map <- 
     data.frame(
@@ -300,7 +301,7 @@ fruit_colour_map <-
         'greyish-white', "grey",
         'glaucous-white, coffe-brown or black', "grey",
         'orange to red', "red",
-        'sky-blue or red?', "",
+        'sky-blue or red?', NA,
         'yellow/orange', "yellow",
         'yellow to pink to red', "red",
         'yellowish or pinkish', "yellow",
@@ -372,7 +373,7 @@ fruit_colour_map <-
         'light or dark brown or yellow', "brown",
         'yellow or red', "yellow",
         'yellow(-brown) or orange', "orange",
-        'berry', "",
+        'berry', NA,
         'deep blue', "blue",
         'light blue', "blue",
         'greyish blue', "blue",
@@ -396,7 +397,7 @@ fruit_colour_map <-
         'grey-green', "green",
         'green to purple or bluish balck', "green",
         'blue, purple', "blue",
-        'drupe', "",
+        'drupe', NA,
         'pale green turn straw yellow', "yellow",
         'greyish green to dark green turn red to purplish', "red",
         'pink to dark red turn deep purple to blackish with purple juice', "purple",
