@@ -17,9 +17,9 @@ Brouwer_2016_config <- dataset_configure("data/Brouwer_2016/metadata.yml", defin
 Brouwer_2016_raw <- dataset_process("data/Brouwer_2016/data.csv", Brouwer_2016_config, schema, resource_metadata, unit_conversions)
 Brouwer_2016 <- dataset_update_taxonomy(Brouwer_2016_raw, taxon_list)
 
-Chiam_2018_config <- dataset_configure("data/Chiam_2018/metadata.yml", definitions)
-Chiam_2018_raw <- dataset_process("data/Chiam_2018/data.csv", Chiam_2018_config, schema, resource_metadata, unit_conversions)
-Chiam_2018 <- dataset_update_taxonomy(Chiam_2018_raw, taxon_list)
+Chiam_2019_config <- dataset_configure("data/Chiam_2019/metadata.yml", definitions)
+Chiam_2019_raw <- dataset_process("data/Chiam_2019/data.csv", Chiam_2019_config, schema, resource_metadata, unit_conversions)
+Chiam_2019 <- dataset_update_taxonomy(Chiam_2019_raw, taxon_list)
 
 Chong_2010_config <- dataset_configure("data/Chong_2010/metadata.yml", definitions)
 Chong_2010_raw <- dataset_process("data/Chong_2010/data.csv", Chong_2010_config, schema, resource_metadata, unit_conversions)
@@ -64,7 +64,7 @@ Yee_2014 <- dataset_update_taxonomy(Yee_2014_raw, taxon_list)
 
 SGtraits_raw <- austraits::bind_databases(
   Brouwer_2016,
-  Chiam_2018,
+  Chiam_2019,
   Chong_2010,
   Chong_2011,
   Lai_2020,
