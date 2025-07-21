@@ -50,12 +50,15 @@ dataset:
   value: OrgVal
   location_name: PlotID
   individual_id: IID
-  description: unknown
+  description: Opportunistic reproductive traits collected during Hao Ran Lai's
+    PhD period at the National University of Singapore.
   basis_of_record: unknown
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: SDM was first measured from opportunistically collected 
+    seeds and well-preserved specimens in the Singapore Botanic Gardens'
+    Herbarium and the Lee Kong Chian Natural History Museum Herbarium.
   original_file: unknown
-  notes: unknown
+  notes: basis_of_record is a mixture of field and specimen.
 locations: .na
 contexts: .na
 traits:

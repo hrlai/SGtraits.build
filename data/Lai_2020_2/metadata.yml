@@ -30,6 +30,14 @@ source:
     doi: 10.1111/jvs.12753
     issn: 1654-1103
     editor: Alicia Teresa Rosario Acosta
+  secondary2:
+    key: Chiam_2017
+    bibtype: Thesis
+    year: 2017
+    author: Zhongyu Chiam
+    title: An allometric equation to predict bold wood density from twig material
+    type: UROPS thesis
+    institution: National University of Singapore
 contributors:
   data_collectors:
   - last_name: Lai
@@ -52,12 +60,18 @@ dataset:
   value: OrgVal
   location_name: unknown
   individual_id: IID
-  description: unknown
+  description: Twig traits collection led by Hao Ran Lai during PhD with Michiel
+    van Breugel and Hugh Tiang Wah Tan at the National University of Singapore
+    and Yale-NUS College. Later, Zhongyu Chiam was mentored by Hao Ran Lai to 
+    collect more twig wood traits.
   basis_of_record: unknown
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: Opportunistic twig sampling, mostly around Mandai Forest in
+    Singapore. Twigs were mostly ensured to be about 1-cm in diameter. Density
+    was measured using the water displacement method after oven drying.
   original_file: unknown
-  notes: unknown
+  notes: basis_of_record is mostly from field, but may contain some street trees
+    and experimental plantings.
 locations: .na
 contexts: .na
 traits:
@@ -68,7 +82,15 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: usually 1 and some had more
-  methods: unknown
+  methods: For each tree, three main twigs and three terminal twigs as obtained 
+    from three different branches. The collection of main twigs was standardised 
+    to 1–2 cm in diameter while terminal twigs, defined as the last point of 
+    ramification on a branch, were mostly collected at <0.3 cm in diameter.
+    By the means of ater displacement 
+    (Swenson & Enquist 2008; Pérez-Harguindeguy et al. 2013), 
+    the fresh volume of the twig was measured. Twig samples were then dried in 
+    the oven at 70°C for a week until the weight was stable before measuring 
+    their dry weight.
 - var_in: TT_Wood_TA
   unit_in: cm2
   trait_name: branch_terminal_twig_cross_sectional_area
@@ -76,7 +98,12 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: 3
-  methods: unknown
+  methods: For both main and terminal twigs, the bark was removed before 
+    measuring the twig diameter using a digimatic calliper (Absolute digimatic 
+    calliper CD-6 CS, Mitutoyo). To enhance measurement accuracy, twig diameter 
+    was measured three times to obtain the average. The diameter of the 
+    heartwood or the pith, when present, was also measured. All piths were 
+    removed before the fresh weight of the twig was measured. 
 substitutions: .na
 taxonomic_updates: .na
 exclude_observations: .na

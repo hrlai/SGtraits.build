@@ -21,10 +21,10 @@ dataset:
   taxon_name: Species Name
   location_name: Collection Locality
   individual_id: IID
-  description: unknown
-  basis_of_record: unknown
+  description: Seed dry mass collected opportunistically around Singapore.
+  basis_of_record: field
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: Opportunistic field collection.
   original_file: unknown
   notes: unknown
 locations: .na
@@ -37,7 +37,7 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: varies
-  methods: unknown
+  methods: Opportunistic field collection.
 substitutions: .na
 taxonomic_updates: .na
 exclude_observations: .na

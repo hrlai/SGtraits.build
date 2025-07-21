@@ -51,10 +51,10 @@ dataset:
   collection_date: Collection Date
   taxon_name: Species Name
   location_name: Collection Locality
-  description: unknown
-  basis_of_record: unknown
+  description: Opportunistic leaf collection around Singapore.
+  basis_of_record: field
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: Opportunistic leaf collection around Singapore.
   original_file: unknown
   notes: unknown
 locations: .na

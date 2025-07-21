@@ -25,10 +25,22 @@ dataset:
   value: OrgVal
   location_name: unknown
   individual_id: IID
-  description: unknown
-  basis_of_record: unknown
+  description: Undergraduate honours project by Amanda Ng under the supervision
+    of Hugh Tiang Wah Tan, in collaboration with Alex Thiam Koon Yee (NParks) 
+    and mentored by Hao Ran Lai. The aim is to correlate traits to species
+    shade tolerance under the Kepple Viaduct plantings.
+  basis_of_record: field_experiment
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: Leaves of species grown in shade were collected from 
+    HortPark, the National University of Singapore (NUS) Kent Ridge Campus 
+    Science Drive 4, and the National Parks Board Pasir Panjang Nursery 
+    between 0800 hours and 1100 hours. Leaves collected were young, 
+    fully expanded, fully developed leaves from adult plants and had to still 
+    be attached to the twig (Pérez-Harguindeguy et al., 2013). Leaves selected 
+    for measurement and collection were not subjected to herbivory. 
+    The samples were sealed in a zip-lock bag containing water, with the 
+    cut-end of each branch submerged in water, before bringing back to the
+    laboratory for further measurements. 
   original_file: unknown
   notes: unknown
 locations: .na
@@ -41,7 +53,11 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: usually 3
-  methods: unknown
+  methods: Within 24 hours of collection, the fresh weight of each individual 
+    leaf was measured to an accuracy of 0.001g. The fresh weights of the 
+    petiole and lamina were measured separately. Petiole and lamina were 
+    measured separately so that SLA can be calculated based just on the 
+    lamina, or lamina with petiole.
 - var_in: LDMC
   unit_in: mg/mg
   trait_name: leaf_dry_matter_content
@@ -49,7 +65,8 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: usually 3
-  methods: unknown
+  methods: The LDMC for each lamina and petiole was calculated by dividing its 
+    respective dry weight (mg) by its respective fresh weight (g).  
 - var_in: SLA
   unit_in: mm2/mg
   trait_name: leaf_mass_per_area
@@ -57,7 +74,21 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: usually 3
-  methods: unknown
+  methods: Within 24 hours of collection, the fresh weight of each individual 
+    leaf was measured to an accuracy of 0.001g. The fresh weights of the 
+    petiole and lamina were measured separately. Petiole and lamina were 
+    measured separately so that SLA can be calculated based just on the 
+    lamina, or lamina with petiole. Each leaf lamina and petiole were then 
+    gently pressed under a piece of glass in a flatbed scanner (HP Scanjet 
+    G4050 Photo Scanner, USA) and scanned at 300 dots per inch (dpi). 
+    Image processing software ImageJ (Schneider et al., 2012) was used to 
+    calculate the area of each lamina and petiole in pixels. The area in pixels 
+    was then converted to mm2. Once the area measurement was done, the laminas 
+    and petioles were placed in paper bags and into a drying oven for at least 
+    72 hours at 70°C to be dried to a stable weight before measuring the dry 
+    weight to an accuracy of 0.001 g. The SLA of the lamina and for the petiole 
+    was calculated by dividing each lamina and each petiole area by their 
+    respective dry weight (mm2 g-1). 
 - var_in: Th
   unit_in: mm
   trait_name: leaf_thickness
@@ -65,7 +96,10 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: usually 3
-  methods: unknown
+  methods: Lth was then measured at three standardised positions along each 
+    lamina --- base, middle, and tip, using a Mitutoyo micrometer (Mitutoyo 
+    Corporation, Japan). Lth, expressed in mm, is taken to be the average of 
+    the three values measured. This allows for greater accuracy of measurement. 
 - var_in: SC
   unit_in: mmol{H2O}/m2/s
   trait_name: leaf_stomatal_conductance_per_area_ambient
