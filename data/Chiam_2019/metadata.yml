@@ -36,10 +36,22 @@ dataset:
   taxon_name: Species
   location_name: unknown
   individual_id: Plant ID
-  description: unknown
-  basis_of_record: unknown
-  life_stage: unknown
-  sampling_strategy: unknown
+  description: Undergraduate honours project of Zhongyu Chiam, part of an
+    experiment to measure PM deposition on leaves.
+  basis_of_record: field
+  life_stage: adult
+  sampling_strategy: Plant materials were collected from the National University
+    of Singapore Kent Ridge Campus and Central Catchment Nature Reserve. A total 
+    of twenty tropical plant species spanning across 16 families were selected. 
+    Plant species were selected based on the four criteria - lamina roughness, 
+    lamina hairiness, average leaf area and SLA - to allow for a good coverage 
+    of each leaf trait. For each species, three mature individual trees were 
+    sampled, totalling of 60 individuals. From each individual, 400-500 cm2 
+    of mature leaves were collected. To preserve the moisture and integrity of 
+    each batch, leaves were sealed in resealable plastic bags upon collection 
+    and immediately stored in the refrigerator upon returning to the laboratory. 
+    All leaves were processed in the laboratory within 24 hours of collection 
+    as they may be susceptible to water loss.
   original_file: unknown
   notes: unknown
 locations: .na
@@ -62,4 +74,4 @@ traits:
 substitutions: .na
 taxonomic_updates: .na
 exclude_observations: .na
-questions: .na
+questions: Need to consider leaf hairiness data later

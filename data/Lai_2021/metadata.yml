@@ -39,12 +39,22 @@ dataset:
   value: OrgVal
   location_name: unknown
   individual_id: IID
-  description: unknown
+  description: Traits collected during the undergraduate honours study of 
+    Germaine Su Yin Tan, mentored by Hao Ran Lai.
   basis_of_record: unknown
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: Trait collection in the field was carried out from May 2015 to 
+    January 2017 following the standard protocols in Perez-Harguindeguy et al. 
+    (2013). For leaf trait measurements, we collected three mature sun leaves 
+    from 1 to 10 (mean = 5) individual plants to measure SLA, LDMC, and LTh. 
+    Leaf traits were all derived from the lamina (excluding the petiole and 
+    rachis). Twig wood was opportunistically collected mostly around Mandai 
+    Forest, Kent Ridge and NUS. Twigs were mostly ensured to be about 1-cm in 
+    diameter. Density was measured using the water displacement method after 
+    oven drying.
   original_file: unknown
-  notes: unknown
+  notes: basis_of_record is mostly from field, but may contain some street trees
+    and experimental plantings.
 locations: .na
 contexts: .na
 traits:

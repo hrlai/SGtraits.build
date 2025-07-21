@@ -31,11 +31,20 @@ dataset:
   taxon_name: SpeciesOld
   location_name: unknown
   description: unknown
-  basis_of_record: unknown
-  life_stage: unknown
-  sampling_strategy: unknown
+  basis_of_record: field
+  life_stage: adult
+  sampling_strategy: Seeds and fruits were collected between March 1992 and
+    September 1993. Sampling was haphazard and often limited to collection
+    from a single fruiting individual. 
+    No bias in terms of the size of seed or fruit collected was employed. 
+    A minimum of 10 seeds was collected for each species (minimum of 100 for 
+    species of mean seed dry mass < 1 mg), except in the cases of 
+    Anisoptera costata and Uvaria leptopoda (6 only). 
   original_file: unknown
-  notes: unknown
+  notes: Voucher specimens for most species are lodged at the Botany Department 
+    herbarium, National University of Singapore (SINU). Nomenclature for 
+    species follows Whitmore (1972b) and Turner et al. (1990) for Singapore 
+    and Ashton (1968) and Whitmore (1975) for Brunei and Sarawak.
 locations: .na
 contexts: .na
 traits:
@@ -46,13 +55,7 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: 10
-  methods: Seeds and fruits were collected between March 1992 and
-    September 1993. Sampling was haphazard and often limited to collection
-    from a single fruiting individual. 
-    No bias in terms of the size of seed or fruit collected was employed. 
-    A minimum of 10 seeds was collected for each species (minimum of 100 for 
-    species of mean seed dry mass < 1 mg), except in the cases of Anisoptera costata 
-    and Uvaria leptopoda (6 only). All seeds were cleaned and then dried for 
+  methods: All seeds were cleaned and then dried for 
     48 h at 80°C; dry mass values were determined for single seeds or known 
     numbers of seeds on an electronic balance to a precision of 0.1 mg. 
     The values quoted have been rounded off to two significant figures.

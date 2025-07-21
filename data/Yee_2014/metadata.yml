@@ -22,8 +22,9 @@ dataset:
   taxon_name: Species1
   location_name: Plot
   individual_id: Tree_ID
-  description: unknown
-  basis_of_record: unknown
+  description: Opportunistic leaf collection around Singapore, when Alex Yee
+    was setting up the Mandai windstorm forest study.
+  basis_of_record: field
   life_stage: unknown
   sampling_strategy: unknown
   original_file: unknown

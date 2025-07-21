@@ -25,10 +25,41 @@ dataset:
   value: OrgVal
   location_name: unknown
   individual_id: IID
-  description: unknown
-  basis_of_record: unknown
-  life_stage: unknown
-  sampling_strategy: unknown
+  description: This dataset originated from Rens Brouwer who visited Michiel van Breugel 
+    at Yale-NUS College for an undergraduate study. The assistant team was part of the
+    lab group back then. The main project measures a set of leaf toughness traits using
+    equipments built by Peter Lucas.
+  basis_of_record: field
+  life_stage: adult
+  sampling_strategy: In total 27 different dicotyledonous angiosperms species 
+    were selected out of 41 candidate species for this research. Species were 
+    selected on their common abundance in Singapore; all are abundant species 
+    in disturbed, secondary forest, areas in Singapore. Furthermore the species
+    were chosen to represent a wide range of leaf characteristics. 
+    Identification was done in the field or in the laboratory with the help
+    of Hao Ran Lai. Leaves were collected in Singapore from tropical secondary 
+    forests at Mandai, Kent Ridge and the tree collection on the campus of the 
+    National University of Singapore and Yale-NUS College. The location where 
+    the measurements took place and where the leaves were processed was the 
+    NERI-Yale-NUS laboratory. The sampling and measurement methodology of this 
+    study followed largely the protocols of Pérez-Harguindeguy et al. (2013) 
+    Leaf samples were generally collected between 8:00am and 12:00am. 
+    Only foliage growing in full sun, so called sun leaves, was selected 
+    for sampling, usually from a height of 2-6 m. For some understory species 
+    (e.g. Clidemia hirta, and Cinnamomum iners) it was difficult to collect 
+    sun leaves, so in some cases shade leaves were measured. Leaves and twigs
+    were placed in sealed plastic bags with moist tissue paper to minimize 
+    ranspiration during collection and transport. Usually samples were tested 
+    that same day, or at least within 24 hours of collection. Leaves waiting 
+    for measurements and processing were stored at a temperature of 4°C, 
+    in plastic bags with some water to get them fully (re)-hydrated. 
+    For all trait measurements, young-to-medium aged but fully expanded and
+    hardened leaves without obvious symptoms of pathogens or herbivory, or 
+    a substantial cover of epiphylls were selected. Maturity was assessed 
+    in terms of colour, lamina thickness, manually determined texture and 
+    position on shoot. Traits were measured on a minimal of six individuals 
+    per species and on eight leaves per plant for leaf toughness and on 
+    three individuals per species and two leaves per plant for leaf morphology.
   original_file: unknown
   notes: unknown
 locations: .na
@@ -84,7 +115,7 @@ traits:
   value_type: mean
   basis_of_value: measurement
   replicates: unknown
-  methods: These tests were done using a flar
+  methods: These tests were done using a flat
     punching rod. The tests were conducted with the FLS-1 mechanical tester. First leaf
     thickness at the punch position was measured with a micro meter. Next the leaf was
     mounted in the FLS-1 and primary and secondary veins were avoided when

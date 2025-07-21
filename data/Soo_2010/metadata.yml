@@ -67,7 +67,7 @@ contributors:
     given_name: Wai Kit
     ORCID: unknown
     affiliation: National University of Singpore
-  assistants: unknown
+  assistants: Kwek Yan Chong
   dataset_curators: Hao Ran Lai
 dataset:
   data_is_long_format: no
@@ -75,10 +75,67 @@ dataset:
   collection_date: 2009/2010
   taxon_name: Name.auth
   location_name: unknown
-  description: unknown
-  basis_of_record: unknown
+  description: Undergraduate honours project of Wai Kit Soo.
+  basis_of_record: literature
   life_stage: unknown
-  sampling_strategy: unknown
+  sampling_strategy: For the collection of fruit characteristics, the data was 
+    obtained from a variety of literature. All angiosperms native to Singapore 
+    listed in Chong et al. (2009) were included in the initial data-collection 
+    phase of this study. The local conservation status of each plant species 
+    was also based on this list. The taxonomic classification and nomenclature 
+    was adopted from the Angiosperm Phylogeny Group (Stevens, 2001 onwards).
+    This list was later restricted to known and inferred animal-dispersed 
+    angiosperms native to Singapore.
+    For fruit size, the main sources of reference were from the botanical series of the
+    Flora Malesiana Series I (1991-2007), The Tree Flora of Sabah and Sarawak (1991-2007),
+    The Flora of Malay Peninsula (Ridley, 1922) and Tree Flora of Malaya (Whitmore, 1972a,
+    b; Ng, 1978, 1989). Fruit ‘length’ is defined as the longest axis for a fruit whereas ‘width’
+    was taken to be the second largest axis perpendicular to ‘length’ (Mazer and Wheelwright,
+    1993). In this study, the term fruit does not follow the usual histological terminology but
+    rather follows an ecological or functional definition whereby a ‘fruit’ is the basic dispersal
+    unit consumed by a frugivore. For example, the enlarged receptacle of some dioecious fig
+    plants (genus Ficus) would be considered a ‘fruit’ although it is not a true fruit in the
+    histological sense because it is the enlarged receptacle together with the ovules that is
+    consumed whole by an avian frugivore. For dehiscent fruits that expose seeds with an aril
+    (such as those from the families Magnoliaceae or Celastraceae), only the seed with aril was
+    treated as the ‘fruit’ and not the capsule itself as arillate seeds are removed individually
+    (Kominami et al., 2003; Kitamura et al., 2004b).
+    For subsequent analysis, fruit width was used (for non-globular fruits) as it is the
+    dimension which limits the ease of swallowing of a fruit by birds instead of the fruit length
+    (Wheelwright, 1985; Debussche and Isenmann, 1989; Mazer and Wheelwright, 1993). In
+    cases where a range of sizes was reported, the median value was taken as the fruit width for
+    that particular species (Dennis and Westcott, 2006).
+    Assuming a linear relationship between fruit width and length, a linear equation was
+    derived from a linear regression curve plotted for fruit width versus fruit length, using all
+    simple fruits with known length and width data (Figure 6). This equation was used to
+    estimate the widths of fruits from those species that were described as “ellipsoid” and
+    lacking fruit width data but fruit length data were available (Yoshikawa et al., 2009).
+    Though a non-linear relationship is possible, this option was not used (refer to explanation
+    in section 3.2.1). For fruits without both width and length data, a width value was assigned
+    using the average width value obtained from all other species in the same genus whenever
+    possible. The remaining species that lacked data after the above substitutions were
+    excluded from the following analyses. As for dehiscent fruits, a similar substitution was
+    done on seed dimensions using available seed length and width data of all dehiscent fruits.
+    Other fruit characteristics obtained whenever possible included fruit type, fruit
+    shape, fruit colour, dehiscence, pericarp thickness, presence of aril, seed length and width,
+    seed shape and seed colour. These characteristics were used later to help assign the
+    dispersal modes of the various angiosperm species.
+    The dispersal modes of all native plant species were determined using data collected
+    for a previous study (Sodhi et al., 2008). Fruits dispersed via vertebrate endozoochory tend
+    to be larger than wind-dispersed fruits (Primack, 1987). A plant species was considered to
+    be potentially bird-dispersed (via endozoochory) if its fruit possessed the following
+    adaptive ornithochorous morphological characteristics or "syndromes" --- fruits that are
+    relatively rounded in shape, with conspicuous colours (red, black or purple) and with a
+    persistent fleshy, soft and edible portion (pericarp, perianth, aril, or receptacle) or seeds
+    with a lipid-rich seed coat (van der Pijl, 1982; Janson, 1983; Gautier-Hion et al., 1985;
+    Wheelwright and Janson, 1985; Debussche and Isenmann, 1989; Corlett, 1996). These
+    include fruits that are small, soft, fleshy and easy to swallow (termed henceforth as ‘simple’
+    fruits) and seeds from dehiscent fruits that have an aril (refer to Appendix Figure a). We
+    excluded plants with fruits that were non-dehiscent capsules, require manual handling for
+    consumption, or were protected with thick epicarps or spines because only larger
+    vertebrates such as mammals are strong enough to pull apart fruits such as durians (Durio)
+    or jack-fruits (Artocarpus) (Primack, 1987). Only species assigned as potentially bird-
+    dispersed will be used for further analysis in this study.
   original_file: unknown
   notes: unknown
 identifiers: .na
