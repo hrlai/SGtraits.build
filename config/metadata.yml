@@ -2,7 +2,7 @@ metadata:
   title: 'SGtraits: a living trait database for the Singapore flora'
   description: "Work in progress"
   version: "0.0.2"
-  doi: unknown
+  doi: https://doi.org/10.5281/zenodo.16249456
   geo_location:
     geo_location_place: Singapore
     geodetic_datum: EPSG:4326
