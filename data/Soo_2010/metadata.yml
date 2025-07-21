@@ -81,6 +81,7 @@ dataset:
   sampling_strategy: unknown
   original_file: unknown
   notes: unknown
+identifiers: .na
 locations: .na
 contexts: .na
 traits:
@@ -287,7 +288,7 @@ substitutions:
   replace: grey
 - trait_name: fruit_colour
   find: berry
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_colour
   find: black or purple
   replace: black
@@ -491,7 +492,7 @@ substitutions:
   replace: orange
 - trait_name: fruit_colour
   find: drupe
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_colour
   find: dull dark blue
   replace: blue
@@ -1013,7 +1014,7 @@ substitutions:
   replace: green
 - trait_name: fruit_colour
   find: sky-blue or red?
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_colour
   find: thinly velvety brown to dark dull red
   replace: brown
@@ -1292,13 +1293,13 @@ substitutions:
   replace: yellow
 - trait_name: fruit_dehiscence
   find: '?'
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_dehiscence
   find: glabrous, woody
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_dehiscence
   find: irregular
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_dehiscence
   find: loculicidally
   replace: dehiscent
@@ -1307,25 +1308,25 @@ substitutions:
   replace: indehiscent
 - trait_name: fruit_dehiscence
   find: n or irregular
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_dehiscence
   find: 'y'
   replace: dehiscent
 - trait_name: fruit_dehiscence
   find: y?
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: ants
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: baccate drupe
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: bats
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: berried carpels
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: berry (5 pyrenes)
   replace: berry
@@ -1334,16 +1335,16 @@ substitutions:
   replace: berry
 - trait_name: fruit_type
   find: berry-like
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: berry-like carpel
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: berry?
   replace: berry
 - trait_name: fruit_type
   find: capsular
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: capsule (2-lobed)
   replace: capsule
@@ -1352,28 +1353,28 @@ substitutions:
   replace: capsule
 - trait_name: fruit_type
   find: carpel
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: carpel?
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: carpels
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: compound
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: dehiscent
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: depressed-globose or slightly oblong
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: drupaceous
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: drupaceous carpel?
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: drupe (berry-like)
   replace: drupe
@@ -1388,97 +1389,97 @@ substitutions:
   replace: drupe
 - trait_name: fruit_type
   find: drupe/ berry
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: drupelet
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: fake fruit (receptacle)
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: frostgrass
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: fruiting heads
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: fused as syncarps
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: fused fruiting heads
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: globose
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: green
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: infructescence
   replace: multiple_fruit
 - trait_name: fruit_type
   find: leathery berry or capsule
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: lobed
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: lobular capsule
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: loculicidal capsule
   replace: capsule
 - trait_name: fruit_type
   find: loculicidal capsules
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: not lobed
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: oblong/ ellipsoid
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: obovoid
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: paired follicles
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: pod
   replace: legume
 - trait_name: fruit_type
   find: pod-like
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: pods
   replace: legume
 - trait_name: fruit_type
   find: protected
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: pseudocarp
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: round
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: simple
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: simple (bat)
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: simple (mammal)
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: simple/compound
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: spikes?
-  replace: ''
+  replace: .na.character
 - trait_name: fruit_type
   find: subglobose
-  replace: ''
+  replace: .na.character
 - trait_name: seed_shape
   find: almost globose
   replace: globoid
@@ -1589,7 +1590,7 @@ substitutions:
   replace: ellipsoid
 - trait_name: seed_shape
   find: obliquely triquetrous
-  replace: ''
+  replace: .na.character
 - trait_name: seed_shape
   find: oblong
   replace: ellipsoid
@@ -1664,7 +1665,7 @@ substitutions:
   replace: reniform
 - trait_name: seed_shape
   find: same as fruit shape
-  replace: ''
+  replace: .na.character
 - trait_name: seed_shape
   find: scutiform
   replace: discoid
