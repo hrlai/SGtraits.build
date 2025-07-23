@@ -1,0 +1,59 @@
+Thank you for contributing data to SGtraits! 
+
+Please fill in the information below as much as you can for us to populate 
+the metadata of your dataset. This helps everyone to use and cite your dataset
+appropriately. Lines with asterisk (*) are key information, whereas those 
+with hyphen (-) are optional.
+
+Please return the filled form to database maintainer Lai Hao Ran
+hrlai.ecology@gmail.com
+
+-----------------------------------------------------
+
+* DOI of your study:
+
+You can provide multiple DOIs (please state which one should be label "primary")
+Examples are published articles, theses and published datasets registered with
+an DOI. If your dataset do not have an DOI, we recommend that you register one
+(e.g., on Zenodo; you can do it later and inform us to update your metadata).
+
+- Citation for your dataset (if DOI is unavailable): 
+
+List of contributors (can be multiple people)
+* data_collectors:
+    last_name: 
+    given_name: 
+    ORCID: 
+    affiliation:
+- assistants: (if any)
+
+* collection_date:
+
+Collection date does not have to be exact; can be (range of) month-year
+
+* description: 
+
+A short description about your dataset in a few sentence. It can be about the
+background of the study, the original intention, whether this is part of a
+student's or larger project etc. This can also be the abstract of your published
+article.
+
+* sampling_strategy:
+
+A description of how sites and sampling protocols were chosen. Can generally 
+be taken verbatim from the methods section of a manuscript.
+
+* traits: 
+
+For every traits, please list its:
+* variable / column name
+* unit of measurement
+* the ecological hierarchy that is was measured: 
+  individual / population / species / genus / other (please specify)
+* value type:
+  raw value / mean / minimum / maximum / categorical / range / bin / other (please specify)
+* replicates: 
+* methods: 
+  A short text documenting the methods used to collect the trait measurements
+  
+- Any other notes that you would like us to be aware of
