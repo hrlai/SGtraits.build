@@ -57,21 +57,21 @@ dataset:
   value: OrgVal
   location_name: unknown
   individual_id: IID
-  description: Leaf traits collection led by Hao Ran Lai during PhD with Michiel
-    van Breugel and Hugh Tiang Wah Tan at the National University of Singapore
-    and Yale-NUS College.
+  description: Leaf traits collection led by Hao Ran Lai during PhD with Michiel van
+    Breugel and Hugh Tiang Wah Tan at the National University of Singapore and Yale-NUS
+    College.
   basis_of_record: unknown
   life_stage: unknown
-  sampling_strategy: The collection of traits in the study site was carried out 
-    during May 2015–January 2017 following standard protocols in 
-    Perez-Harguindeguy et al. (2013). For leaf traits, we collected three mature
-    sun leaves from 1 to 10 (median = 6) individual plants to measure SLA, LDMC
-    and LTh. For strictly understorey species, we collected the shade leaves. 
-    Leaf traits were all derived from the lamina, excluding the petiole and 
-    rachis.
+  sampling_strategy: The collection of traits in the study site was carried out during
+    May 2015–January 2017 following standard protocols in Perez-Harguindeguy et al.
+    (2013). For leaf traits, we collected three mature sun leaves from 1 to 10 (median
+    = 6) individual plants to measure SLA, LDMC and LTh. For strictly understorey
+    species, we collected the shade leaves. Leaf traits were all derived from the
+    lamina, excluding the petiole and rachis.
   original_file: unknown
-  notes: basis_of_record is mostly from field, but may contain some street trees
-    and experimental plantings.
+  notes: basis_of_record is mostly from field, but may contain some street trees and
+    experimental plantings.
+identifiers: .na
 locations: .na
 contexts: .na
 traits:

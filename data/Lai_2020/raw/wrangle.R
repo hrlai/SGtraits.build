@@ -192,6 +192,8 @@ out.PJ <-
     rename(MID = LeafID,
            IID = FullTag,
            OrgName = Species) %>% 
+    # remove mis-ID data
+    filter(!IID %in% c("PALAOB1", "PALAOB2", "PALAOB3")) %>% 
     # assign Dataset2 name
     mutate(Dataset2 = "SG01_PJ")
 
