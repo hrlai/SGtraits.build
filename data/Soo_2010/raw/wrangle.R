@@ -1,6 +1,7 @@
 # Packages ----------------------------------------------------------------
 library(tidyverse)
 library(readxl)
+library(APCalign)
 
 
 
@@ -86,6 +87,49 @@ out <-
     left_join(fruit_cont)
 
 write_csv(out, "data/Soo_2010/data.csv")
+
+# Taxonomic updates
+# Soo 2010 used full species names with authorship
+# I will strip the authorship from specie names to ease nomenclature curation
+
+# clean up main table of floraSG
+floraSG_main <- 
+    read_delim("config/floraSG/main.txt", delim = "\t") %>% 
+    select(main_ID,
+           aligned_name = `Full Name without Authors`,
+           scientific_name = `Full Names with Authors`,
+           division = Division,
+           class = Class,
+           order = Order,
+           family = `Family (Current)`,
+           status = `Status (2022)`,
+           `Infraspecific taxon`,
+           IPNI_ID,
+           IPNI_url) %>% 
+    mutate(taxon_rank = case_match(
+        `Infraspecific taxon`,
+        "f." ~ "form",
+        "n/a" ~ "species",
+        "no" ~ "species",
+        "no subsp." ~ "species",
+        "var." ~ "variety",
+        "yes" ~ "subspecies"),
+        .keep = "unused") %>% 
+    filter(!is.na(aligned_name))
+
+# a table of matched names
+names_aligned <- 
+    out %>% 
+    select(find = Name.auth) %>% 
+    mutate(
+        replace = 
+            APCalign:::fuzzy_match(
+                find,
+                floraSG_main$aligned_name,
+                max_distance_abs = 10,
+                max_distance_rel = 1
+            )
+    )
 
 # Adding trait value substitutions
 # https://traitecoevo.github.io/traits.build-book/tutorial_dataset_2.html#categorical_substitutions
