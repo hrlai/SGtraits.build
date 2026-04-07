@@ -1,0 +1,123 @@
+Thank you for contributing data to SGtraits! 
+
+Please fill in the information below as much as you can for us to populate 
+the metadata of your dataset. This helps everyone to use and cite your dataset
+appropriately. Lines with asterisk (*) are key information, whereas those 
+with hyphen (-) are optional.
+
+Please return the filled form to database maintainer Lai Hao Ran
+hrlai.ecology@gmail.com
+
+-----------------------------------------------------
+
+* DOI of your study:
+
+You can provide multiple DOIs (please state which one should be label "primary")
+Examples are published articles, theses and published datasets registered with
+an DOI. If your dataset do not have an DOI, we recommend that you register one
+(e.g., on Zenodo; you can do it later and inform us to update your metadata).
+
+- Citation for your dataset (if DOI is unavailable): 
+Leong, F. W. S. (2026). Demographic inference in tropical forests: from noisy data to ecological insights [Unpublished doctoral dissertation]. National University of Singapore.   
+
+
+List of contributors (can be multiple people)
+* data_collectors:
+    last_name: Leong
+    given_name: Felicia Wei Shan
+    ORCID: 0009-0008-0575-5644
+    affiliation: Department of Biological Sciences, National University of Singapore; Centre for Nature-based Climate Solutions, National University of Singapore
+
+    last_name: Chua
+    given_name: Matthias Seng En
+    ORCID: 0009-0007-5527-3443
+    affiliation: Department of Biological Sciences, National University of Singapore; Centre for Nature-based Climate Solutions, National University of Singapore
+
+    last_name: Ngiam
+    given_name: Jia Jun
+    ORCID: 0000-0002-3237-490X
+    affiliation: School of Biological Sciences, Nanyang Technological University; Singapore Botanic Gardens, National Parks Board Singapore
+
+    last_name: Sim
+    given_name: Hong Jhun
+    ORCID: 0000-0001-6258-1558
+    affiliation: Department of Biological Sciences, National University of Singapore; Centre for Nature-based Climate Solutions, National University of Singapore
+
+    last_name: Ong
+    given_name: Alicia
+    ORCID: 0009-0007-7387-017X
+    affiliation: Department of Biological Sciences, National University of Singapore; Centre for Nature-based Climate Solutions, National University of Singapore
+
+    last_name: Bang
+    given_name: Wen Han
+    ORCID: 
+    affiliation: Department of Biological Sciences, National University of Singapore; Centre for Nature-based Climate Solutions, National University of Singapore
+
+    last_name: Lim
+    given_name: Jun Ying 
+    ORCID: 0000-0001-7493-2159
+    affiliation: Department of Biological Sciences, National University of Singapore; Centre for Nature-based Climate Solutions, National University of Singapore
+
+- assistants: Angelica See, Adrian Dwiputra, Shynn Lim, Liang Hanci
+
+* collection_date:
+June 2022 - Feb 2023
+
+* description: 
+This dataset was compiled as part of a PhD thesis chapter investigating how trait-mediated competition among tropical tree species is shaped by forest vertical structure. Leaf and wood economic traits were measured for 20 abundant tree species at the Bukit Timah Forest Dynamics Plot in Singapore and integrated with long-term forest census data. The central aim was to examine whether the same functional trait differences between competing species promote niche differentiation or competitive hierarchies depending on where those species sit along the vertical gradient, using maximum tree height as an axis of vertical niche and life-history strategy.
+
+* sampling_strategy:
+Traits were sampled for the 20 most stem-abundant tree species at the Bukit Timah Forest Dynamics Plot, collectively representing approximately 52% of all stems. For each species, 2–5 mature individuals were sampled within Bukit Timah Nature Reserve. Individuals were selected to represent typical adult size classes, restricted to those with diameter at breast height (DBH) above the 60th percentile of conspecific DBH within the plot, and individuals showing signs of herbivory, disease, or recent physical disturbance were excluded. Sun-exposed leaves were collected using a pole pruner (or shaded leaves for known understory species), with 5–8 leaves sampled per individual to account for within-crown variation. A single branch sample (1.5–4 cm diameter) was collected from individuals (where available) for wood density measurements.
+
+* traits: 
+* leaf dry matter content (lamina_ldmc, full_ldmc)
+* mg/g
+* individual
+* mean
+* >=5
+* Leaves were rehydrated by wrapping leaves with soaked paper towels and left overnight at 4°C prior to measurement. For compound leaves, we measured individual leaflets, but pooled measurements together to obtain leaf-level data. Fresh leaf mass after rehydration was recorded immediately after removal from rehydration bags. Leaves were then oven-dried at 70°C for at least 1 week until reaching constant mass, and dry mass was recorded to the nearest 0.001 g using an analytical balance. LDMC was calculated as oven-dried leaf mass divided by fresh saturated mass. For each leaf, we calculated the LDMC of just the lamina (lamina_ldmc), as well as of the full leaf including the petiole (full_ldmc). Values represent means for each individual across all leaf samples. 
+
+* specific leaf area (lamina_sla, full_sla)
+* cm^2/g
+* individual
+* mean
+* >=5
+* Leaves were rehydrated by wrapping leaves with soaked paper towels and left overnight at 4°C prior to measurement. For compound leaves, we measured individual leaflets, but pooled measurements together to obtain leaf-level data. Rehydrated leaves were flattened and photographed against a light box to obtain clear silhouettes, and leaf area was quantified from these images using ImageJ. Leaves were then oven-dried at 70°C for at least 1 week until reaching constant mass, and dry mass was recorded to the nearest 0.001 g using an analytical balance. SLA was calculated as fresh leaf area divided by oven-dried leaf mass. For each leaf, we calculated the SLA of just the lamina (lamina_sla), as well as of the full leaf including the petiole (full_sla). Values represent means for each individual across all leaf samples. 
+
+* leaf nitrogen content (N)
+* % w/w
+* individual
+* raw value
+* 1
+* Dried leaf material was ground to a fine powder using a tissue grinder. For each individual, we pooled leaf material (leaf discs punched from each leaf sample) for each individual. Leaf nitrogen concentration [N] was determined using a CHNS analyzer. Chemical analyses were conducted by the Elemental Analysis Lab at the National University of Singapore. 
+
+* leaf carbon content (C)
+* % w/w
+* individual
+* raw value
+* 1
+* Dried leaf material was ground to a fine powder using a tissue grinder. For each individual, we pooled leaf material (leaf discs punched from each leaf sample) for each individual. Leaf nitrogen [N] and carbon concentration [C] was determined using a CHNS analyzer. Chemical analyses were conducted by the Elemental Analysis Lab at the National University of Singapore. 
+
+* leaf phosphorus (P)
+* % w/w
+* individual
+* raw value
+* 1
+* Dried leaf material was ground to a fine powder using a tissue grinder. For each individual, we pooled leaf material (leaf discs punched from each leaf sample) for each individual. Leaf phosphorus [P] and potassium [K] concentrations were determined using ICP-OES following acid digestion. Chemical analyses were conducted by the Elemental Analysis Lab at the National University of Singapore. 
+
+* leaf potassium (K)
+* % w/w
+* individual
+* raw value
+* 1
+* Dried leaf material was ground to a fine powder using a tissue grinder. For each individual, we pooled leaf material (leaf discs punched from each leaf sample) for each individual. Leaf phosphorus [P] and potassium [K] concentrations were determined using ICP-OES following acid digestion. Chemical analyses were conducted by the Elemental Analysis Lab at the National University of Singapore. 
+
+* twig wood density (TWD)
+* g/cm^3
+* individual
+* mean
+* 1
+* Branch segments (1.5–4 cm diameter, 10 cm long) were collected from the outer canopy of each sampled individual. We removed bark and fresh volume was determined using the water displacement method. Each twig sample was then split into half and the heartwood of the samples was removed. Samples were oven-dried at 70°C for at least 72 hours until reaching constant mass, and dry mass was recorded to the nearest 0.001 g. Wood density was calculated as oven-dried mass divided by fresh volume. 
+
+- Any other notes that you would like us to be aware of
+-The file leafchem_individual.csv containing data of leaf chemical content includes additional columns H and S which represents hydrogen and sulphur concentrations from the CHNS analysis results. 

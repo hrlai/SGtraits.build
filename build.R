@@ -45,6 +45,10 @@ Lai_2021_config <- dataset_configure("data/Lai_2021/metadata.yml", definitions)
 Lai_2021_raw <- dataset_process("data/Lai_2021/data.csv", Lai_2021_config, schema, resource_metadata, unit_conversions)
 Lai_2021 <- dataset_update_taxonomy(Lai_2021_raw, taxon_list)
 
+Leong_2026_config <- dataset_configure("data/Leong_2026/metadata.yml", definitions)
+Leong_2026_raw <- dataset_process("data/Leong_2026/data.csv", Leong_2026_config, schema, resource_metadata, unit_conversions)
+Leong_2026 <- dataset_update_taxonomy(Leong_2026_raw, taxon_list)
+
 Metcalfe_1995_config <- dataset_configure("data/Metcalfe_1995/metadata.yml", definitions)
 Metcalfe_1995_raw <- dataset_process("data/Metcalfe_1995/data.csv", Metcalfe_1995_config, schema, resource_metadata, unit_conversions)
 Metcalfe_1995 <- dataset_update_taxonomy(Metcalfe_1995_raw, taxon_list)
@@ -71,6 +75,7 @@ SGtraits_raw <- austraits::bind_databases(
   Lai_2020_2,
   Lai_2020_3,
   Lai_2021,
+  Leong_2026,
   Metcalfe_1995,
   Ng_2017,
   Soo_2010,
