@@ -1,0 +1,607 @@
+source:
+  primary:
+    key: Rahman_2023
+    bibtype: Article
+    year: "2023"
+    author:
+      Nur E. B. Rahman and Stuart W. Smith and Weng Ngai Lam and Kwek Yan Chong
+      and Matthias S. E. Chua and Pei Yun Teo and Daniel W. J. Lee and Shi Yu
+      Phua and Cheryl Y. Aw and Janice S. H. Lee and David A. Wardle
+    journal: New Phytologist
+    title:
+      Leaf decomposition and flammability are largely decoupled across species
+      in a tropical swamp forest despite sharing some predictive leaf functional
+      traits
+    volume: "238"
+    number: "2"
+    pages: 598611
+    doi: 10.1111/nph.18742
+    issn: 1469-8137
+contributors:
+  data_collectors:
+    - last_name: Rahman
+      given_name: Nur Estya
+      ORCID: 0000-0002-6274-1205
+      affiliation:
+        Asian School of the Environment, Nanyang Technological University
+    - last_name: Rahman
+      given_name: Nur Estya
+      ORCID: 0000-0002-6274-1205
+      affiliation: Asian School of the Environment, Nanyang Technological
+      additional_role: contact
+    - last_name: Lam
+      given_name: Weng Ngai
+      ORCID: 0000-0002-1188-1363
+      affiliation: Asian School of the Environment, Nanyang Technological
+    - last_name: Chua
+      given_name: Matthias S. E.
+      ORCID: .na
+      affiliation:
+        Asian School of the Environment, Nanyang Technological; Department of
+        Biological Sciences, National University ofSingapore
+    - last_name: Teo
+      given_name: Pei Yun
+      ORCID: .na
+      affiliation: Asian School of the Environment, Nanyang Technological
+    - last_name: Phua
+      given_name: Shi Yu
+      ORCID: .na
+      affiliation: Asian School of the Environment, Nanyang Technological
+    - last_name: Lee
+      given_name: Daniel W. J.
+      ORCID: 0000-0002-3251-6808
+      affiliation: Asian School of the Environment, Nanyang Technological
+    - last_name: Aw
+      given_name: Cheryl Y.
+      ORCID: .na
+      affiliation: Asian School of the Environment, Nanyang Technological
+  assistants:
+    Stuart W. Smith and Kwek Yan Chong and Janice S. H. Lee and David A. Wardle
+  dataset_curators: Hao Ran Lai
+dataset:
+  data_is_long_format: yes
+  custom_R_code: .na
+  collection_date: 2020-07/2021-12
+  taxon_name: species
+  trait_name: trait_name
+  value: value
+  location_name: unknown
+  description:
+    Using senesced and fresh leaves of 22 swamp tree species in Singapore, we
+    conducted an in situ decomposition experiment and a laboratory flammability
+    experiment. We analysed 16 leaf physical and biochemical traits as
+    predictors of decomposability and components of flammability ---
+    combustibility, ignitability and sustainability.
+  basis_of_record: field
+  life_stage: adult
+  sampling_strategy:
+    Leaf material was collected from the Nee Soon freshwater swamp forest,
+    Singapore. Leaf litter for decomposition experiments, flammability
+    experiments and litter trait measurements was collected between July 2020
+    and January 2021 from 10 replicate 400m2 long-term vegetation plots (from a
+    total of 40 plots) established in 2013 (described in Chong et al., 2021; Lam
+    et al., 2021, 2022). Freshly fallen leaf litter was collected from 1m long x
+    1m wide litter traps suspended at least 1m above the ground on a fortnightly
+    basis (Lam et al., 2021). Leaf litter was sorted within 24h of collection
+    and identified to species from which 21 canopy tree species were selected
+    for the present study based on collection of sufficient leaf material for
+    filling litterbags. All litter was air-dried at 2decC for 1-8 wk until
+    reaching a constant equilibrium weight, which resulted in variable durations
+    of drying depending on species leaf litter size, shape and age. Air-dried
+    leaf litter was stored in air-tight containers in dry storage for a maximum
+    of 6 months before the commencement of decomposition experiments (in
+    December 2020) and a maximum of 10 months before flammability experiments
+    (in April-June 2021). We also collected fresh leaves for each species for
+    flammability experiments and functional leaf trait measurements. Fresh
+    leaves were collected in the field from 20 out of 21 species used in the
+    decomposition experiment between October and December 2021. Only Alstonia
+    pneumatophora Backer ex Den Berger was not collected due to difficulties in
+    accessing this rare species in Singapore. Instead, we added Campnosperma
+    auriculatum (Blume) Hook.f. in senesced and fresh leaf flammability
+    experiments and trait measurements. Leaves were obtained from trees using a
+    20-m extension pruner. In the laboratory, fresh leaves were sealed in
+    plastic bags at 4degC for 12 h to keep leaves saturated with water before
+    flammability experiments and trait measurements.
+  original_file: raw/functional_traits_untransformed_decomposition_flammability.csv
+  notes:
+    I used fresh leaf values for smouldering and flame durations. The authors
+    measured them on senesced leaves too, but I had to choose between fresh and
+    senesced values as the AusTraits dictionary does not distinguish the two.
+    There are also other decomposition and flamability traits worth revisitng.
+identifiers: .na
+locations: .na
+contexts: .na
+traits:
+  - var_in: Al_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_Al_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Ca_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_Ca_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Mg_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_Mg_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: K_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_K_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Fe_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_Fe_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Mn_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_Mn_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: P_sen
+    unit_in: ppm
+    trait_name: leaf_senesced_P_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: C_sen
+    unit_in: "%"
+    trait_name: leaf_senesced_C_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      Biochemical traits were measured from subsamples of pooled leaf litter and
+      oven-dried fresh leaves for each species. Leaves were first homogenized by
+      ball grinding (SPEX Sample Prep, Metuchen, NJ, USA) in stainless steel
+      containers (Smith et al., 2013). Three randomly selected replicate 2-5 g
+      subsamples per species and leaf type (fresh or senesced) were then
+      analysed for carbon and nitrogen using a Vario El Cube CHN elemental
+      analyser (Elementar, Langenselbold, Germany) using acetanilide (00401-5G;
+      Sigma-Aldrich) and mixed spice (MasterFoods, Singapore City, Singapore)
+      reference material for C and N concentrations.
+  - var_in: N_sen
+    unit_in: "%"
+    trait_name: leaf_senesced_N_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      Biochemical traits were measured from subsamples of pooled leaf litter and
+      oven-dried fresh leaves for each species. Leaves were first homogenized by
+      ball grinding (SPEX Sample Prep, Metuchen, NJ, USA) in stainless steel
+      containers (Smith et al., 2013). Three randomly selected replicate 2-5 g
+      subsamples per species and leaf type (fresh or senesced) were then
+      analysed for carbon and nitrogen using a Vario El Cube CHN elemental
+      analyser (Elementar, Langenselbold, Germany) using acetanilide (00401-5G;
+      Sigma-Aldrich) and mixed spice (MasterFoods, Singapore City, Singapore)
+      reference material for C and N concentrations.
+  - var_in: dpyr_fre
+    unit_in: s
+    trait_name: fire_flame_duration
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 10 or more
+    methods:
+      Air-dried senesced and water-saturated fresh leaf samples were burned
+      using a controlled experimental setup with a nonflaming epiradiator heat
+      source with a diameter 122 mm x 60 mm height x 290 mm length (534 RC 2;
+      Quartz Alliance, Villemer, France; Fig. S2). In total, we burned 497 leaf
+      samples, which constituted a minimum of 10 replicates per leaf type
+      (senesced and live) for each of the 21 species plus some additional burns.
+      A square 1.9 x 1.9 cm segment (mean weight +/- SD 0.06 +/- 0.02 g for
+      senesced leaves and 3.8 +/- 4.5 g for fresh leaves) was extracted from the
+      centre of each leaf that included the midrib. Segments were used as
+      opposed to whole leaves, to help standardize the quantity of fuel (plant
+      biomass) for each species and speed up the process of burning. In our
+      pilot trials, whole leaves took a long time (e.g. up to 30 min) to
+      completely burn (data not shown), in line with what was found by Simpson
+      et al. (2016) and the segment approach they adopted. Burning took place
+      inside a fumehood with a vertical air velocity of 0.51-0.54 m s-1 at c.
+      23.6degC ambient temperature. At the start of each burn, the temperature
+      of the epiradiator was raised to 400degC, a similar temperature to that
+      routinely used in laboratory flammability experiments, for example
+      Grootemaat et al. (2015); Simpson et al. (2016); Alam et al. (2019). Above
+      the epiradiator was a metal gauze mesh where the leaf subsection was
+      placed to burn, surrounded by three K-type thermocouples (5SC-GG-K-30-36;
+      Omega Engineering Inc., USA) positioned within 1 cm of the leaf segment
+      (Fig. S2). Three thermocouples were connected to a data logger
+      (RDXL6S-USB; Omega Engineering Inc., Singapore City, Singapore), and the
+      timing upon logging temperature was synchronized with timing of the video
+      footage that recorded the burn. All burns were video recorded using a
+      digital camera at 30 frames per second (OM-D E-M5 MK III with a 60 mm
+      f/2.8 macro lens; Olympus Corp., Tokyo, Japan). The temperature was
+      recorded for 2 min before placing the leaf segment on the gauze and for a
+      further 6 min after smouldering finished (Fig. S3). On average, an
+      experimental burn cycle took 548 +/- 60 s (mean +/- SD; Video S1). The
+      majority of burned leaf segments did not produce a flame, and instead, we
+      measured pyrolysis (glow) and smouldering (smoke), in an equivalent manner
+      to Alessio et al. (2008) and Murray et al. (2013).
+  - var_in: dsmo_fre
+    unit_in: s
+    trait_name: fire_smoulder_duration
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 10 or more
+    methods:
+      Air-dried senesced and water-saturated fresh leaf samples were burned
+      using a controlled experimental setup with a nonflaming epiradiator heat
+      source with a diameter 122 mm x 60 mm height x 290 mm length (534 RC 2;
+      Quartz Alliance, Villemer, France; Fig. S2). In total, we burned 497 leaf
+      samples, which constituted a minimum of 10 replicates per leaf type
+      (senesced and live) for each of the 21 species plus some additional burns.
+      A square 1.9 x 1.9 cm segment (mean weight +/- SD 0.06 +/- 0.02 g for
+      senesced leaves and 3.8 +/- 4.5 g for fresh leaves) was extracted from the
+      centre of each leaf that included the midrib. Segments were used as
+      opposed to whole leaves, to help standardize the quantity of fuel (plant
+      biomass) for each species and speed up the process of burning. In our
+      pilot trials, whole leaves took a long time (e.g. up to 30 min) to
+      completely burn (data not shown), in line with what was found by Simpson
+      et al. (2016) and the segment approach they adopted. Burning took place
+      inside a fumehood with a vertical air velocity of 0.51-0.54 m s-1 at c.
+      23.6degC ambient temperature. At the start of each burn, the temperature
+      of the epiradiator was raised to 400degC, a similar temperature to that
+      routinely used in laboratory flammability experiments, for example
+      Grootemaat et al. (2015); Simpson et al. (2016); Alam et al. (2019). Above
+      the epiradiator was a metal gauze mesh where the leaf subsection was
+      placed to burn, surrounded by three K-type thermocouples (5SC-GG-K-30-36;
+      Omega Engineering Inc., USA) positioned within 1 cm of the leaf segment
+      (Fig. S2). Three thermocouples were connected to a data logger
+      (RDXL6S-USB; Omega Engineering Inc., Singapore City, Singapore), and the
+      timing upon logging temperature was synchronized with timing of the video
+      footage that recorded the burn. All burns were video recorded using a
+      digital camera at 30 frames per second (OM-D E-M5 MK III with a 60 mm
+      f/2.8 macro lens; Olympus Corp., Tokyo, Japan). The temperature was
+      recorded for 2 min before placing the leaf segment on the gauze and for a
+      further 6 min after smouldering finished (Fig. S3). On average, an
+      experimental burn cycle took 548 +/- 60 s (mean +/- SD; Video S1). The
+      majority of burned leaf segments did not produce a flame, and instead, we
+      measured pyrolysis (glow) and smouldering (smoke), in an equivalent manner
+      to Alessio et al. (2008) and Murray et al. (2013).
+  - var_in: Al_fre
+    unit_in: ppm
+    trait_name: leaf_Al_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Ca_fre
+    unit_in: ppm
+    trait_name: leaf_Ca_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Mg_fre
+    unit_in: ppm
+    trait_name: leaf_Mg_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: K_fre
+    unit_in: ppm
+    trait_name: leaf_K_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Fe_fre
+    unit_in: ppm
+    trait_name: leaf_Fe_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: Mn_fre
+    unit_in: ppm
+    trait_name: leaf_Mn_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: P_fre
+    unit_in: ppm
+    trait_name: leaf_P_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      For all other biochemical concentrations, two pooled samples for each
+      species, one for senesced and one for fresh leaves, were analysed for
+      macro- and micronutrients --- phosphorus (P), potassium (K), calcium (Ca),
+      iron (Fe), magnesium (Mg), manganese (Mn), aluminium (Al), silicon (Si)
+      using inductively coupled plasma - optical emission spectrometry (ICP-OES)
+      and high-purity standard references for each element (High-Purity
+      Standards, accredited by ANIS National Accreditation Board). Before
+      ICP-OES analysis, 50 mg subsamples were digested in mixtures of 1.5 ml
+      67-69% nitric acid and 0.25 ml 47=51% hydrofluoric acid in a microwave
+      digester at 180 deg C for 1 min to ensure complete digestion (i.e. a clear
+      solution obtained) and then topped up with H2O to 10 ml before injection
+      into an Avio 500 ICP-OES (PerkinElmer Inc., Waltham, MA, USA).
+  - var_in: C_fre
+    unit_in: "%"
+    trait_name: leaf_C_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      Biochemical traits were measured from subsamples of pooled leaf litter and
+      oven-dried fresh leaves for each species. Leaves were first homogenized by
+      ball grinding (SPEX Sample Prep, Metuchen, NJ, USA) in stainless steel
+      containers (Smith et al., 2013). Three randomly selected replicate 2-5 g
+      subsamples per species and leaf type (fresh or senesced) were then
+      analysed for carbon and nitrogen using a Vario El Cube CHN elemental
+      analyser (Elementar, Langenselbold, Germany) using acetanilide (00401-5G;
+      Sigma-Aldrich) and mixed spice (MasterFoods, Singapore City, Singapore)
+      reference material for C and N concentrations.
+  - var_in: N_fre
+    unit_in: "%"
+    trait_name: leaf_N_per_dry_mass
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 1
+    methods:
+      Biochemical traits were measured from subsamples of pooled leaf litter and
+      oven-dried fresh leaves for each species. Leaves were first homogenized by
+      ball grinding (SPEX Sample Prep, Metuchen, NJ, USA) in stainless steel
+      containers (Smith et al., 2013). Three randomly selected replicate 2-5 g
+      subsamples per species and leaf type (fresh or senesced) were then
+      analysed for carbon and nitrogen using a Vario El Cube CHN elemental
+      analyser (Elementar, Langenselbold, Germany) using acetanilide (00401-5G;
+      Sigma-Aldrich) and mixed spice (MasterFoods, Singapore City, Singapore)
+      reference material for C and N concentrations.
+  - var_in: SLA
+    unit_in: cm2/g
+    trait_name: leaf_mass_per_area
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 3-5 individuals each with at least 10 leaves
+    methods:
+      For each species, leaf litter was pooled from a minimum of three separate
+      months of collection, and fresh leaf material was collected from between
+      three and five individual trees per species. Leaf physical traits were
+      measured on a minimum of 10 fresh leaves per species. The physical traits
+      examined were specific leaf area (SLA), leaf thickness (LT), leaf dry
+      matter content (LDMC; percentage nonmoisture content of a leaf from the
+      field), SAV ratio and fuel moisture content (FMC; percentage moisture
+      content of a fresh leaf saturated with water by soaking), which were
+      measured using standard protocols described in Pérez-Harguindeguy et al.
+      (2013) and Grootemaat et al. (2015).
+  - var_in: LDMC
+    unit_in: mg/g
+    trait_name: leaf_dry_matter_content
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 3-5 individuals each with at least 10 leaves
+    methods:
+      For each species, leaf litter was pooled from a minimum of three separate
+      months of collection, and fresh leaf material was collected from between
+      three and five individual trees per species. Leaf physical traits were
+      measured on a minimum of 10 fresh leaves per species. The physical traits
+      examined were specific leaf area (SLA), leaf thickness (LT), leaf dry
+      matter content (LDMC; percentage nonmoisture content of a leaf from the
+      field), SAV ratio and fuel moisture content (FMC; percentage moisture
+      content of a fresh leaf saturated with water by soaking), which were
+      measured using standard protocols described in Pérez-Harguindeguy et al.
+      (2013) and Grootemaat et al. (2015).
+  - var_in: LT
+    unit_in: mm
+    trait_name: leaf_thickness
+    entity_type: species
+    value_type: mean
+    basis_of_value: measurement
+    replicates: 3-5 individuals each with at least 10 leaves
+    methods:
+      For each species, leaf litter was pooled from a minimum of three separate
+      months of collection, and fresh leaf material was collected from between
+      three and five individual trees per species. Leaf physical traits were
+      measured on a minimum of 10 fresh leaves per species. The physical traits
+      examined were specific leaf area (SLA), leaf thickness (LT), leaf dry
+      matter content (LDMC; percentage nonmoisture content of a leaf from the
+      field), SAV ratio and fuel moisture content (FMC; percentage moisture
+      content of a fresh leaf saturated with water by soaking), which were
+      measured using standard protocols described in Pérez-Harguindeguy et al.
+      (2013) and Grootemaat et al. (2015).
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions:
+  The supplementary table S3 in the publication had SLA in unit of cm2, I
+  presumed that this is a typo and should be cm2/g as in the main text. The
+  values match the x axis in Fig. 1e.
