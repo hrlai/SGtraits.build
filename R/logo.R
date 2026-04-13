@@ -8,7 +8,7 @@ sticker(
   p_color = "white",
   s_x = 1.1,
   s_y = 1,
-  s_width = 0.55,
+  s_width = 0.57,
   h_fill = "#EE2536",
   h_color = "white",
   filename = "inst/figures/logo.png",
